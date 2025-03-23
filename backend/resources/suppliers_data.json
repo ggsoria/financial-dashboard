@@ -1,0 +1,50 @@
+[
+    {
+        "id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+        "name": "Proveedor A"
+    },
+    {
+        "id": "0839410e-3082-4139-ae05-bb3a413707bc",
+        "name": "Proveedor B"
+    },
+    {
+        "id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+        "name": "Proveedor C"
+    },
+    {
+        "id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+        "name": "Proveedor D"
+    },
+    {
+        "id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+        "name": "Proveedor E"
+    },
+    {
+        "id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+        "name": "Proveedor F"
+    },
+    {
+        "id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+        "name": "Proveedor G"
+    },
+    {
+        "id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+        "name": "Proveedor H"
+    },
+    {
+        "id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+        "name": "Proveedor I"
+    },
+    {
+        "id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+        "name": "Proveedor J"
+    },
+    {
+        "id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+        "name": "Proveedor K"
+    },
+    {
+        "id": "c09d304c-d949-43b6-a398-00191ae60e52",
+        "name": "Proveedor L"
+    }
+]

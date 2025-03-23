@@ -1,0 +1,4004 @@
+{
+    "sales": [
+        {
+            "id": "617ce586-c29e-45b7-a392-5ff7e8874d13",
+            "amount": 243.92,
+            "currency": "ARS",
+            "date": "2025-03-03",
+            "product": "Disco SSD",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "466167d1-1cae-4588-9d44-3a0199289ca7",
+            "amount": 732.28,
+            "currency": "USD",
+            "date": "2025-05-25",
+            "product": "Proyector",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "f3631dfe-8069-4656-8646-ef2ceba28719",
+            "amount": 1161.11,
+            "currency": "ARS",
+            "date": "2025-07-11",
+            "product": "Monitor 24",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "0d4b32cf-0049-4866-a405-859a51a4aa99",
+            "amount": 865.24,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "product": "Disco SSD",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "1ca3ee23-196f-4c3a-88e0-3e0aa371c162",
+            "amount": 269.51,
+            "currency": "ARS",
+            "date": "2025-10-06",
+            "product": "Mouse Gamer",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "1bf7be7b-3c8a-4c59-bad9-477d9465817b",
+            "amount": 723.42,
+            "currency": "ARS",
+            "date": "2025-10-08",
+            "product": "Cámara Web",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "a608a00b-5d85-4a88-b1e1-987cc62611e5",
+            "amount": 764.78,
+            "currency": "USD",
+            "date": "2025-02-23",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "d76a8c91-1677-4282-8049-6c5567c6b1b1",
+            "amount": 152.93,
+            "currency": "USD",
+            "date": "2025-09-02",
+            "product": "Impresora Láser",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "4f3da994-b108-4437-b738-68bc1f099225",
+            "amount": 969.34,
+            "currency": "ARS",
+            "date": "2025-03-17",
+            "product": "Smartphone",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "45995d41-2608-4786-9f01-5acd1bfc057b",
+            "amount": 699.33,
+            "currency": "ARS",
+            "date": "2025-06-19",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "e0550e07-94a2-4a3d-bb04-305001d12822",
+            "amount": 1988.3,
+            "currency": "USD",
+            "date": "2025-03-04",
+            "product": "Disco SSD",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "927fa023-77a9-4ce5-9a68-83992bc5929c",
+            "amount": 81.38,
+            "currency": "USD",
+            "date": "2025-07-31",
+            "product": "Notebook",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "8a121e13-6897-48c3-bdb0-bcd41a57cfef",
+            "amount": 1610.22,
+            "currency": "ARS",
+            "date": "2025-05-30",
+            "product": "Auriculares",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "c46ae229-b73d-478f-9af5-11a918396dad",
+            "amount": 272.39,
+            "currency": "ARS",
+            "date": "2025-02-24",
+            "product": "Teclado Mecánico",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "c60f6f04-012e-4a15-b0d7-90c8e4da9bf6",
+            "amount": 1078.76,
+            "currency": "USD",
+            "date": "2025-12-26",
+            "product": "Auriculares",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "6ca13112-ee90-4cba-a219-d1c67c5199fd",
+            "amount": 1133.23,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "product": "Auriculares",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "8191d4a9-258c-4587-82da-3ef3fe189ee4",
+            "amount": 1338.91,
+            "currency": "USD",
+            "date": "2025-12-15",
+            "product": "Cámara Web",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "66581b6f-51b2-40d0-95b7-b6ce3579c6bf",
+            "amount": 1917.25,
+            "currency": "ARS",
+            "date": "2025-02-05",
+            "product": "Mouse Gamer",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "746bb7e8-0691-408e-a5ed-6e11459e6699",
+            "amount": 384.69,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "product": "Proyector",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "b723e280-96e5-4c51-8bc2-ed3966db3070",
+            "amount": 340.78,
+            "currency": "ARS",
+            "date": "2025-09-20",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "731f1008-3f5d-4a7e-8f66-7fbd80ba3269",
+            "amount": 1738.35,
+            "currency": "ARS",
+            "date": "2025-11-20",
+            "product": "Teclado Mecánico",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "818d8a1a-13da-4814-bf84-1b460e6216bf",
+            "amount": 1634.74,
+            "currency": "ARS",
+            "date": "2025-11-27",
+            "product": "Monitor 24",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "96834d9e-fa16-4368-bf2a-2dbfea2dfd88",
+            "amount": 657.95,
+            "currency": "USD",
+            "date": "2025-10-14",
+            "product": "Cámara Web",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "9f8a4658-ba3d-4ed2-a118-e61a21debc8e",
+            "amount": 313.29,
+            "currency": "ARS",
+            "date": "2025-01-21",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "8216e0f0-b40b-4205-a207-746e261788e4",
+            "amount": 684.1,
+            "currency": "ARS",
+            "date": "2025-05-05",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "6072324e-f884-4688-904f-15abcd2abd86",
+            "amount": 947.48,
+            "currency": "ARS",
+            "date": "2025-09-04",
+            "product": "Tablet",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "7d4edf54-8321-4a63-8a60-5c8240019843",
+            "amount": 658.7,
+            "currency": "USD",
+            "date": "2025-09-22",
+            "product": "Impresora Láser",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "d7571399-1dcf-4c89-9b1a-bd2b25a2d9eb",
+            "amount": 552.24,
+            "currency": "USD",
+            "date": "2025-12-14",
+            "product": "Monitor 24",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "885d3874-701c-47cd-b587-71571a33321b",
+            "amount": 1872.3,
+            "currency": "USD",
+            "date": "2025-08-30",
+            "product": "Teclado Mecánico",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "3eb3c5aa-6ade-467b-b9f4-68a8fe49d61b",
+            "amount": 1612.9,
+            "currency": "USD",
+            "date": "2025-01-15",
+            "product": "Mouse Gamer",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "80c85b76-0171-41ca-a56b-060264a3610a",
+            "amount": 740.24,
+            "currency": "USD",
+            "date": "2025-02-02",
+            "product": "Disco SSD",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "8e89b409-ec54-4a75-9917-af900a8b1c48",
+            "amount": 1255.07,
+            "currency": "USD",
+            "date": "2025-12-08",
+            "product": "Teclado Mecánico",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "fa0b9d18-c4f4-4716-a353-c28a3bae1b6c",
+            "amount": 636.76,
+            "currency": "USD",
+            "date": "2025-03-13",
+            "product": "Disco SSD",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "1343526d-b54a-4282-b752-762effcfc383",
+            "amount": 983.93,
+            "currency": "USD",
+            "date": "2025-03-23",
+            "product": "Proyector",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "aff35551-8e34-48a3-b639-965cf331f964",
+            "amount": 1025.38,
+            "currency": "USD",
+            "date": "2025-10-24",
+            "product": "Disco SSD",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "13e4819c-6db6-480a-9caf-393859161f06",
+            "amount": 1253.55,
+            "currency": "ARS",
+            "date": "2025-03-30",
+            "product": "Auriculares",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "77d1b539-661e-4b6e-8544-0596d456ef19",
+            "amount": 971.24,
+            "currency": "USD",
+            "date": "2025-08-31",
+            "product": "Monitor 24",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "0b8b0a1f-f281-4361-9bb7-9072c67a2176",
+            "amount": 624.8,
+            "currency": "USD",
+            "date": "2025-04-22",
+            "product": "Cámara Web",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "68c3efb1-5430-4001-a3f9-65a1d5f77c99",
+            "amount": 916.75,
+            "currency": "USD",
+            "date": "2025-05-30",
+            "product": "Auriculares",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "2f665112-63c2-4f98-b9db-dc3ed2372b6e",
+            "amount": 1429.81,
+            "currency": "USD",
+            "date": "2025-10-03",
+            "product": "Mouse Gamer",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "9f6db6de-fcce-4d93-ab1d-df8bc188f1e3",
+            "amount": 1997.4,
+            "currency": "USD",
+            "date": "2025-04-10",
+            "product": "Tablet",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "d713b35a-6718-4643-b94d-8b3e8c0b143f",
+            "amount": 750.03,
+            "currency": "USD",
+            "date": "2025-04-23",
+            "product": "Disco SSD",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "f89bec36-110a-4ad4-bea4-f1e667095fcc",
+            "amount": 660.96,
+            "currency": "USD",
+            "date": "2025-07-11",
+            "product": "Cámara Web",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "f11fd87e-834f-4ab2-8213-5780d9c4590d",
+            "amount": 1000.88,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "product": "Teclado Mecánico",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "c21eca22-2f15-4201-b8e5-c9cd99aaf549",
+            "amount": 1462.8,
+            "currency": "ARS",
+            "date": "2025-02-07",
+            "product": "Smartphone",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "1c6d5bb4-e504-4e9b-a0a0-69172a6ed49a",
+            "amount": 1933.58,
+            "currency": "USD",
+            "date": "2025-11-06",
+            "product": "Tablet",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "399e4db3-4d0b-4019-88fb-569231e04791",
+            "amount": 1218.15,
+            "currency": "USD",
+            "date": "2025-07-28",
+            "product": "Cámara Web",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "3bc9430e-665c-46ec-a3d6-88a8d8b6c8ff",
+            "amount": 441.13,
+            "currency": "USD",
+            "date": "2025-01-02",
+            "product": "Impresora Láser",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "47b96244-947e-40a7-9b9c-5cc7e1918a83",
+            "amount": 1891.23,
+            "currency": "ARS",
+            "date": "2025-09-21",
+            "product": "Tablet",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "9d340837-1620-4473-be39-5765fdf58855",
+            "amount": 524.63,
+            "currency": "ARS",
+            "date": "2025-05-16",
+            "product": "Proyector",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "8caa8ded-a520-4364-afa6-91fbbe133f7e",
+            "amount": 1291.25,
+            "currency": "USD",
+            "date": "2025-12-14",
+            "product": "Smartphone",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "f945a545-785e-4054-a641-0cba4ea3e94e",
+            "amount": 1669.92,
+            "currency": "USD",
+            "date": "2025-11-14",
+            "product": "Tablet",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "26dd8ea7-362d-435a-b9d1-5e809704dc3a",
+            "amount": 517.06,
+            "currency": "USD",
+            "date": "2025-08-24",
+            "product": "Mouse Gamer",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "73576c76-ae05-405e-a2f7-c980b87f3492",
+            "amount": 1946.66,
+            "currency": "ARS",
+            "date": "2025-02-21",
+            "product": "Disco SSD",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "d2f5defb-3e33-4a47-bbc2-f6e5707cdd83",
+            "amount": 741.34,
+            "currency": "USD",
+            "date": "2025-03-01",
+            "product": "Auriculares",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "275207ec-25d5-45d3-854d-9946d2559471",
+            "amount": 225.28,
+            "currency": "USD",
+            "date": "2025-09-17",
+            "product": "Auriculares",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "caae1c20-1b43-459d-8bb9-a929241152fb",
+            "amount": 111.77,
+            "currency": "USD",
+            "date": "2025-04-20",
+            "product": "Tablet",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "0cc27bf8-c5c0-48e1-ba3d-40f9ca3c1228",
+            "amount": 1160.14,
+            "currency": "USD",
+            "date": "2025-02-16",
+            "product": "Notebook",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "c176bfc2-692a-46de-89de-74ab5df05734",
+            "amount": 1189.36,
+            "currency": "USD",
+            "date": "2025-11-25",
+            "product": "Disco SSD",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "1898eef2-1256-4b98-ace7-35ef9ad1955e",
+            "amount": 582.33,
+            "currency": "ARS",
+            "date": "2025-10-24",
+            "product": "Teclado Mecánico",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "70530319-fdb8-4143-b810-91610d5b4e1c",
+            "amount": 425.9,
+            "currency": "USD",
+            "date": "2025-06-01",
+            "product": "Cámara Web",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "58890851-b837-48a3-bd14-aebe554e084a",
+            "amount": 779.62,
+            "currency": "USD",
+            "date": "2025-11-07",
+            "product": "Smartphone",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "428fa03d-8ab7-48e3-8c20-018e9d544647",
+            "amount": 783.29,
+            "currency": "ARS",
+            "date": "2025-05-21",
+            "product": "Notebook",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "e753ee27-7ba4-4f75-b550-be3472d1816a",
+            "amount": 664.56,
+            "currency": "USD",
+            "date": "2025-10-27",
+            "product": "Monitor 24",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "6ead0fa7-0a71-4f8e-b405-f9a542e31249",
+            "amount": 695.29,
+            "currency": "ARS",
+            "date": "2025-07-16",
+            "product": "Monitor 24",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "135953b3-7c98-4ecc-9c38-d0e69c995d73",
+            "amount": 1242.44,
+            "currency": "ARS",
+            "date": "2025-04-20",
+            "product": "Auriculares",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "4e6d805b-628a-4c89-8834-5312be07a34e",
+            "amount": 802.67,
+            "currency": "USD",
+            "date": "2025-03-22",
+            "product": "Disco SSD",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "626d9e2e-6bcb-44ef-afd1-bf8e8bad266f",
+            "amount": 1235.88,
+            "currency": "ARS",
+            "date": "2025-09-26",
+            "product": "Notebook",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "e50c4785-1d89-4b86-890f-5daf957178b2",
+            "amount": 1966.13,
+            "currency": "ARS",
+            "date": "2025-05-18",
+            "product": "Notebook",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "94710f11-5a30-4790-a4aa-ceba8950d208",
+            "amount": 557.83,
+            "currency": "USD",
+            "date": "2025-07-09",
+            "product": "Smartphone",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "99dff8d7-9ba8-46cd-91e7-bb35faaa83b0",
+            "amount": 1910.71,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "product": "Disco SSD",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "079502fa-d497-4b79-b528-ead136a86208",
+            "amount": 770.66,
+            "currency": "ARS",
+            "date": "2025-09-10",
+            "product": "Proyector",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "e5822b4c-12d3-4fe2-95a0-ba5e76458c2a",
+            "amount": 1706.73,
+            "currency": "USD",
+            "date": "2025-03-09",
+            "product": "Smartphone",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "e0557c7b-c063-4fd8-8239-29ec60c26025",
+            "amount": 1925.55,
+            "currency": "USD",
+            "date": "2025-12-12",
+            "product": "Disco SSD",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "294549a3-767d-4adc-8dff-451d3f7aba35",
+            "amount": 859.99,
+            "currency": "ARS",
+            "date": "2025-05-06",
+            "product": "Proyector",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "6835f61f-a5a3-4720-939b-749e80a33193",
+            "amount": 1846.16,
+            "currency": "ARS",
+            "date": "2025-01-24",
+            "product": "Auriculares",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "dbd7fa11-8fea-4ca4-80a5-549fce36121d",
+            "amount": 129.38,
+            "currency": "ARS",
+            "date": "2025-03-10",
+            "product": "Mouse Gamer",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "c69cbd8f-cee7-4b04-955f-5d7c0479c452",
+            "amount": 282.76,
+            "currency": "USD",
+            "date": "2025-07-25",
+            "product": "Proyector",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "d20fc784-c368-44a0-a836-a607ab998118",
+            "amount": 738.36,
+            "currency": "ARS",
+            "date": "2025-09-23",
+            "product": "Teclado Mecánico",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "15f2a529-bcd2-4ed0-8f4d-cf98fda1e6d9",
+            "amount": 276.43,
+            "currency": "USD",
+            "date": "2025-08-30",
+            "product": "Notebook",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "42d85126-ff3e-4bdd-8263-ed81d336acce",
+            "amount": 1087.4,
+            "currency": "ARS",
+            "date": "2025-04-24",
+            "product": "Notebook",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "a199dffa-ffe6-43cc-9298-772c10d36e05",
+            "amount": 1467.84,
+            "currency": "ARS",
+            "date": "2025-05-23",
+            "product": "Tablet",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "f2f65aac-4c20-402f-a635-2bee72a8649d",
+            "amount": 1361.3,
+            "currency": "ARS",
+            "date": "2025-06-07",
+            "product": "Auriculares",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "6310578f-ba08-4c8f-8921-c59721b45d7f",
+            "amount": 348.82,
+            "currency": "ARS",
+            "date": "2025-03-28",
+            "product": "Tablet",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "bbab6bbd-f965-4fac-b743-300f4e4eb490",
+            "amount": 904.27,
+            "currency": "USD",
+            "date": "2025-04-08",
+            "product": "Smartphone",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "483dd2bc-b56d-432b-85e5-2e073f994d67",
+            "amount": 959.97,
+            "currency": "ARS",
+            "date": "2025-05-27",
+            "product": "Impresora Láser",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "a16b5578-3f4e-4b7d-afdf-5ae6a393f0a4",
+            "amount": 1484.88,
+            "currency": "ARS",
+            "date": "2025-07-03",
+            "product": "Mouse Gamer",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "6d593d88-ea23-4fda-813e-580f5822fa98",
+            "amount": 251.82,
+            "currency": "USD",
+            "date": "2025-10-17",
+            "product": "Auriculares",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "c3c72389-973e-418f-9ff8-0ab71a891fa5",
+            "amount": 843.23,
+            "currency": "USD",
+            "date": "2025-03-12",
+            "product": "Impresora Láser",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "2f986fbf-97b4-4a7d-b5bd-46922c00f41c",
+            "amount": 1062.65,
+            "currency": "ARS",
+            "date": "2025-12-19",
+            "product": "Smartphone",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "5781a054-a61c-4329-8ec6-93b67d504ad3",
+            "amount": 1849.21,
+            "currency": "USD",
+            "date": "2025-06-17",
+            "product": "Teclado Mecánico",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "03a819db-4e48-43eb-a47d-568520a6eee9",
+            "amount": 662.75,
+            "currency": "ARS",
+            "date": "2025-10-26",
+            "product": "Cámara Web",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "ad296fd1-404b-40fb-bf51-1eb1da582411",
+            "amount": 534.4,
+            "currency": "ARS",
+            "date": "2025-01-13",
+            "product": "Disco SSD",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "f5366e8c-bdac-4f3c-a573-9964a5c13898",
+            "amount": 1957.14,
+            "currency": "USD",
+            "date": "2025-03-25",
+            "product": "Monitor 24",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "1d592fc4-1d2e-42c0-9826-23a84fe09338",
+            "amount": 84.35,
+            "currency": "USD",
+            "date": "2025-07-17",
+            "product": "Cámara Web",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "c8416041-a727-4801-9fd7-7ba14f8d7922",
+            "amount": 259.29,
+            "currency": "USD",
+            "date": "2025-04-05",
+            "product": "Proyector",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "f34bbb71-3662-436b-835f-7a2ae3b769be",
+            "amount": 1580.73,
+            "currency": "USD",
+            "date": "2025-02-26",
+            "product": "Impresora Láser",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "43c97f29-9db8-4a65-a1c2-4ffb10a09ebc",
+            "amount": 1602.09,
+            "currency": "ARS",
+            "date": "2025-12-04",
+            "product": "Tablet",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "be1da871-bc87-479f-a734-dcb7df5f0b12",
+            "amount": 506.55,
+            "currency": "USD",
+            "date": "2025-05-21",
+            "product": "Teclado Mecánico",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "3a9d2e69-8c5e-4858-a9fe-017fd60b53ce",
+            "amount": 66.56,
+            "currency": "USD",
+            "date": "2025-07-02",
+            "product": "Disco SSD",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "cdda1d5f-a7cc-4802-9427-2f96b7d03039",
+            "amount": 191.81,
+            "currency": "USD",
+            "date": "2025-05-08",
+            "product": "Mouse Gamer",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "35274ae9-fc18-457a-aba7-2df650fa0540",
+            "amount": 1244.8,
+            "currency": "ARS",
+            "date": "2025-05-04",
+            "product": "Tablet",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "f8262d5b-5267-4822-a501-f44a15a9b348",
+            "amount": 1080.33,
+            "currency": "USD",
+            "date": "2025-12-11",
+            "product": "Proyector",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "02ac060d-290c-43e1-b7b5-c90cb7ebb0b6",
+            "amount": 1504.56,
+            "currency": "ARS",
+            "date": "2025-02-11",
+            "product": "Proyector",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "0ac5e162-14ee-4657-a3fc-10117a8bcc52",
+            "amount": 1181.33,
+            "currency": "USD",
+            "date": "2025-04-24",
+            "product": "Mouse Gamer",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "1f8a5355-1790-417d-a889-99c624ce0176",
+            "amount": 473.43,
+            "currency": "ARS",
+            "date": "2025-01-12",
+            "product": "Impresora Láser",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "b5ebe3fd-8f30-4d06-969c-c4e5963df4bc",
+            "amount": 1577.75,
+            "currency": "ARS",
+            "date": "2025-08-06",
+            "product": "Impresora Láser",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "5bfbf6ad-b3be-4e4d-b3c3-a2a281f2d775",
+            "amount": 1493.03,
+            "currency": "USD",
+            "date": "2025-08-23",
+            "product": "Auriculares",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "95b409b0-c4df-4b13-9236-0d75246b3e8e",
+            "amount": 243.22,
+            "currency": "USD",
+            "date": "2025-06-12",
+            "product": "Auriculares",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "0b6f9a65-6967-4dde-8fa0-2b971806f7b6",
+            "amount": 811.03,
+            "currency": "USD",
+            "date": "2025-11-10",
+            "product": "Auriculares",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "eb2f5eff-381e-48aa-b4e3-ef0dec2b336a",
+            "amount": 943.53,
+            "currency": "ARS",
+            "date": "2025-10-29",
+            "product": "Cámara Web",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "f3373985-806e-470c-83c1-e0810595994d",
+            "amount": 1573.31,
+            "currency": "USD",
+            "date": "2025-12-17",
+            "product": "Mouse Gamer",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "645431cc-cb0a-4474-8606-3f5d31ddd642",
+            "amount": 269.05,
+            "currency": "ARS",
+            "date": "2025-12-25",
+            "product": "Mouse Gamer",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "86c530d4-55fe-499c-a28f-8580d1808a7c",
+            "amount": 1798.9,
+            "currency": "ARS",
+            "date": "2025-02-24",
+            "product": "Teclado Mecánico",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "357e30a7-1d27-45bf-86b0-3181f1d69375",
+            "amount": 627.7,
+            "currency": "ARS",
+            "date": "2025-10-18",
+            "product": "Smartphone",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "76fb09bb-ab18-4ebc-8966-0226e30201f9",
+            "amount": 1092.72,
+            "currency": "ARS",
+            "date": "2025-05-20",
+            "product": "Smartphone",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "f81903e4-9ab9-4f21-8469-87b7cee2be1a",
+            "amount": 1104.64,
+            "currency": "USD",
+            "date": "2025-05-10",
+            "product": "Smartphone",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "a3620a62-4d59-4c30-8677-32c4cba4e153",
+            "amount": 672.33,
+            "currency": "USD",
+            "date": "2025-11-04",
+            "product": "Smartphone",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "081eb955-03b6-4e25-9fe8-c4fa7390349b",
+            "amount": 1130.57,
+            "currency": "USD",
+            "date": "2025-12-23",
+            "product": "Smartphone",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "55748ca6-e321-4e9b-892c-a26a28a3e8a3",
+            "amount": 561.45,
+            "currency": "ARS",
+            "date": "2025-07-03",
+            "product": "Disco SSD",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "a713d731-37d8-44e6-840d-67ca7a014c90",
+            "amount": 633.09,
+            "currency": "ARS",
+            "date": "2025-03-22",
+            "product": "Smartphone",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "5173e097-a84c-4406-bcb7-50ec00d61d61",
+            "amount": 1629.14,
+            "currency": "ARS",
+            "date": "2025-10-15",
+            "product": "Teclado Mecánico",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "3e3dbae8-4f15-4ea2-87d3-839b4c937785",
+            "amount": 868.44,
+            "currency": "USD",
+            "date": "2025-07-24",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "e676e03b-d5e7-4f6b-b0a8-3949850298f7",
+            "amount": 1439.78,
+            "currency": "ARS",
+            "date": "2025-09-09",
+            "product": "Teclado Mecánico",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "4c9e290f-cac6-40eb-b65d-b1f047f76087",
+            "amount": 1506.52,
+            "currency": "USD",
+            "date": "2025-08-19",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "fb83043a-8cb3-49d2-94a4-6045b92e48de",
+            "amount": 1292.14,
+            "currency": "ARS",
+            "date": "2025-07-20",
+            "product": "Auriculares",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "1e9af6e6-1362-4d7c-b82d-8ad821b8efc3",
+            "amount": 500.1,
+            "currency": "ARS",
+            "date": "2025-02-27",
+            "product": "Impresora Láser",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "b4787480-ca98-4c1c-8476-d1937522ef1b",
+            "amount": 1033.54,
+            "currency": "USD",
+            "date": "2025-01-16",
+            "product": "Tablet",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "cc5f6ed0-c108-4e24-be91-ffc13f1d3e45",
+            "amount": 399.08,
+            "currency": "USD",
+            "date": "2025-01-28",
+            "product": "Disco SSD",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "69ab2029-15e2-49e6-b354-e551c58a5214",
+            "amount": 328.84,
+            "currency": "ARS",
+            "date": "2025-03-19",
+            "product": "Proyector",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "8445aa81-6657-4750-9470-81ceaba018c1",
+            "amount": 1806.58,
+            "currency": "USD",
+            "date": "2025-07-27",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "304102a2-1a98-47c8-867b-7ec7c15f8e8a",
+            "amount": 618.35,
+            "currency": "USD",
+            "date": "2025-09-14",
+            "product": "Auriculares",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "568d5bf1-00e1-4321-9d3b-25c225e44467",
+            "amount": 66.12,
+            "currency": "ARS",
+            "date": "2025-02-16",
+            "product": "Cámara Web",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "16e77197-13c4-4d0f-b23d-3491c8cd8745",
+            "amount": 639.48,
+            "currency": "USD",
+            "date": "2025-05-17",
+            "product": "Monitor 24",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "fc6a674e-9bd6-4816-8239-fd45049c4db2",
+            "amount": 720.18,
+            "currency": "ARS",
+            "date": "2025-02-23",
+            "product": "Monitor 24",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "af84d147-1084-40fa-a3b8-9ba3ac398a8e",
+            "amount": 1429.58,
+            "currency": "ARS",
+            "date": "2025-05-16",
+            "product": "Impresora Láser",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "61629252-5bac-414a-af1e-d45018409c54",
+            "amount": 682.19,
+            "currency": "ARS",
+            "date": "2025-01-24",
+            "product": "Teclado Mecánico",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "78c29675-48ea-4588-b3f8-b2a926ca3a64",
+            "amount": 739.35,
+            "currency": "USD",
+            "date": "2025-03-09",
+            "product": "Mouse Gamer",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "7cd690a0-cc35-47c8-8f09-8a207212d112",
+            "amount": 605.57,
+            "currency": "ARS",
+            "date": "2025-08-30",
+            "product": "Mouse Gamer",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "73ea6498-3498-4357-a133-db5da7af20d0",
+            "amount": 463.48,
+            "currency": "ARS",
+            "date": "2025-01-18",
+            "product": "Proyector",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "e5a7b09e-4743-4c72-8c66-6402e8019d5d",
+            "amount": 499.84,
+            "currency": "ARS",
+            "date": "2025-05-02",
+            "product": "Smartphone",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "01951382-3a9b-4e44-bdaf-1b000de39b4a",
+            "amount": 53.78,
+            "currency": "ARS",
+            "date": "2025-10-17",
+            "product": "Tablet",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "00563b7c-839b-4272-a403-bb8012996c75",
+            "amount": 1934.32,
+            "currency": "USD",
+            "date": "2025-02-25",
+            "product": "Notebook",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "7f5d0500-a61a-43d4-8238-90e2a17b1859",
+            "amount": 1654.77,
+            "currency": "USD",
+            "date": "2025-04-16",
+            "product": "Disco SSD",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "60790ff6-449a-4d42-948d-6b47a2b8ec68",
+            "amount": 525.23,
+            "currency": "USD",
+            "date": "2025-05-12",
+            "product": "Impresora Láser",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "e07d8017-9bc7-4859-a9c7-697ffeed3a2c",
+            "amount": 563.5,
+            "currency": "USD",
+            "date": "2025-01-02",
+            "product": "Teclado Mecánico",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "8c11f7f5-65d4-49db-8e8f-6b920c49dc0b",
+            "amount": 1693.88,
+            "currency": "ARS",
+            "date": "2025-06-02",
+            "product": "Cámara Web",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "5a73e234-1569-4a5c-9ba8-a2d162af4e32",
+            "amount": 289.75,
+            "currency": "ARS",
+            "date": "2025-02-14",
+            "product": "Monitor 24",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "59a0e2b1-e1b1-41d9-859e-fa52ff1b6915",
+            "amount": 1801.97,
+            "currency": "USD",
+            "date": "2025-07-22",
+            "product": "Smartphone",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "7e19ffb9-4172-4c78-80cd-c50a32d224b4",
+            "amount": 414.63,
+            "currency": "USD",
+            "date": "2025-08-16",
+            "product": "Smartphone",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "03685871-a6ab-4f5c-bdcf-55cb9a78d625",
+            "amount": 1108.92,
+            "currency": "USD",
+            "date": "2025-04-03",
+            "product": "Impresora Láser",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "35e119a1-d7a2-4a58-9a48-8517ec01ad3d",
+            "amount": 323.28,
+            "currency": "USD",
+            "date": "2025-02-20",
+            "product": "Mouse Gamer",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "4d3b7886-0465-4d32-84ab-5ad5adde0630",
+            "amount": 1605.2,
+            "currency": "USD",
+            "date": "2025-08-31",
+            "product": "Mouse Gamer",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "59ef7199-a834-4f25-a4e1-d568cc1bb654",
+            "amount": 422.73,
+            "currency": "USD",
+            "date": "2025-11-24",
+            "product": "Tablet",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "edc85e12-bab2-49f5-a7d9-69ae9bbf2fe5",
+            "amount": 1386.42,
+            "currency": "ARS",
+            "date": "2025-07-31",
+            "product": "Proyector",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "a5430011-c21d-48d7-a71c-318fea6394ea",
+            "amount": 1012.56,
+            "currency": "ARS",
+            "date": "2025-01-01",
+            "product": "Notebook",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "683d226c-e9b6-4081-8e48-aa468aa0c984",
+            "amount": 1972.15,
+            "currency": "USD",
+            "date": "2025-12-27",
+            "product": "Auriculares",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "d0adc830-607a-4ebc-a680-2bb22d3d5256",
+            "amount": 1449.78,
+            "currency": "USD",
+            "date": "2025-09-07",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "af4c0a9e-4cbb-4cac-a01e-8bc7393b627d",
+            "amount": 549.54,
+            "currency": "USD",
+            "date": "2025-10-10",
+            "product": "Monitor 24",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "f0d95c5d-68c5-43ce-bca5-529c91051cc2",
+            "amount": 529.43,
+            "currency": "USD",
+            "date": "2025-05-02",
+            "product": "Notebook",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "c70879ae-9b9c-4035-88ea-46f3a77f502a",
+            "amount": 998.57,
+            "currency": "ARS",
+            "date": "2025-01-19",
+            "product": "Mouse Gamer",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "aabd3c3c-4138-464c-9045-5210194ae9c3",
+            "amount": 1769.98,
+            "currency": "USD",
+            "date": "2025-09-02",
+            "product": "Impresora Láser",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "b6d7e59f-b242-44bc-aade-0214267f790a",
+            "amount": 287.8,
+            "currency": "USD",
+            "date": "2025-07-29",
+            "product": "Tablet",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "2d9233d5-6675-49d8-88ee-7fbe2ca64164",
+            "amount": 1745.62,
+            "currency": "USD",
+            "date": "2025-09-26",
+            "product": "Smartphone",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "9ac31960-b745-4be0-8cc6-82bb159a5e82",
+            "amount": 471.94,
+            "currency": "USD",
+            "date": "2025-05-19",
+            "product": "Notebook",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "7002988f-1754-48de-82be-e72d0548a34a",
+            "amount": 1680.57,
+            "currency": "ARS",
+            "date": "2025-05-10",
+            "product": "Impresora Láser",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "c487b23c-042c-457a-abf2-b519d7be1292",
+            "amount": 417.18,
+            "currency": "ARS",
+            "date": "2025-04-17",
+            "product": "Notebook",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "b68ffee2-8a79-47f3-aa0a-92b7b23fc44d",
+            "amount": 1593.42,
+            "currency": "ARS",
+            "date": "2025-10-01",
+            "product": "Mouse Gamer",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "eb25b826-9dc4-4ca1-8c42-f291635a7bde",
+            "amount": 1145.03,
+            "currency": "ARS",
+            "date": "2025-03-28",
+            "product": "Cámara Web",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "b36e8c34-2c87-4fe2-bb3c-738017be1c0f",
+            "amount": 1042.12,
+            "currency": "ARS",
+            "date": "2025-11-14",
+            "product": "Mouse Gamer",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "edc6ae8e-d897-47e4-af66-48547b70f75b",
+            "amount": 324.77,
+            "currency": "ARS",
+            "date": "2025-08-13",
+            "product": "Cámara Web",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "258a5bc8-393b-44db-b152-bc4068fb25a1",
+            "amount": 808.9,
+            "currency": "ARS",
+            "date": "2025-05-25",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "385c9020-021c-4c90-b9ba-5e429c6b7bf9",
+            "amount": 1271.62,
+            "currency": "USD",
+            "date": "2025-08-03",
+            "product": "Smartphone",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "055517da-023d-4b46-8a52-22206f8b7a2a",
+            "amount": 582.55,
+            "currency": "USD",
+            "date": "2025-05-30",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "8fc68167-140c-4cb2-a716-acd9203b0b49",
+            "amount": 1106.01,
+            "currency": "USD",
+            "date": "2025-03-09",
+            "product": "Cámara Web",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "c54d04f9-bc69-4e39-b4ad-66aa16b47056",
+            "amount": 1145.89,
+            "currency": "USD",
+            "date": "2025-07-18",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "5544be66-f7f8-4c75-a0d3-96ad967c2a45",
+            "amount": 1112.26,
+            "currency": "USD",
+            "date": "2025-01-02",
+            "product": "Notebook",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "35a78655-289c-441f-ab15-6e72f05bdab3",
+            "amount": 996.58,
+            "currency": "ARS",
+            "date": "2025-11-16",
+            "product": "Cámara Web",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "838e1417-355a-4d66-8526-b11d04c6b629",
+            "amount": 1422.9,
+            "currency": "USD",
+            "date": "2025-08-16",
+            "product": "Impresora Láser",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "884c7816-1332-4e09-8272-14240990d580",
+            "amount": 900.55,
+            "currency": "ARS",
+            "date": "2025-08-11",
+            "product": "Impresora Láser",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "fb856c5b-7000-4f79-b04a-1db14e8682ee",
+            "amount": 494.39,
+            "currency": "ARS",
+            "date": "2025-06-02",
+            "product": "Monitor 24",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "0aaff099-440b-4028-9b75-7be4de8557d9",
+            "amount": 1430.35,
+            "currency": "USD",
+            "date": "2025-10-05",
+            "product": "Smartphone",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "6bde11d0-5904-48d0-b3d1-5727aa591979",
+            "amount": 1976.98,
+            "currency": "USD",
+            "date": "2025-02-15",
+            "product": "Teclado Mecánico",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "0febb96a-e243-4593-853b-cec4e80be82f",
+            "amount": 978.95,
+            "currency": "ARS",
+            "date": "2025-08-31",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "b54c57ba-9f19-4a9f-94b9-f56fca8d9122",
+            "amount": 758.43,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "product": "Tablet",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "c0f29307-6c71-4906-8220-0270b284e581",
+            "amount": 888.84,
+            "currency": "USD",
+            "date": "2025-06-04",
+            "product": "Disco SSD",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "d391b798-20df-4de6-b86f-8bfdf95a20fa",
+            "amount": 1762.27,
+            "currency": "ARS",
+            "date": "2025-12-19",
+            "product": "Auriculares",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "34708315-c4bb-4933-a85f-b0a369cf9033",
+            "amount": 243.86,
+            "currency": "ARS",
+            "date": "2025-06-11",
+            "product": "Notebook",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "9502f88a-86dd-417a-ab27-6470d2bb4210",
+            "amount": 237.66,
+            "currency": "USD",
+            "date": "2025-11-23",
+            "product": "Impresora Láser",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "ebd8fc1a-82e0-4de7-80ca-761d51dc42df",
+            "amount": 328.06,
+            "currency": "USD",
+            "date": "2025-10-31",
+            "product": "Disco SSD",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "26dd14eb-f6a7-46c5-8286-aec0c98d3028",
+            "amount": 456.13,
+            "currency": "USD",
+            "date": "2025-09-16",
+            "product": "Auriculares",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "80e30b31-d59d-454d-b5e4-0cb1310effd1",
+            "amount": 847.01,
+            "currency": "USD",
+            "date": "2025-04-04",
+            "product": "Disco SSD",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "4625aabb-fb93-45f0-8d1a-a40669601396",
+            "amount": 877.02,
+            "currency": "ARS",
+            "date": "2025-09-24",
+            "product": "Mouse Gamer",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "3ed01f86-1cdc-4a9c-993c-5cbc0c7e840d",
+            "amount": 446.9,
+            "currency": "USD",
+            "date": "2025-06-28",
+            "product": "Disco SSD",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "8b328614-4e45-4153-ae7f-17fdd1bc4fd8",
+            "amount": 1603.69,
+            "currency": "USD",
+            "date": "2025-02-03",
+            "product": "Mouse Gamer",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "9905ae7c-5f8d-43fb-a7c1-0068e1374d54",
+            "amount": 644.14,
+            "currency": "ARS",
+            "date": "2025-07-12",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "cc356a33-dfef-405b-b2a1-db51daefbbd9",
+            "amount": 1402.84,
+            "currency": "USD",
+            "date": "2025-04-18",
+            "product": "Cámara Web",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "b03940a9-76fb-4b64-b17a-5bb3657a04b4",
+            "amount": 1444.64,
+            "currency": "USD",
+            "date": "2025-08-04",
+            "product": "Impresora Láser",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "3369feca-0221-4ca6-a18b-ebfc84f71aaf",
+            "amount": 1351.03,
+            "currency": "USD",
+            "date": "2025-01-27",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "ac227812-c4c6-4971-9307-0b46228ccc1b",
+            "amount": 452.94,
+            "currency": "ARS",
+            "date": "2025-12-24",
+            "product": "Mouse Gamer",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "8c0bb0c2-ee16-4690-9268-07447cab0810",
+            "amount": 1945.54,
+            "currency": "USD",
+            "date": "2025-12-17",
+            "product": "Smartphone",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "f3e1fe1b-94a9-4889-806e-909b2a770fbb",
+            "amount": 1427.85,
+            "currency": "USD",
+            "date": "2025-04-06",
+            "product": "Monitor 24",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "375fd60a-984e-4ba2-a8cc-e11c8819f33a",
+            "amount": 193.9,
+            "currency": "USD",
+            "date": "2025-06-27",
+            "product": "Cámara Web",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "b90307f1-19ba-4ff4-9721-aadd90faa103",
+            "amount": 1241.63,
+            "currency": "USD",
+            "date": "2025-09-28",
+            "product": "Notebook",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "3ec863a7-c7ec-4958-af3d-3ff668f2000b",
+            "amount": 159.63,
+            "currency": "ARS",
+            "date": "2025-12-23",
+            "product": "Auriculares",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "7b29a022-8721-431b-94c5-7e96486e10a5",
+            "amount": 489.92,
+            "currency": "USD",
+            "date": "2025-05-13",
+            "product": "Impresora Láser",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "d2399432-d0b2-4971-8e91-ac033f942037",
+            "amount": 632.75,
+            "currency": "USD",
+            "date": "2025-06-13",
+            "product": "Smartphone",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "da165f86-6e86-4a17-bed6-aa44b5b6ad1b",
+            "amount": 1043.65,
+            "currency": "ARS",
+            "date": "2025-01-24",
+            "product": "Disco SSD",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "4185466f-7baf-4ac6-a752-56f60d39ed7b",
+            "amount": 1894.82,
+            "currency": "ARS",
+            "date": "2025-08-06",
+            "product": "Tablet",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "cd731b46-2fb7-459e-b311-91162887bf40",
+            "amount": 1916.45,
+            "currency": "USD",
+            "date": "2025-04-27",
+            "product": "Notebook",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "ff9e2cfa-f752-4130-bf35-2f70d1bf45f1",
+            "amount": 1994.07,
+            "currency": "ARS",
+            "date": "2025-03-19",
+            "product": "Tablet",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "9a22ce6e-960f-48a9-b737-5b109f110d12",
+            "amount": 1021.79,
+            "currency": "USD",
+            "date": "2025-12-13",
+            "product": "Auriculares",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "a12aa826-20a7-4dc4-a936-622f92ab8e38",
+            "amount": 1488.63,
+            "currency": "ARS",
+            "date": "2025-08-15",
+            "product": "Notebook",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "51c44297-c5b4-4e1d-afbc-5b6dea4b2cf6",
+            "amount": 193,
+            "currency": "USD",
+            "date": "2025-10-29",
+            "product": "Smartphone",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "5703aee2-d880-4d5c-b8af-42fa4c51d3b7",
+            "amount": 627.69,
+            "currency": "ARS",
+            "date": "2025-06-24",
+            "product": "Mouse Gamer",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "d8923a66-6422-4204-b6a0-c210fc31c844",
+            "amount": 978.24,
+            "currency": "USD",
+            "date": "2025-02-13",
+            "product": "Teclado Mecánico",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "49a2ec08-4c46-481b-843f-3dce22c1acc3",
+            "amount": 405.6,
+            "currency": "USD",
+            "date": "2025-10-23",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "d6a9c5ec-292e-47af-8a6e-5cc5b2917b56",
+            "amount": 1139.63,
+            "currency": "USD",
+            "date": "2025-07-29",
+            "product": "Notebook",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "e69dbffc-5f92-4f1b-bf95-5180a5edfe99",
+            "amount": 241.33,
+            "currency": "USD",
+            "date": "2025-03-08",
+            "product": "Notebook",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "97ba2e8a-a371-438b-ba64-05fd92d99461",
+            "amount": 1340.81,
+            "currency": "ARS",
+            "date": "2025-06-19",
+            "product": "Cámara Web",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "9172d048-14e8-412e-bd53-95602eec5039",
+            "amount": 1500.59,
+            "currency": "ARS",
+            "date": "2025-08-08",
+            "product": "Disco SSD",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "9ce96459-7d02-471c-a984-f4137aa18052",
+            "amount": 131.77,
+            "currency": "ARS",
+            "date": "2025-02-12",
+            "product": "Monitor 24",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "82b93904-9ffd-4e8c-9c07-e92a9b276fe2",
+            "amount": 1764.13,
+            "currency": "ARS",
+            "date": "2025-09-15",
+            "product": "Smartphone",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "473c68ad-d87c-4c52-8508-9b2d3c399347",
+            "amount": 378.15,
+            "currency": "ARS",
+            "date": "2025-03-17",
+            "product": "Cámara Web",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "acd5092d-7dc1-4daa-8f76-db76728f2616",
+            "amount": 1730.07,
+            "currency": "ARS",
+            "date": "2025-10-14",
+            "product": "Monitor 24",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "318b16d8-b6d5-48d3-a774-a98c050e3d1f",
+            "amount": 1270.88,
+            "currency": "ARS",
+            "date": "2025-03-07",
+            "product": "Tablet",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "321f2b36-14bd-4191-930f-f77eafb0d924",
+            "amount": 472.93,
+            "currency": "USD",
+            "date": "2025-04-29",
+            "product": "Auriculares",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "30409dde-5cf8-42bc-bc3e-1b54fb0294de",
+            "amount": 249.02,
+            "currency": "USD",
+            "date": "2025-07-14",
+            "product": "Proyector",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "0a28d1bc-ac55-40a1-af47-ed5772c2566f",
+            "amount": 921.72,
+            "currency": "ARS",
+            "date": "2025-09-27",
+            "product": "Smartphone",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "79588d1e-3061-4273-a111-af667b87c8e9",
+            "amount": 1504.92,
+            "currency": "ARS",
+            "date": "2025-01-01",
+            "product": "Proyector",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "8011d617-5559-4cc5-8dd1-3781b351de50",
+            "amount": 1363.01,
+            "currency": "USD",
+            "date": "2025-09-04",
+            "product": "Cámara Web",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "529a27d7-dfab-4c8f-bdb0-466df457ef39",
+            "amount": 75.14,
+            "currency": "USD",
+            "date": "2025-12-06",
+            "product": "Proyector",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "a78c2ec0-8fb7-4ccd-99b1-0968987334c2",
+            "amount": 146.72,
+            "currency": "USD",
+            "date": "2025-01-02",
+            "product": "Disco SSD",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "2cf59fc1-386e-485d-852f-09f7a0a0a081",
+            "amount": 1508.67,
+            "currency": "USD",
+            "date": "2025-09-04",
+            "product": "Auriculares",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "ad97a881-f470-4782-bf47-df2da9c9f4a1",
+            "amount": 535.02,
+            "currency": "USD",
+            "date": "2025-04-16",
+            "product": "Mouse Gamer",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "ad6ee24d-2008-4615-9cc8-585349b9acb9",
+            "amount": 1501.19,
+            "currency": "USD",
+            "date": "2025-05-18",
+            "product": "Disco SSD",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "abc2b1a5-557c-46d0-806b-630581037964",
+            "amount": 1117.17,
+            "currency": "ARS",
+            "date": "2025-08-24",
+            "product": "Mouse Gamer",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "3fb4e215-9d39-492d-be86-b3052a3ced9e",
+            "amount": 423.77,
+            "currency": "ARS",
+            "date": "2025-02-18",
+            "product": "Notebook",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "debc4410-8312-4d6e-b4f0-57f91a0ac675",
+            "amount": 861.05,
+            "currency": "USD",
+            "date": "2025-03-13",
+            "product": "Proyector",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "709f5143-9be2-4422-aefe-61e9e828a212",
+            "amount": 887.6,
+            "currency": "USD",
+            "date": "2025-06-26",
+            "product": "Disco SSD",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "fe70db30-c477-41fc-b856-596064b63acd",
+            "amount": 453.88,
+            "currency": "USD",
+            "date": "2025-07-25",
+            "product": "Smartphone",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "51de564d-d7c9-48dc-8962-c3adf1df63c6",
+            "amount": 1066.85,
+            "currency": "USD",
+            "date": "2025-10-30",
+            "product": "Smartphone",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "053831aa-700b-40ae-9567-fdc8689ccd70",
+            "amount": 138.2,
+            "currency": "ARS",
+            "date": "2025-06-21",
+            "product": "Proyector",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "cdbee9e4-6d26-4548-9b2f-db319a25c7a7",
+            "amount": 1562,
+            "currency": "ARS",
+            "date": "2025-10-24",
+            "product": "Notebook",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "8dcc43f1-9570-4b82-9ddd-a67ac2e894d2",
+            "amount": 612.14,
+            "currency": "ARS",
+            "date": "2025-05-06",
+            "product": "Cámara Web",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "9732223f-07e7-41fc-b9f9-085fba817b17",
+            "amount": 146.68,
+            "currency": "ARS",
+            "date": "2025-01-24",
+            "product": "Monitor 24",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "2f5e5957-f7d2-4026-a06f-513ea5d22b0f",
+            "amount": 1020.85,
+            "currency": "USD",
+            "date": "2025-10-05",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "9276ed69-1dd5-48e4-be6c-00ed305fcb0d",
+            "amount": 1418.96,
+            "currency": "ARS",
+            "date": "2025-07-25",
+            "product": "Auriculares",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "9d270c9b-29f6-4324-95b1-508066660b38",
+            "amount": 428.82,
+            "currency": "USD",
+            "date": "2025-09-17",
+            "product": "Impresora Láser",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "fde89c3b-6479-4820-b40b-c4f692857e38",
+            "amount": 1339.59,
+            "currency": "USD",
+            "date": "2025-10-23",
+            "product": "Tablet",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "9471cbe3-0fad-470f-bf61-2d90f3854352",
+            "amount": 1619.25,
+            "currency": "USD",
+            "date": "2025-10-30",
+            "product": "Impresora Láser",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "196594fd-6c38-4c72-a421-94161b7cd477",
+            "amount": 1827.38,
+            "currency": "USD",
+            "date": "2025-04-19",
+            "product": "Cámara Web",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "5bea4274-c8ee-4c1e-8164-0d240b1ee05a",
+            "amount": 1381.13,
+            "currency": "ARS",
+            "date": "2025-03-21",
+            "product": "Tablet",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "8eec6e42-2a39-4194-b689-9d33692534e7",
+            "amount": 1643.22,
+            "currency": "USD",
+            "date": "2025-03-25",
+            "product": "Smartphone",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "66fb496f-c746-4e17-90bc-ac90dbfbce1f",
+            "amount": 901.5,
+            "currency": "USD",
+            "date": "2025-06-21",
+            "product": "Impresora Láser",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "6b8e751e-4e88-4d85-8d7b-a76e51732807",
+            "amount": 1549.91,
+            "currency": "ARS",
+            "date": "2025-10-08",
+            "product": "Auriculares",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "db791137-c3ac-4b13-a37b-3a9ead77817d",
+            "amount": 853.33,
+            "currency": "ARS",
+            "date": "2025-05-10",
+            "product": "Notebook",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "39cb2bce-db8c-4971-9a5d-4ab80c32e083",
+            "amount": 1011.37,
+            "currency": "USD",
+            "date": "2025-01-25",
+            "product": "Monitor 24",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "feb0bf61-1cce-4e7a-a749-7c20f72943af",
+            "amount": 1889.47,
+            "currency": "ARS",
+            "date": "2025-01-10",
+            "product": "Auriculares",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "24b3af42-c45e-44e6-bebb-4bf77aa72185",
+            "amount": 1353.96,
+            "currency": "USD",
+            "date": "2025-10-02",
+            "product": "Monitor 24",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "eb2bb66c-0cd5-47eb-bd97-f14e7e164dcb",
+            "amount": 1791.77,
+            "currency": "ARS",
+            "date": "2025-02-07",
+            "product": "Tablet",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "e46aaf70-7e2d-465c-8894-6cfde6b5b526",
+            "amount": 120.05,
+            "currency": "USD",
+            "date": "2025-05-30",
+            "product": "Tablet",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "1b1fb71c-10ce-4d95-8015-5ff6558b402e",
+            "amount": 716.86,
+            "currency": "ARS",
+            "date": "2025-05-21",
+            "product": "Cámara Web",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "b4e7c342-1597-48fb-b6a3-bd7faec0b6bd",
+            "amount": 1580.67,
+            "currency": "ARS",
+            "date": "2025-01-11",
+            "product": "Mouse Gamer",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "3516390b-b2c2-46b9-b595-b2136fcefba4",
+            "amount": 1391.9,
+            "currency": "ARS",
+            "date": "2025-10-17",
+            "product": "Monitor 24",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "6c281c1b-f187-4378-8692-af09708c6100",
+            "amount": 1251.66,
+            "currency": "ARS",
+            "date": "2025-01-26",
+            "product": "Cámara Web",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "61b62b34-7ac5-4b6d-aa8b-d476f7b01f46",
+            "amount": 582.01,
+            "currency": "ARS",
+            "date": "2025-10-24",
+            "product": "Mouse Gamer",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "52e4a09c-463b-48eb-8b0a-2957f7efd438",
+            "amount": 397.09,
+            "currency": "USD",
+            "date": "2025-11-28",
+            "product": "Teclado Mecánico",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "ac9aaa7d-095e-48a8-a5a8-623a80009f30",
+            "amount": 1495.56,
+            "currency": "ARS",
+            "date": "2025-08-17",
+            "product": "Smartphone",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "27f5e120-f435-4e13-a5bc-e88d2b3fa6f2",
+            "amount": 418.12,
+            "currency": "USD",
+            "date": "2025-08-20",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "cde7dc1a-479a-4aa3-9f48-00369165d311",
+            "amount": 318.14,
+            "currency": "ARS",
+            "date": "2025-04-16",
+            "product": "Monitor 24",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "d37d0eba-a8cc-414d-b54e-a7d4761c2ba2",
+            "amount": 1780.15,
+            "currency": "ARS",
+            "date": "2025-07-05",
+            "product": "Notebook",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "b8889de5-3533-4a5d-b9ca-b813520bf50f",
+            "amount": 619.02,
+            "currency": "USD",
+            "date": "2025-07-11",
+            "product": "Notebook",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "0a0e6115-35e5-4f97-86ac-8dce9ad36ef6",
+            "amount": 1413.62,
+            "currency": "ARS",
+            "date": "2025-04-05",
+            "product": "Auriculares",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "c3f50624-092f-4bae-b940-76de6d8e5872",
+            "amount": 523.93,
+            "currency": "USD",
+            "date": "2025-02-17",
+            "product": "Monitor 24",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "f43a67c9-db20-435b-bad6-9897e5ec6a91",
+            "amount": 582.42,
+            "currency": "USD",
+            "date": "2025-08-09",
+            "product": "Mouse Gamer",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "7bc0abc9-7946-4f4c-b63c-e8276cfba783",
+            "amount": 604.23,
+            "currency": "ARS",
+            "date": "2025-01-08",
+            "product": "Tablet",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "7827805b-8f7d-4ac7-8d4b-1efa6fdfe7ec",
+            "amount": 693.77,
+            "currency": "USD",
+            "date": "2025-11-11",
+            "product": "Mouse Gamer",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "dd4b5790-42de-4dbb-addc-bae9c92da2c0",
+            "amount": 1980.13,
+            "currency": "ARS",
+            "date": "2025-10-26",
+            "product": "Tablet",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "4b8d4de7-1d2a-4798-bc87-767094ab3b06",
+            "amount": 1292.42,
+            "currency": "ARS",
+            "date": "2025-07-24",
+            "product": "Monitor 24",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "c6bb232d-b32f-49d1-bccb-5524bef9ac3e",
+            "amount": 1698.19,
+            "currency": "USD",
+            "date": "2025-01-24",
+            "product": "Monitor 24",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "d7121e5a-48d9-4523-83f8-7a823678ca72",
+            "amount": 1754.88,
+            "currency": "ARS",
+            "date": "2025-11-18",
+            "product": "Smartphone",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "d88fc245-1600-401a-9818-e744378584bf",
+            "amount": 1388.21,
+            "currency": "USD",
+            "date": "2025-10-04",
+            "product": "Disco SSD",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "620db136-df49-4bdb-b961-f57cee2a31de",
+            "amount": 1154.91,
+            "currency": "ARS",
+            "date": "2025-06-15",
+            "product": "Impresora Láser",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "d56a8448-99f9-430a-b97d-fec3e0798300",
+            "amount": 786,
+            "currency": "USD",
+            "date": "2025-01-13",
+            "product": "Proyector",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "7fa295e1-dacd-4cec-9ce3-f83ec3961d75",
+            "amount": 1812.98,
+            "currency": "USD",
+            "date": "2025-06-19",
+            "product": "Disco SSD",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "464827ad-429b-4e2a-a6a0-c35032e1a0cf",
+            "amount": 1861.06,
+            "currency": "ARS",
+            "date": "2025-09-08",
+            "product": "Smartphone",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "0a729f87-1a5c-4ea9-b2a4-1bc5debfbac1",
+            "amount": 645.54,
+            "currency": "ARS",
+            "date": "2025-11-02",
+            "product": "Notebook",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "b3269a67-0367-4851-9576-f71e1cb30cc0",
+            "amount": 714.75,
+            "currency": "ARS",
+            "date": "2025-06-30",
+            "product": "Disco SSD",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "2e199185-630a-4d7d-b6f9-c4784a916f97",
+            "amount": 1592.06,
+            "currency": "ARS",
+            "date": "2025-09-06",
+            "product": "Mouse Gamer",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "b9624709-fea8-4195-a8cf-16be4383c909",
+            "amount": 658.26,
+            "currency": "USD",
+            "date": "2025-02-24",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "2b0a12ac-4358-4813-890b-7d20e25c6a5f",
+            "amount": 487.67,
+            "currency": "ARS",
+            "date": "2025-01-20",
+            "product": "Impresora Láser",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "f1fecf0a-33a8-4a51-9c07-97f0206372df",
+            "amount": 1241.95,
+            "currency": "USD",
+            "date": "2025-11-22",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "bad38636-1d73-49e8-b6c4-348a07050d46",
+            "amount": 712.36,
+            "currency": "ARS",
+            "date": "2025-02-09",
+            "product": "Tablet",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "eb870637-6af8-4d99-bff9-095aa346f9b0",
+            "amount": 1978.95,
+            "currency": "ARS",
+            "date": "2025-02-20",
+            "product": "Cámara Web",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "68b77fb5-3948-4614-88a1-7eb7a8392b82",
+            "amount": 677.9,
+            "currency": "USD",
+            "date": "2025-12-07",
+            "product": "Monitor 24",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "5bc6c3c3-ebcd-499d-9f63-34587f95699c",
+            "amount": 1201.9,
+            "currency": "USD",
+            "date": "2025-10-02",
+            "product": "Auriculares",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "a23faef0-6143-42e3-a4a5-4c1ff5890b4a",
+            "amount": 1691.74,
+            "currency": "ARS",
+            "date": "2025-04-21",
+            "product": "Tablet",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "9f0269b8-4f97-4967-90dd-fea582cea1c1",
+            "amount": 1529.81,
+            "currency": "ARS",
+            "date": "2025-04-26",
+            "product": "Auriculares",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "ad769d1e-3361-48bd-8a84-dd8c686cf9b4",
+            "amount": 1259.67,
+            "currency": "USD",
+            "date": "2025-04-15",
+            "product": "Tablet",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "42fce1fa-c8d7-4ed0-847a-c69a4ae043b8",
+            "amount": 577.29,
+            "currency": "ARS",
+            "date": "2025-02-20",
+            "product": "Proyector",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "48b60dd1-11db-4ef9-8796-88eed7a43be5",
+            "amount": 921.11,
+            "currency": "ARS",
+            "date": "2025-05-17",
+            "product": "Notebook",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "cf999f21-434e-40e0-872d-9681b5bbec2f",
+            "amount": 188.59,
+            "currency": "ARS",
+            "date": "2025-04-03",
+            "product": "Tablet",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "7e32b681-8ae4-4866-8163-43ba0d5499cd",
+            "amount": 356.37,
+            "currency": "USD",
+            "date": "2025-04-13",
+            "product": "Mouse Gamer",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "33554995-8c71-4cf4-ba6b-35c10c38f761",
+            "amount": 662.35,
+            "currency": "ARS",
+            "date": "2025-09-24",
+            "product": "Mouse Gamer",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "8d8d97ac-397a-473b-88a2-c577af99285f",
+            "amount": 822.57,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "product": "Tablet",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "393a0f93-e970-40a0-b97e-156a0cc26bd0",
+            "amount": 593.11,
+            "currency": "ARS",
+            "date": "2025-08-23",
+            "product": "Tablet",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "3e9f03cd-a998-4f16-93dc-d8d13e99c634",
+            "amount": 648.8,
+            "currency": "ARS",
+            "date": "2025-08-22",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "ff8a0bb9-8488-4117-bbac-d32ca47aaa90",
+            "amount": 1455.71,
+            "currency": "ARS",
+            "date": "2025-01-20",
+            "product": "Proyector",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "e6078569-4422-43bc-82c5-9c1492a592dd",
+            "amount": 427.49,
+            "currency": "USD",
+            "date": "2025-07-15",
+            "product": "Mouse Gamer",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "a1c6284f-4d19-45b3-a587-3ac8f857a53b",
+            "amount": 1022.3,
+            "currency": "USD",
+            "date": "2025-08-06",
+            "product": "Tablet",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "f38c96fc-9b87-49c0-8039-8808b8e38dbb",
+            "amount": 961.6,
+            "currency": "USD",
+            "date": "2025-07-19",
+            "product": "Disco SSD",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "c6c0f64f-44b7-4c0b-a4b9-152daa60a118",
+            "amount": 597.85,
+            "currency": "ARS",
+            "date": "2025-06-13",
+            "product": "Cámara Web",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "a61a5b88-dc6c-40b5-ac53-a3078dfa6f45",
+            "amount": 784.16,
+            "currency": "ARS",
+            "date": "2025-12-20",
+            "product": "Teclado Mecánico",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "0ed193ce-6741-44d1-a216-91e35be984d4",
+            "amount": 1502.92,
+            "currency": "USD",
+            "date": "2025-03-09",
+            "product": "Auriculares",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "93de9c28-49ae-495a-bc04-6dfcc1be9b0f",
+            "amount": 645.74,
+            "currency": "USD",
+            "date": "2025-10-17",
+            "product": "Proyector",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "afcde9ce-9393-4800-8e38-200ff0a8a1bf",
+            "amount": 921.79,
+            "currency": "ARS",
+            "date": "2025-07-01",
+            "product": "Smartphone",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "26d6798b-6dc8-4bb5-b850-90c44c0396ea",
+            "amount": 1915.16,
+            "currency": "ARS",
+            "date": "2025-01-12",
+            "product": "Impresora Láser",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "16a2c723-4517-461c-bda4-1fc68a0d8651",
+            "amount": 1435.6,
+            "currency": "USD",
+            "date": "2025-09-24",
+            "product": "Proyector",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "2066b2b4-0682-492d-ac09-1367c22334e9",
+            "amount": 391.55,
+            "currency": "USD",
+            "date": "2025-07-22",
+            "product": "Cámara Web",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "5f459934-a486-42d0-8691-23cd6907e55d",
+            "amount": 1549.03,
+            "currency": "USD",
+            "date": "2025-12-24",
+            "product": "Smartphone",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "52c03075-8bfc-466d-be26-03527b4e56e0",
+            "amount": 1950.25,
+            "currency": "ARS",
+            "date": "2025-07-02",
+            "product": "Notebook",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "2a087975-71bc-48bb-8f02-b063aa04e38a",
+            "amount": 478.58,
+            "currency": "ARS",
+            "date": "2025-01-12",
+            "product": "Proyector",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "e5743d39-8e44-4edd-affa-774ba88b7386",
+            "amount": 73.1,
+            "currency": "ARS",
+            "date": "2025-04-01",
+            "product": "Disco SSD",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "a259da66-df45-4717-a896-94f228551174",
+            "amount": 886.06,
+            "currency": "ARS",
+            "date": "2025-05-11",
+            "product": "Smartphone",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "22eb8e82-d3d4-4ffc-a53a-afabe0285d5e",
+            "amount": 1387.29,
+            "currency": "ARS",
+            "date": "2025-04-13",
+            "product": "Disco SSD",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "792e9d06-0076-468a-b778-cef960e62f78",
+            "amount": 1071.91,
+            "currency": "ARS",
+            "date": "2025-10-19",
+            "product": "Impresora Láser",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "130c6526-6224-450f-bf91-ae2eed4ff3a7",
+            "amount": 1925.27,
+            "currency": "ARS",
+            "date": "2025-05-05",
+            "product": "Teclado Mecánico",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "f58f8027-1628-4eec-bde1-ebad965d9407",
+            "amount": 559.08,
+            "currency": "ARS",
+            "date": "2025-03-08",
+            "product": "Tablet",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "ae224481-fc44-47bb-ac1c-e8cef3c98cc8",
+            "amount": 196.82,
+            "currency": "ARS",
+            "date": "2025-10-13",
+            "product": "Teclado Mecánico",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "a1fc1d17-c964-49e4-a231-1cfc83522abd",
+            "amount": 1342.29,
+            "currency": "USD",
+            "date": "2025-12-04",
+            "product": "Impresora Láser",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "c0a19126-20e6-4d05-91b7-75cf9ea8203a",
+            "amount": 1370.75,
+            "currency": "ARS",
+            "date": "2025-09-19",
+            "product": "Teclado Mecánico",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "20983968-89b4-41a0-b8c7-01d4ab5e65ad",
+            "amount": 524.07,
+            "currency": "ARS",
+            "date": "2025-04-29",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "fd793594-8165-40ab-b4f6-4daf723e5304",
+            "amount": 1601.84,
+            "currency": "ARS",
+            "date": "2025-05-22",
+            "product": "Teclado Mecánico",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "ffb63f0c-ca29-4bce-a5d7-5cd1dcf2fd1a",
+            "amount": 1074.86,
+            "currency": "USD",
+            "date": "2025-12-02",
+            "product": "Auriculares",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "6c8b711e-ee10-45b4-ae1a-7e9e6ec4b8d1",
+            "amount": 404.23,
+            "currency": "ARS",
+            "date": "2025-12-11",
+            "product": "Proyector",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "5e3cd805-49fc-4c8a-bc18-01d4cfa63cea",
+            "amount": 1448.85,
+            "currency": "USD",
+            "date": "2025-06-08",
+            "product": "Mouse Gamer",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "cb6ee6c2-c539-46c9-bfc0-885c64d36f9d",
+            "amount": 727.21,
+            "currency": "USD",
+            "date": "2025-11-05",
+            "product": "Proyector",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "fce33155-68ce-44ce-aeb1-aaeb515a7a55",
+            "amount": 776.78,
+            "currency": "ARS",
+            "date": "2025-10-19",
+            "product": "Monitor 24",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "6bbc65bc-25d1-4060-82c6-1744baaac7bb",
+            "amount": 1223.46,
+            "currency": "ARS",
+            "date": "2025-12-21",
+            "product": "Impresora Láser",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "6ac1eacb-fe31-4506-a295-99426ea902bc",
+            "amount": 780.26,
+            "currency": "ARS",
+            "date": "2025-09-19",
+            "product": "Smartphone",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "2d948374-c5dd-43c1-baec-dac2aecd2738",
+            "amount": 1574.04,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "product": "Cámara Web",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "5efbf420-45ea-4e8f-9bcf-1ca296e34231",
+            "amount": 1271.83,
+            "currency": "ARS",
+            "date": "2025-12-26",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "26335cfc-8be3-4fbb-9369-e1d35210eaa0",
+            "amount": 1439.53,
+            "currency": "USD",
+            "date": "2025-11-30",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "187563c2-5522-4776-925f-b3a0e04e2fa7",
+            "amount": 1412.32,
+            "currency": "ARS",
+            "date": "2025-06-01",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "60c60bb4-3723-4bfd-96b1-3bb1ce48de9f",
+            "amount": 652.85,
+            "currency": "ARS",
+            "date": "2025-11-18",
+            "product": "Auriculares",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "8e45805d-5885-4cbe-881b-0e79abf25031",
+            "amount": 132.12,
+            "currency": "ARS",
+            "date": "2025-10-18",
+            "product": "Tablet",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "ca92c1ca-1d7b-4c5f-85fc-52a4ecd72da8",
+            "amount": 292.63,
+            "currency": "USD",
+            "date": "2025-08-21",
+            "product": "Monitor 24",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "9944bcd6-35dc-4bea-ba15-7f06b9a9205b",
+            "amount": 1270.75,
+            "currency": "ARS",
+            "date": "2025-09-19",
+            "product": "Mouse Gamer",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "3474bc56-1edf-4a31-b107-5b10b90999de",
+            "amount": 1157.27,
+            "currency": "ARS",
+            "date": "2025-02-24",
+            "product": "Disco SSD",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "66171922-2e1e-4cab-a7ff-ec48bec1eea9",
+            "amount": 1717.33,
+            "currency": "USD",
+            "date": "2025-04-10",
+            "product": "Notebook",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "4d7c823e-4762-4176-abd4-cdd79229dc1f",
+            "amount": 322.76,
+            "currency": "USD",
+            "date": "2025-07-12",
+            "product": "Tablet",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "d8edd38b-cf9d-4b4a-a2bf-21c100876058",
+            "amount": 271.87,
+            "currency": "ARS",
+            "date": "2025-06-05",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "116c1d39-f483-4a60-96ba-852005c4c301",
+            "amount": 1994.35,
+            "currency": "USD",
+            "date": "2025-04-26",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "5b6d8357-6e8a-437e-b87b-9c732df22bdd",
+            "amount": 1150.66,
+            "currency": "ARS",
+            "date": "2025-06-19",
+            "product": "Disco SSD",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "49a2ffae-7c09-4cbd-a920-11d41c08fa62",
+            "amount": 1486.77,
+            "currency": "USD",
+            "date": "2025-07-25",
+            "product": "Proyector",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "0d2c1e3b-6d01-4e34-bb33-6b1775d35d54",
+            "amount": 479.79,
+            "currency": "USD",
+            "date": "2025-05-03",
+            "product": "Notebook",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "894b98cb-fd21-4a5b-8d8f-254129979e4c",
+            "amount": 1356.36,
+            "currency": "ARS",
+            "date": "2025-03-05",
+            "product": "Cámara Web",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "4d8da0f5-9971-4908-9966-d35701377469",
+            "amount": 889.09,
+            "currency": "USD",
+            "date": "2025-07-18",
+            "product": "Monitor 24",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "8faceb52-8f13-4ed2-ac13-9667ae253c37",
+            "amount": 890.93,
+            "currency": "USD",
+            "date": "2025-11-24",
+            "product": "Auriculares",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "08c98896-fb33-4778-a981-c37e949f4b2a",
+            "amount": 980.53,
+            "currency": "USD",
+            "date": "2025-06-03",
+            "product": "Teclado Mecánico",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "dfccc8e6-b6a9-4dd3-909d-199d0e1e2d56",
+            "amount": 1140.46,
+            "currency": "ARS",
+            "date": "2025-01-02",
+            "product": "Smartphone",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "be2fe708-cb28-4426-b11e-d156d9c8ad43",
+            "amount": 1335.3,
+            "currency": "ARS",
+            "date": "2025-08-12",
+            "product": "Tablet",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "d4fea62e-3288-42f9-a90a-7b9cc128bf7d",
+            "amount": 72.19,
+            "currency": "USD",
+            "date": "2025-08-14",
+            "product": "Disco SSD",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "064411a0-0114-4ba4-aaa4-bfffc2e50d85",
+            "amount": 1923.93,
+            "currency": "ARS",
+            "date": "2025-07-12",
+            "product": "Proyector",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "b46d774a-4e32-4186-90e5-51c6859230ed",
+            "amount": 1749.99,
+            "currency": "ARS",
+            "date": "2025-12-11",
+            "product": "Proyector",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "45ec26f2-a22a-486f-810a-169e0fb202ca",
+            "amount": 686.63,
+            "currency": "USD",
+            "date": "2025-07-16",
+            "product": "Teclado Mecánico",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "e99024af-3085-496b-8ad4-5c2d0a1ef977",
+            "amount": 713.06,
+            "currency": "ARS",
+            "date": "2025-04-16",
+            "product": "Teclado Mecánico",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "a83cc917-ebb6-4e27-beb6-f3ef68f7cf58",
+            "amount": 1806.66,
+            "currency": "USD",
+            "date": "2025-12-08",
+            "product": "Notebook",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "71991790-3331-443e-88eb-da6d677c4a41",
+            "amount": 927.08,
+            "currency": "USD",
+            "date": "2025-06-10",
+            "product": "Notebook",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "6faadec5-0d4c-4af8-a0f1-5a7a5595a849",
+            "amount": 1906.98,
+            "currency": "USD",
+            "date": "2025-04-04",
+            "product": "Impresora Láser",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "a105ca2b-e652-4c99-81b4-28c8e37acf4d",
+            "amount": 1083.51,
+            "currency": "USD",
+            "date": "2025-10-07",
+            "product": "Notebook",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "d63d12b8-7237-4a76-a636-b124b0914cbb",
+            "amount": 1066.38,
+            "currency": "USD",
+            "date": "2025-07-22",
+            "product": "Cámara Web",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "2bb97521-bc1e-4327-bcd7-c25ebd62574a",
+            "amount": 656.33,
+            "currency": "ARS",
+            "date": "2025-07-25",
+            "product": "Tablet",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "9953a19c-7249-43b2-86b2-7323d9a15ac1",
+            "amount": 1639.49,
+            "currency": "ARS",
+            "date": "2025-08-07",
+            "product": "Impresora Láser",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "1c70e2b3-4fb8-487c-96fa-e937f0625b9f",
+            "amount": 1544.86,
+            "currency": "USD",
+            "date": "2025-12-08",
+            "product": "Monitor 24",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "11da1993-3f3b-40b1-a9b8-0ea92fd55e78",
+            "amount": 345.44,
+            "currency": "USD",
+            "date": "2025-02-18",
+            "product": "Teclado Mecánico",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "8a56fc27-0c87-4663-84b2-06fb4ea89928",
+            "amount": 346.96,
+            "currency": "ARS",
+            "date": "2025-08-29",
+            "product": "Disco SSD",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "1c3673f5-abe7-48fc-b16a-42e805cd08d5",
+            "amount": 945.4,
+            "currency": "ARS",
+            "date": "2025-05-27",
+            "product": "Auriculares",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "b114a1bc-0fdb-42f5-ae53-fae203d3dd44",
+            "amount": 633.43,
+            "currency": "ARS",
+            "date": "2025-02-13",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "27b0fb7c-bc49-4db5-8ad7-b53b8f30c7dc",
+            "amount": 810.79,
+            "currency": "USD",
+            "date": "2025-02-07",
+            "product": "Mouse Gamer",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "8bf83435-2de5-42fb-a68a-4725f9e4c21c",
+            "amount": 101.06,
+            "currency": "ARS",
+            "date": "2025-11-04",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "cf4b3c5d-63d7-4ad3-b28d-18fdecfbf138",
+            "amount": 576.84,
+            "currency": "ARS",
+            "date": "2025-12-29",
+            "product": "Auriculares",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "7285aa3a-4ec1-4e03-980f-75b843d8a5be",
+            "amount": 248.82,
+            "currency": "ARS",
+            "date": "2025-08-17",
+            "product": "Impresora Láser",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "9ad578ee-2b33-47af-a7ba-796ed026ddc1",
+            "amount": 658.24,
+            "currency": "ARS",
+            "date": "2025-10-24",
+            "product": "Notebook",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "66aec3b7-c353-494e-af41-7b677aec4943",
+            "amount": 549.33,
+            "currency": "ARS",
+            "date": "2025-03-13",
+            "product": "Notebook",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "31b64aee-f632-4980-aa17-e66f19b8fb61",
+            "amount": 248.9,
+            "currency": "USD",
+            "date": "2025-02-26",
+            "product": "Notebook",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "c29ce666-7fbd-4ed6-a3cf-7ca3d3fb3620",
+            "amount": 481.19,
+            "currency": "USD",
+            "date": "2025-03-31",
+            "product": "Mouse Gamer",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "f8232537-67c0-4231-919b-64e38a0a102e",
+            "amount": 1077.64,
+            "currency": "USD",
+            "date": "2025-08-12",
+            "product": "Monitor 24",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "a9d7ee01-e7db-4043-85c4-6fde408c6a98",
+            "amount": 1452.74,
+            "currency": "ARS",
+            "date": "2025-07-21",
+            "product": "Notebook",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "1ceacfa8-0e9d-4e04-b7e4-733431c5bfae",
+            "amount": 924.36,
+            "currency": "ARS",
+            "date": "2025-04-04",
+            "product": "Tablet",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "b75b8fd0-2489-444a-a06b-0c76ac2f6f8a",
+            "amount": 73.54,
+            "currency": "ARS",
+            "date": "2025-10-08",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "7fdb8d83-b8ec-445c-8e42-d1af78dcb3a3",
+            "amount": 531.99,
+            "currency": "USD",
+            "date": "2025-10-20",
+            "product": "Monitor 24",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "ceb2c84d-baf0-4caa-8f9a-361751c4d94e",
+            "amount": 225.1,
+            "currency": "USD",
+            "date": "2025-10-31",
+            "product": "Notebook",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "72be9650-9d48-484c-9276-2132d11e6eab",
+            "amount": 1531.85,
+            "currency": "USD",
+            "date": "2025-03-14",
+            "product": "Notebook",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "0e981557-0561-482b-96e6-7cb3412133ab",
+            "amount": 286.17,
+            "currency": "USD",
+            "date": "2025-08-31",
+            "product": "Disco SSD",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "6e84d7df-2474-4260-a16b-55002c7533e9",
+            "amount": 1094.86,
+            "currency": "ARS",
+            "date": "2025-06-01",
+            "product": "Mouse Gamer",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "1ae81e3e-dd49-44a4-a90e-5d92256d9fea",
+            "amount": 1141.4,
+            "currency": "ARS",
+            "date": "2025-10-23",
+            "product": "Smartphone",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "626c9b61-14a1-454c-9020-019334e39dfc",
+            "amount": 754.13,
+            "currency": "USD",
+            "date": "2025-09-06",
+            "product": "Smartphone",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "78acb0e0-4415-4658-96b2-553802e8d3c5",
+            "amount": 81.66,
+            "currency": "USD",
+            "date": "2025-05-13",
+            "product": "Auriculares",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "4d24113d-aacf-4a83-962c-6dab23fd9135",
+            "amount": 917.54,
+            "currency": "ARS",
+            "date": "2025-11-26",
+            "product": "Mouse Gamer",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "ced85e59-8a31-4ad3-8869-ec89d477677c",
+            "amount": 902.65,
+            "currency": "USD",
+            "date": "2025-06-10",
+            "product": "Teclado Mecánico",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "339572c9-bcbc-40b3-86c7-211351604f41",
+            "amount": 1106.48,
+            "currency": "USD",
+            "date": "2025-06-12",
+            "product": "Monitor 24",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "d2f91363-d292-4f35-985e-310ce991213b",
+            "amount": 1970.74,
+            "currency": "USD",
+            "date": "2025-05-06",
+            "product": "Disco SSD",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "61ed653e-6f93-45c2-bc5e-59991af787b0",
+            "amount": 1007.18,
+            "currency": "ARS",
+            "date": "2025-04-10",
+            "product": "Monitor 24",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "b7088b8e-baa0-4749-be91-07b51353ac2d",
+            "amount": 110.06,
+            "currency": "USD",
+            "date": "2025-07-23",
+            "product": "Disco SSD",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "a2872026-9683-4444-80e0-fc598fffd9cb",
+            "amount": 126.59,
+            "currency": "ARS",
+            "date": "2025-01-09",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "c06f28a7-aca0-4b42-80b8-063ccb17d4cb",
+            "amount": 194.22,
+            "currency": "ARS",
+            "date": "2025-01-08",
+            "product": "Proyector",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "85da00d4-1c11-4ae6-910e-821eab2b3e0a",
+            "amount": 257.85,
+            "currency": "USD",
+            "date": "2025-10-04",
+            "product": "Mouse Gamer",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "c4284f0a-6778-4b33-b082-f4561167fb00",
+            "amount": 694.41,
+            "currency": "ARS",
+            "date": "2025-07-30",
+            "product": "Notebook",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "8f3d0927-e189-4328-addc-2622f0f3f647",
+            "amount": 439.34,
+            "currency": "USD",
+            "date": "2025-12-21",
+            "product": "Mouse Gamer",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "af0643fa-898d-40e2-baa8-920ea01e3ae2",
+            "amount": 1316.98,
+            "currency": "ARS",
+            "date": "2025-01-18",
+            "product": "Cámara Web",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "9f1c770f-e544-4f1f-9f07-c8a4e882a60b",
+            "amount": 325.67,
+            "currency": "USD",
+            "date": "2025-08-29",
+            "product": "Tablet",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "9b6b7849-fe1e-4623-a2c7-6b2f5b008f93",
+            "amount": 1441.78,
+            "currency": "ARS",
+            "date": "2025-01-02",
+            "product": "Auriculares",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "956c3bcd-26fb-4e3c-9d3f-808456629e71",
+            "amount": 1838.93,
+            "currency": "ARS",
+            "date": "2025-01-04",
+            "product": "Mouse Gamer",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "12666710-ed91-43c2-b116-6b1ce6a38f26",
+            "amount": 1966.62,
+            "currency": "USD",
+            "date": "2025-03-18",
+            "product": "Mouse Gamer",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "bf4ecacb-2310-46ed-8123-99b205be74ce",
+            "amount": 1926.16,
+            "currency": "ARS",
+            "date": "2025-09-28",
+            "product": "Disco SSD",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "17bee337-5a0b-4683-a25d-1130264e1e48",
+            "amount": 1156.15,
+            "currency": "USD",
+            "date": "2025-05-05",
+            "product": "Auriculares",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "fde26386-edf5-4381-8d73-24ca0dafcde3",
+            "amount": 1453.11,
+            "currency": "ARS",
+            "date": "2025-05-09",
+            "product": "Monitor 24",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "e41fae0f-8afb-406b-9f26-c2327a6412c0",
+            "amount": 122.45,
+            "currency": "ARS",
+            "date": "2025-12-16",
+            "product": "Proyector",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "dd3d94a2-51bb-4557-8e29-84952ae4282d",
+            "amount": 1095.3,
+            "currency": "USD",
+            "date": "2025-05-18",
+            "product": "Smartphone",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "210a7ea9-0930-4848-a16d-eccc63998cfa",
+            "amount": 1496.27,
+            "currency": "USD",
+            "date": "2025-08-03",
+            "product": "Notebook",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "ec90430a-ed47-4e25-9c9f-6e0dc9dcccdb",
+            "amount": 1342.71,
+            "currency": "USD",
+            "date": "2025-04-04",
+            "product": "Cámara Web",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "e8fe6160-82b1-4c72-96ec-f6837eb4f43f",
+            "amount": 1529.47,
+            "currency": "USD",
+            "date": "2025-11-21",
+            "product": "Cámara Web",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "5f6c00e9-b633-4b89-9efd-693c5ae949c4",
+            "amount": 894.07,
+            "currency": "USD",
+            "date": "2025-02-12",
+            "product": "Teclado Mecánico",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "a5328f57-01cc-45db-bd66-6f56238d4295",
+            "amount": 50.08,
+            "currency": "ARS",
+            "date": "2025-11-17",
+            "product": "Disco SSD",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "74718477-7fab-40df-bdf8-e6f8fc25f5e6",
+            "amount": 209.59,
+            "currency": "USD",
+            "date": "2025-09-27",
+            "product": "Tablet",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "e56eb3fb-1237-4cb5-98cb-07a1671577ef",
+            "amount": 555.27,
+            "currency": "ARS",
+            "date": "2025-11-06",
+            "product": "Mouse Gamer",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "4890d614-1081-490c-9f70-109e83ffb2a4",
+            "amount": 1897.95,
+            "currency": "USD",
+            "date": "2025-04-26",
+            "product": "Proyector",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "33288e8f-8ad5-4e8f-bd70-37b3f291ac28",
+            "amount": 325.94,
+            "currency": "USD",
+            "date": "2025-02-25",
+            "product": "Monitor 24",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "4e1af0c8-0e28-4cd1-a0f8-58858c21a0c8",
+            "amount": 366.34,
+            "currency": "USD",
+            "date": "2025-05-14",
+            "product": "Impresora Láser",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "be638f15-0946-4d36-b81b-8cf239e102c8",
+            "amount": 176.96,
+            "currency": "ARS",
+            "date": "2025-04-14",
+            "product": "Impresora Láser",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "80f95cc7-4e30-467c-9dab-5dc6282b3729",
+            "amount": 1686.99,
+            "currency": "ARS",
+            "date": "2025-10-03",
+            "product": "Impresora Láser",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "e472d379-5b3f-483b-9c0e-073f21687760",
+            "amount": 1671.43,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "product": "Cámara Web",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "6c81b61a-a8c7-47f4-b8c1-2b3fbd5f5dcd",
+            "amount": 1350.61,
+            "currency": "USD",
+            "date": "2025-09-22",
+            "product": "Auriculares",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "2abef866-a067-4556-a474-387284fbb5ae",
+            "amount": 1281.76,
+            "currency": "USD",
+            "date": "2025-05-31",
+            "product": "Cámara Web",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "ae0757bc-cf63-4f6c-846c-6872cb54bc4b",
+            "amount": 1648.61,
+            "currency": "ARS",
+            "date": "2025-10-16",
+            "product": "Monitor 24",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "a5f51dc9-c070-486d-869b-63e6a58a06be",
+            "amount": 1259.84,
+            "currency": "USD",
+            "date": "2025-08-28",
+            "product": "Teclado Mecánico",
+            "customer_id": "46b3b02a-fd16-4806-85c6-49f854f1f53d"
+        },
+        {
+            "id": "7ac846b4-2cca-43ca-bed9-155501ab5f94",
+            "amount": 1325.2,
+            "currency": "USD",
+            "date": "2025-04-14",
+            "product": "Disco SSD",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "cc98ac4c-0ab7-4564-b9d4-bb043d16d4bd",
+            "amount": 427.82,
+            "currency": "USD",
+            "date": "2025-03-24",
+            "product": "Monitor 24",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "a2faf8bb-1ed5-4d52-ab4f-21afe370e33b",
+            "amount": 1000.65,
+            "currency": "USD",
+            "date": "2025-11-24",
+            "product": "Tablet",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "6c2a39dc-6122-4290-a6c3-a16c7e638e41",
+            "amount": 222.13,
+            "currency": "USD",
+            "date": "2025-07-05",
+            "product": "Notebook",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "b3c14809-c667-494f-aa81-ea443df90aa0",
+            "amount": 1372.57,
+            "currency": "USD",
+            "date": "2025-03-25",
+            "product": "Smartphone",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "508fdb8e-f208-4b19-9cc7-7e2e8a7340a0",
+            "amount": 502.94,
+            "currency": "USD",
+            "date": "2025-11-22",
+            "product": "Disco SSD",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "e9807692-c291-405f-8730-1dfc6af0bc4c",
+            "amount": 1107.67,
+            "currency": "ARS",
+            "date": "2025-04-18",
+            "product": "Auriculares",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "6f85d906-c551-4bb9-a866-a803afcd7595",
+            "amount": 1457.43,
+            "currency": "ARS",
+            "date": "2025-07-09",
+            "product": "Cámara Web",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "3451efca-4945-4437-b866-99ca2fd52b9d",
+            "amount": 1902.86,
+            "currency": "ARS",
+            "date": "2025-10-21",
+            "product": "Notebook",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "a43b4dfa-edbc-4bb0-8c4e-89029352c741",
+            "amount": 935.48,
+            "currency": "USD",
+            "date": "2025-10-15",
+            "product": "Cámara Web",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "afe39588-60cc-407f-a46f-e10f07e68c97",
+            "amount": 61.82,
+            "currency": "ARS",
+            "date": "2025-11-16",
+            "product": "Disco SSD",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "252eea22-ba80-4e59-944f-11759dc17c9b",
+            "amount": 1739.94,
+            "currency": "USD",
+            "date": "2025-04-27",
+            "product": "Proyector",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "6e37030d-ace7-4bc4-933b-9d7dee9072ee",
+            "amount": 1138.66,
+            "currency": "ARS",
+            "date": "2025-04-06",
+            "product": "Smartphone",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "9503344e-859a-4d93-9172-a8d5ee07cd6b",
+            "amount": 180.27,
+            "currency": "USD",
+            "date": "2025-07-17",
+            "product": "Mouse Gamer",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "49856b98-1341-4750-ba97-67ee2cf1ce1a",
+            "amount": 1353.68,
+            "currency": "USD",
+            "date": "2025-12-16",
+            "product": "Monitor 24",
+            "customer_id": "9f0a6f9a-f5da-494e-88f6-d01ff415d56c"
+        },
+        {
+            "id": "d2321d62-f5e5-4d6f-9db5-f0ac12aa5343",
+            "amount": 1301.33,
+            "currency": "USD",
+            "date": "2025-06-05",
+            "product": "Proyector",
+            "customer_id": "d8269738-579d-4028-8095-471d4914aef6"
+        },
+        {
+            "id": "cdc2cc0e-ed63-41d4-a497-338dcf192590",
+            "amount": 1949.32,
+            "currency": "USD",
+            "date": "2025-07-20",
+            "product": "Smartphone",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "6656c792-927c-4419-83fd-a5a54d1bbaad",
+            "amount": 1346.44,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "product": "Disco SSD",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "d3b0364e-9789-457a-83c9-24fdfe8282ea",
+            "amount": 590.37,
+            "currency": "ARS",
+            "date": "2025-07-15",
+            "product": "Monitor 24",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "967f9c75-fdb1-43a6-b0ac-17b06ded429d",
+            "amount": 1059.4,
+            "currency": "USD",
+            "date": "2025-06-24",
+            "product": "Disco SSD",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "28d0ae90-68d6-48b4-89ad-6d40f0ad4526",
+            "amount": 1651.29,
+            "currency": "ARS",
+            "date": "2025-01-31",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "840fd518-d206-459a-863b-d3c1d42d24c1",
+            "amount": 619.78,
+            "currency": "ARS",
+            "date": "2025-03-19",
+            "product": "Impresora Láser",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "faee17ee-2473-4d67-a5f4-76f4b961bbb0",
+            "amount": 1806.32,
+            "currency": "USD",
+            "date": "2025-11-15",
+            "product": "Disco SSD",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "756ff235-9757-4fd3-a6d4-edbebe45a370",
+            "amount": 481.92,
+            "currency": "USD",
+            "date": "2025-05-15",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "42642b5a-8c14-4086-a131-b1cc8667582d",
+            "amount": 942.45,
+            "currency": "USD",
+            "date": "2025-06-02",
+            "product": "Impresora Láser",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "d3cebbfb-be38-4331-8fe8-9e4e2fb7e788",
+            "amount": 1872.79,
+            "currency": "ARS",
+            "date": "2025-04-18",
+            "product": "Mouse Gamer",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "042b3820-0db4-444b-a8f9-ec2e77cc6cb0",
+            "amount": 969.72,
+            "currency": "USD",
+            "date": "2025-06-03",
+            "product": "Cámara Web",
+            "customer_id": "ac880fc4-7dc3-47d6-83c7-4e85784f68a3"
+        },
+        {
+            "id": "df58e0f1-da28-45e9-975f-059a1ce068f1",
+            "amount": 1518.97,
+            "currency": "USD",
+            "date": "2025-08-07",
+            "product": "Monitor 24",
+            "customer_id": "fe3a8ee0-75a0-47ed-836b-188437cada41"
+        },
+        {
+            "id": "11c3209d-53b1-4d68-8764-f8d8bdaa8d02",
+            "amount": 230.72,
+            "currency": "ARS",
+            "date": "2025-10-02",
+            "product": "Proyector",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "33ab2bda-e528-467c-a8da-7f4f93c5ec6a",
+            "amount": 1625.73,
+            "currency": "ARS",
+            "date": "2025-07-02",
+            "product": "Proyector",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "6251bfeb-831d-4586-ad21-db949bd8fd87",
+            "amount": 1649.25,
+            "currency": "USD",
+            "date": "2025-05-11",
+            "product": "Teclado Mecánico",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "e34fef42-176a-4cd0-96f8-b596c55e9468",
+            "amount": 1529.01,
+            "currency": "USD",
+            "date": "2025-12-27",
+            "product": "Teclado Mecánico",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "6a15ed71-8e55-46c0-bbc1-48f580725a3d",
+            "amount": 615.33,
+            "currency": "ARS",
+            "date": "2025-12-10",
+            "product": "Mouse Gamer",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "23e48901-f986-4573-a170-96bcb698cb9f",
+            "amount": 141.69,
+            "currency": "USD",
+            "date": "2025-07-31",
+            "product": "Proyector",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "8abb3803-92a8-4781-b599-1e615a4fb58d",
+            "amount": 131.76,
+            "currency": "ARS",
+            "date": "2025-12-13",
+            "product": "Notebook",
+            "customer_id": "1ec4d78b-4c55-429f-ab58-19b23f5ea763"
+        },
+        {
+            "id": "0da6566d-430e-4b60-8ab2-0c9dff1fdd75",
+            "amount": 1887.26,
+            "currency": "ARS",
+            "date": "2025-11-06",
+            "product": "Notebook",
+            "customer_id": "31083269-2109-42ca-984c-8454cb5d0c2a"
+        },
+        {
+            "id": "57a68551-518d-49ea-a3f5-edd4b3080b8b",
+            "amount": 1474.81,
+            "currency": "ARS",
+            "date": "2025-02-15",
+            "product": "Monitor 24",
+            "customer_id": "03d6f8a8-60c0-4896-bc9e-80f266bb529e"
+        },
+        {
+            "id": "c15e3c56-d6b4-4672-88bb-32753a44d451",
+            "amount": 1651.61,
+            "currency": "ARS",
+            "date": "2025-04-29",
+            "product": "Tablet",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "efaf5819-8dac-47d1-a24a-f279933d1302",
+            "amount": 627.14,
+            "currency": "USD",
+            "date": "2025-06-02",
+            "product": "Smartphone",
+            "customer_id": "d2024b8a-89e3-485a-a1dd-116b5e5c842a"
+        },
+        {
+            "id": "2743666d-a807-40ac-bb5f-947e9c2d65dd",
+            "amount": 1225.83,
+            "currency": "ARS",
+            "date": "2025-01-14",
+            "product": "Proyector",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "99494255-d17f-407b-9e71-790274bcc41e",
+            "amount": 602.4,
+            "currency": "ARS",
+            "date": "2025-04-04",
+            "product": "Impresora Láser",
+            "customer_id": "8e736f3a-52db-4b06-9083-b7b6b40ab788"
+        },
+        {
+            "id": "2837e790-834a-49d9-9843-5d5a8d2506a0",
+            "amount": 1602.25,
+            "currency": "ARS",
+            "date": "2025-06-07",
+            "product": "Proyector",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "5a044ed2-0827-4e12-a1d2-853c632b3253",
+            "amount": 1238.33,
+            "currency": "USD",
+            "date": "2025-08-15",
+            "product": "Disco SSD",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "e0f9e32a-c0e4-41cc-ade2-8299b3f5208b",
+            "amount": 1788.89,
+            "currency": "USD",
+            "date": "2025-05-02",
+            "product": "Auriculares",
+            "customer_id": "5dd8daac-6a2b-4f01-a5f4-556a4279308a"
+        },
+        {
+            "id": "47a8892e-b91b-4668-8c46-5fa6e9cdec5f",
+            "amount": 1611.81,
+            "currency": "ARS",
+            "date": "2025-07-19",
+            "product": "Smartphone",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "e6d6ab6a-8418-4d34-93f4-17107f464cc3",
+            "amount": 1052.88,
+            "currency": "ARS",
+            "date": "2025-09-07",
+            "product": "Monitor 24",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "afc444b8-c54d-42fa-b29d-ca32ed0de29a",
+            "amount": 98.96,
+            "currency": "ARS",
+            "date": "2025-03-24",
+            "product": "Notebook",
+            "customer_id": "cbb4e784-8864-4d84-adc9-d6962d20ad7d"
+        },
+        {
+            "id": "d8173597-df5a-4285-8b5a-c51065f10b97",
+            "amount": 1658.25,
+            "currency": "USD",
+            "date": "2025-08-04",
+            "product": "Proyector",
+            "customer_id": "b3999052-86bd-41a5-91ba-c876b2f7b6c6"
+        },
+        {
+            "id": "91f8b930-ddae-4431-8170-477872287f75",
+            "amount": 1239.75,
+            "currency": "ARS",
+            "date": "2025-01-25",
+            "product": "Auriculares",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "eebd9417-2f9b-416a-b3e4-ce3204834712",
+            "amount": 1306.4,
+            "currency": "USD",
+            "date": "2025-04-22",
+            "product": "Cámara Web",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "f1cc9024-9a90-49bf-a263-b53306b62b17",
+            "amount": 1408.59,
+            "currency": "USD",
+            "date": "2025-04-07",
+            "product": "Impresora Láser",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        },
+        {
+            "id": "8ba37f85-da57-4f57-8a0b-b3b6e2c1a434",
+            "amount": 1486.43,
+            "currency": "USD",
+            "date": "2025-07-25",
+            "product": "Proyector",
+            "customer_id": "2d481016-eb0d-4f89-8623-ebb3bba78134"
+        },
+        {
+            "id": "18470122-6791-44a8-8c9a-7d144dd0fa9e",
+            "amount": 1485.19,
+            "currency": "ARS",
+            "date": "2025-07-06",
+            "product": "Disco SSD",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "98b3d347-bb41-4419-93e2-7490387e4a32",
+            "amount": 199.95,
+            "currency": "ARS",
+            "date": "2025-06-13",
+            "product": "Notebook",
+            "customer_id": "ca812818-b4e3-4b57-9fa4-f4df0567b8db"
+        },
+        {
+            "id": "cae69a82-cdd0-4b0d-845b-ecf277e3aefc",
+            "amount": 881.81,
+            "currency": "USD",
+            "date": "2025-01-02",
+            "product": "Monitor 24",
+            "customer_id": "1f3580bc-af19-4f24-bdab-be7d2fcef13d"
+        },
+        {
+            "id": "b4fd9382-a41e-4e87-8644-9436096e76bb",
+            "amount": 701.9,
+            "currency": "ARS",
+            "date": "2025-09-16",
+            "product": "Mouse Gamer",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "91e6867b-69fe-4d1a-ab77-509b6c708502",
+            "amount": 226.12,
+            "currency": "USD",
+            "date": "2025-12-09",
+            "product": "Cámara Web",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "70194298-8aa3-4df7-869f-e2931d4c918a",
+            "amount": 777.23,
+            "currency": "USD",
+            "date": "2025-12-19",
+            "product": "Notebook",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "b96dbf0d-979b-437f-a764-2e2e718ba49d",
+            "amount": 121.93,
+            "currency": "ARS",
+            "date": "2025-07-20",
+            "product": "Notebook",
+            "customer_id": "4056aff7-d0a3-4ee2-b461-2d5941ac97aa"
+        },
+        {
+            "id": "5868d6b4-98fd-444f-b343-b4bd66206219",
+            "amount": 1158.38,
+            "currency": "ARS",
+            "date": "2025-04-10",
+            "product": "Teclado Mecánico",
+            "customer_id": "bb573b42-96da-400f-95d6-67dc79630d20"
+        },
+        {
+            "id": "910c7b51-10ea-45e4-b8d4-e3ff18ba3da9",
+            "amount": 1948.84,
+            "currency": "ARS",
+            "date": "2025-09-19",
+            "product": "Teclado Mecánico",
+            "customer_id": "c9a365af-235f-4456-8d20-9b175556fd56"
+        },
+        {
+            "id": "69110597-7684-4f2b-976f-0baf06ad5fb4",
+            "amount": 598.77,
+            "currency": "ARS",
+            "date": "2025-01-21",
+            "product": "Cámara Web",
+            "customer_id": "ca8e0037-26f3-49f9-8c9d-3172472e3631"
+        }
+    ]
+}

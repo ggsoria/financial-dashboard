@@ -1,0 +1,4004 @@
+{
+    "expenses": [
+        {
+            "id": "cab5adeb-6ae3-4500-98b3-cd3f4a73cada",
+            "amount": 241203.75,
+            "currency": "ARS",
+            "date": "2025-06-25",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Otros"
+        },
+        {
+            "id": "f21a6847-26fe-4609-b02b-943ec37eceb4",
+            "amount": 81499.24,
+            "currency": "USD",
+            "date": "2025-06-18",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Logistica"
+        },
+        {
+            "id": "718367ac-444c-4303-8d8f-c41f9896295d",
+            "amount": 42448.71,
+            "currency": "ARS",
+            "date": "2025-08-15",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "585958d4-9ef4-4de1-81b4-431b5721441c",
+            "amount": 93218.6,
+            "currency": "USD",
+            "date": "2025-10-28",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Salarios"
+        },
+        {
+            "id": "692fd000-74ff-44e2-aea3-d8f86501816d",
+            "amount": 295514,
+            "currency": "ARS",
+            "date": "2025-08-23",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Logistica"
+        },
+        {
+            "id": "902b9ee3-7e27-4440-8d68-51b8d5349b06",
+            "amount": 11039.46,
+            "currency": "USD",
+            "date": "2025-11-30",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Salarios"
+        },
+        {
+            "id": "80e60cfd-2063-4b9b-a125-43dd1698e3b0",
+            "amount": 14331.81,
+            "currency": "USD",
+            "date": "2025-04-09",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "8897e31b-f9fa-4ebf-ad7d-cfa96839f153",
+            "amount": 77041.3,
+            "currency": "USD",
+            "date": "2025-04-23",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Transporte"
+        },
+        {
+            "id": "b2be3652-cdea-4295-9045-426bc6693556",
+            "amount": 142245.38,
+            "currency": "USD",
+            "date": "2025-06-07",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Transporte"
+        },
+        {
+            "id": "1cfd2c33-345b-45fa-82fe-2958a55111fe",
+            "amount": 223501.4,
+            "currency": "USD",
+            "date": "2025-09-25",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "ab1e719f-ef75-4b12-b010-2ba4e4a4107c",
+            "amount": 130673.11,
+            "currency": "ARS",
+            "date": "2025-08-17",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "de8e6835-e51c-49e8-af03-d425231085af",
+            "amount": 279260.58,
+            "currency": "ARS",
+            "date": "2025-03-12",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "f9dcda37-cfa9-4993-85c8-5ae9ef161f86",
+            "amount": 16199.15,
+            "currency": "USD",
+            "date": "2025-11-29",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "5ad3e6e8-83fc-44fa-9974-7800a80d3252",
+            "amount": 257860.53,
+            "currency": "ARS",
+            "date": "2025-09-21",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "415fcc5c-d5f4-497a-926c-722160a56ef7",
+            "amount": 268346.83,
+            "currency": "USD",
+            "date": "2025-08-23",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "5589a065-1d30-49a6-8aa8-105f50869a70",
+            "amount": 99022.43,
+            "currency": "ARS",
+            "date": "2025-10-10",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Transporte"
+        },
+        {
+            "id": "58fa7962-34d5-4a66-a9be-b4edc0bcbdc6",
+            "amount": 174495.16,
+            "currency": "ARS",
+            "date": "2025-04-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Logistica"
+        },
+        {
+            "id": "b1cfaa1e-f26a-4345-9f39-a444359b46f9",
+            "amount": 64105.53,
+            "currency": "USD",
+            "date": "2025-11-01",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "7af8c23a-67bf-4cea-804f-b335ec0607d2",
+            "amount": 210453.43,
+            "currency": "ARS",
+            "date": "2025-04-28",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Consultoria"
+        },
+        {
+            "id": "6d15bc0b-f7fb-4441-a4d4-81e2ae68f9c6",
+            "amount": 143817.26,
+            "currency": "ARS",
+            "date": "2025-05-07",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "9234da26-ff72-41fe-b7f4-f707b4c72e88",
+            "amount": 265467.6,
+            "currency": "USD",
+            "date": "2025-10-16",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "4d62ab64-5726-4301-a7ab-e36a245946f3",
+            "amount": 65081.14,
+            "currency": "USD",
+            "date": "2025-03-18",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "06523703-2aee-4645-bfdd-23a8ee1552b5",
+            "amount": 131061.02,
+            "currency": "ARS",
+            "date": "2025-04-12",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "3963d5fe-7d2d-4d22-97cf-42c258bab7f0",
+            "amount": 295369.4,
+            "currency": "ARS",
+            "date": "2025-11-22",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Alquiler"
+        },
+        {
+            "id": "cd2232b6-7e84-461a-8674-480dc1fed27e",
+            "amount": 159968.01,
+            "currency": "ARS",
+            "date": "2025-06-22",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "3cfee732-428e-4272-afe9-24f3c0df21a2",
+            "amount": 106548.43,
+            "currency": "USD",
+            "date": "2025-01-22",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "96c3cfc5-4d85-45f0-ab41-adff61d3dad6",
+            "amount": 246994.94,
+            "currency": "ARS",
+            "date": "2025-06-05",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Salarios"
+        },
+        {
+            "id": "7a34d0fe-b64f-41a9-a91d-c23acd2c0116",
+            "amount": 14519.98,
+            "currency": "USD",
+            "date": "2025-12-21",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "96918407-8ea4-4997-b9ba-7222ceb13e6e",
+            "amount": 227365.67,
+            "currency": "ARS",
+            "date": "2025-02-21",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Transporte"
+        },
+        {
+            "id": "4f29fe13-0095-41de-9586-6ffbebd23550",
+            "amount": 14310.47,
+            "currency": "USD",
+            "date": "2025-12-10",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "a482acf5-5fe2-44f3-b70f-233f01b0d961",
+            "amount": 71714.27,
+            "currency": "ARS",
+            "date": "2025-10-29",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "ae0cd6bd-51ff-4597-835c-14d0879a780c",
+            "amount": 291464.83,
+            "currency": "ARS",
+            "date": "2025-10-25",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Suministros"
+        },
+        {
+            "id": "e706bdb6-6e0e-4546-8ddc-04b558d9712f",
+            "amount": 43648,
+            "currency": "ARS",
+            "date": "2025-10-31",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Otros"
+        },
+        {
+            "id": "4c4681c2-9851-49d9-8f29-c0726c48f089",
+            "amount": 11674.07,
+            "currency": "USD",
+            "date": "2025-10-01",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "48c31722-dc37-4ce3-8830-6c02084e2bd1",
+            "amount": 233568.83,
+            "currency": "ARS",
+            "date": "2025-05-31",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "b4e255bb-3317-4331-92ee-25ecdf5aba3b",
+            "amount": 214572.07,
+            "currency": "USD",
+            "date": "2025-09-22",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "0510333f-7602-4dc1-af53-5be02f7e3517",
+            "amount": 252163.12,
+            "currency": "ARS",
+            "date": "2025-01-22",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Suministros"
+        },
+        {
+            "id": "11927c10-3b4d-4d8d-987f-b408eefeb214",
+            "amount": 85063.33,
+            "currency": "USD",
+            "date": "2025-10-03",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "bd83b565-b398-4fd6-ae1f-0bdac4fc3bed",
+            "amount": 195330.99,
+            "currency": "USD",
+            "date": "2025-10-26",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "ae19bb49-fe34-4a67-9a80-840a64c34c86",
+            "amount": 250509.69,
+            "currency": "USD",
+            "date": "2025-04-25",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Suministros"
+        },
+        {
+            "id": "3248c90b-d31a-4353-af29-128c461a0f62",
+            "amount": 59225.96,
+            "currency": "ARS",
+            "date": "2025-04-04",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "84139caa-6286-4b29-b89a-2844695a0c40",
+            "amount": 242065.98,
+            "currency": "USD",
+            "date": "2025-01-26",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Otros"
+        },
+        {
+            "id": "d0e876a6-61d8-4ae9-8af0-0aef80bced8a",
+            "amount": 191614.66,
+            "currency": "ARS",
+            "date": "2025-12-14",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Salarios"
+        },
+        {
+            "id": "8f661d62-c036-45a4-9331-2fda358616ab",
+            "amount": 87434.68,
+            "currency": "ARS",
+            "date": "2025-03-04",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "22d66517-bbe4-4531-9a8a-d354a6fe505b",
+            "amount": 259593.44,
+            "currency": "ARS",
+            "date": "2025-05-15",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Alquiler"
+        },
+        {
+            "id": "44450fa0-6021-4a53-beee-66d4a308f78a",
+            "amount": 37146.53,
+            "currency": "USD",
+            "date": "2025-11-05",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "877905bf-f530-4186-8a3c-c547cf58e7cf",
+            "amount": 183228.85,
+            "currency": "ARS",
+            "date": "2025-06-16",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Suministros"
+        },
+        {
+            "id": "f00541a0-f2bb-4005-9659-7f21c35452c5",
+            "amount": 138489.08,
+            "currency": "USD",
+            "date": "2025-05-14",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "c1db8f75-e93c-4f52-8028-1cf8f2df4999",
+            "amount": 238639.89,
+            "currency": "ARS",
+            "date": "2025-06-05",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Alquiler"
+        },
+        {
+            "id": "073fbec0-394c-47e5-9d20-cfc1ecce434f",
+            "amount": 181120.93,
+            "currency": "ARS",
+            "date": "2025-09-10",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "ff26c51a-a6f6-4002-a74f-e28a29b5dbc7",
+            "amount": 100212.41,
+            "currency": "USD",
+            "date": "2025-11-25",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "743c84d3-96cb-4f27-822b-fcc3b8d1603b",
+            "amount": 66850.42,
+            "currency": "ARS",
+            "date": "2025-07-05",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Salarios"
+        },
+        {
+            "id": "782cd426-ecde-49e8-9682-1e243e912e20",
+            "amount": 87405.15,
+            "currency": "USD",
+            "date": "2025-01-18",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Alquiler"
+        },
+        {
+            "id": "54c5035a-4535-4aed-accd-e51e9be94cdd",
+            "amount": 31624.44,
+            "currency": "USD",
+            "date": "2025-08-20",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Transporte"
+        },
+        {
+            "id": "a753fa3b-f2b8-46f1-8766-4b23f67614cf",
+            "amount": 147382.4,
+            "currency": "USD",
+            "date": "2025-04-28",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Transporte"
+        },
+        {
+            "id": "4b3c931c-a52d-4696-bfcd-526bfd6ec204",
+            "amount": 162467.78,
+            "currency": "USD",
+            "date": "2025-06-19",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Logistica"
+        },
+        {
+            "id": "32873127-f751-4f82-85bf-93335137bd50",
+            "amount": 242953.59,
+            "currency": "USD",
+            "date": "2025-03-23",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Consultoria"
+        },
+        {
+            "id": "c5c5b0fe-7517-472e-bc21-43672d1fdead",
+            "amount": 20637.44,
+            "currency": "USD",
+            "date": "2025-12-02",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "f74d51fd-8b1f-4f51-b714-631837a78320",
+            "amount": 266718.69,
+            "currency": "ARS",
+            "date": "2025-03-25",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "c9573326-51c7-4dd9-b1fe-8ae5a8c93819",
+            "amount": 253942.09,
+            "currency": "ARS",
+            "date": "2025-11-06",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "caeea75c-c94d-4521-afd0-20b91f6156bd",
+            "amount": 70687.73,
+            "currency": "USD",
+            "date": "2025-10-08",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "10380d09-2437-4718-ad72-98d3455ef091",
+            "amount": 121318.59,
+            "currency": "USD",
+            "date": "2025-02-12",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Logistica"
+        },
+        {
+            "id": "8367de62-f05a-4267-8cd1-3f16b6a294db",
+            "amount": 14855.41,
+            "currency": "ARS",
+            "date": "2025-03-26",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "cde824bc-c83f-4784-9384-3d3136a70358",
+            "amount": 204183.01,
+            "currency": "ARS",
+            "date": "2025-06-18",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Publicidad"
+        },
+        {
+            "id": "a9ad0447-9024-4b63-aa57-063278e8c86e",
+            "amount": 202939.56,
+            "currency": "USD",
+            "date": "2025-04-12",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Transporte"
+        },
+        {
+            "id": "4634e3e5-9a69-4238-b1a3-ca6222adf3fa",
+            "amount": 31829.33,
+            "currency": "ARS",
+            "date": "2025-04-11",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Otros"
+        },
+        {
+            "id": "86fa9c43-5a82-4a97-b24b-2ec2dd6a0da0",
+            "amount": 26458.59,
+            "currency": "USD",
+            "date": "2025-03-18",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "c7eea902-0fc5-422e-92ff-599d4bbcc8c9",
+            "amount": 270908.49,
+            "currency": "ARS",
+            "date": "2025-09-15",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "598594b9-07b9-489b-b69d-fc50fe0c0fa8",
+            "amount": 274223.77,
+            "currency": "ARS",
+            "date": "2025-04-14",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Consultoria"
+        },
+        {
+            "id": "1bcc7716-dfe1-41ab-9013-590aad7487ed",
+            "amount": 250914.24,
+            "currency": "ARS",
+            "date": "2025-12-13",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "2d3985f0-634e-4c6c-9b7a-7bd602edd03e",
+            "amount": 110150.89,
+            "currency": "USD",
+            "date": "2025-12-05",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "7cb3c863-b4ba-45ed-bc20-ef83e6cf1745",
+            "amount": 101509.77,
+            "currency": "ARS",
+            "date": "2025-11-29",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Transporte"
+        },
+        {
+            "id": "cf507fd0-0685-4687-a2a5-42032099603d",
+            "amount": 231947.6,
+            "currency": "USD",
+            "date": "2025-09-17",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Otros"
+        },
+        {
+            "id": "067ba47a-c5c4-422b-8fe0-0edba884428d",
+            "amount": 261823.52,
+            "currency": "ARS",
+            "date": "2025-11-27",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Logistica"
+        },
+        {
+            "id": "7ab99de2-fcb2-4607-8951-da89e5f9a02b",
+            "amount": 75514.7,
+            "currency": "USD",
+            "date": "2025-03-30",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "4779aafc-b800-44cd-a4d4-be0280d79138",
+            "amount": 130261.84,
+            "currency": "USD",
+            "date": "2025-11-16",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Salarios"
+        },
+        {
+            "id": "e1585f14-7e3c-4233-b323-9694c2a8f8aa",
+            "amount": 275348.41,
+            "currency": "ARS",
+            "date": "2025-03-21",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Transporte"
+        },
+        {
+            "id": "fb3d3082-38f5-4173-918c-fdde6dfe68b0",
+            "amount": 247318.72,
+            "currency": "ARS",
+            "date": "2025-07-29",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "4a40d70e-f441-4ee2-a344-0470456b74b8",
+            "amount": 26944.68,
+            "currency": "ARS",
+            "date": "2025-07-04",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "3793ca2a-cb3a-4fcb-a672-19aa2f0e11ef",
+            "amount": 226507.15,
+            "currency": "ARS",
+            "date": "2025-09-22",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Otros"
+        },
+        {
+            "id": "e1b3dd00-cbce-401d-bc10-5fbec8f71460",
+            "amount": 1577.2,
+            "currency": "ARS",
+            "date": "2025-05-06",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Suministros"
+        },
+        {
+            "id": "27424459-5ff3-4462-99cc-548a433b7410",
+            "amount": 212329.09,
+            "currency": "USD",
+            "date": "2025-11-18",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "e371a000-0642-4532-b996-677f1e57e9a4",
+            "amount": 134251.18,
+            "currency": "ARS",
+            "date": "2025-05-20",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Alquiler"
+        },
+        {
+            "id": "421721cd-b084-47d7-987c-0bf3afd9cfce",
+            "amount": 41343.14,
+            "currency": "USD",
+            "date": "2025-02-15",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "6b634062-9ea4-4c54-abee-02ce34690cc9",
+            "amount": 47678.69,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "61ba27ef-fcbf-4820-8517-6c1c7a538833",
+            "amount": 279746.09,
+            "currency": "USD",
+            "date": "2025-06-04",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Suministros"
+        },
+        {
+            "id": "eaa34cbd-c55a-4cba-89e9-c6ef8d96ec3c",
+            "amount": 217534.66,
+            "currency": "USD",
+            "date": "2025-11-28",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Otros"
+        },
+        {
+            "id": "f8fc0bf4-1d23-4307-9bae-cc196ef9e9df",
+            "amount": 248060.11,
+            "currency": "ARS",
+            "date": "2025-06-09",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Otros"
+        },
+        {
+            "id": "f5fe3b45-7cfc-4470-a9ad-690a939e0c72",
+            "amount": 3196.19,
+            "currency": "ARS",
+            "date": "2025-06-25",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Otros"
+        },
+        {
+            "id": "4c246e28-18ad-4477-a65c-4c89a44bab64",
+            "amount": 194074.37,
+            "currency": "ARS",
+            "date": "2025-12-14",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "87bc0e6b-1a90-4eeb-bdff-3d58520e9cbd",
+            "amount": 27496.36,
+            "currency": "ARS",
+            "date": "2025-04-04",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Alquiler"
+        },
+        {
+            "id": "5396406b-8780-4690-b57f-8cff597d0cc3",
+            "amount": 63497.74,
+            "currency": "ARS",
+            "date": "2025-06-10",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "46dc2559-b546-4311-8a05-2dc6830838f3",
+            "amount": 70409.65,
+            "currency": "USD",
+            "date": "2025-12-22",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Consultoria"
+        },
+        {
+            "id": "320950b0-9cb3-448a-8a5f-3c9274b686e6",
+            "amount": 96562.17,
+            "currency": "USD",
+            "date": "2025-12-16",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Transporte"
+        },
+        {
+            "id": "866b97f6-29cd-45f3-919b-da9374ccb473",
+            "amount": 168723.81,
+            "currency": "USD",
+            "date": "2025-01-15",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "ab7b4726-14cd-4d47-b7eb-18050134196d",
+            "amount": 144215.58,
+            "currency": "ARS",
+            "date": "2025-06-16",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Salarios"
+        },
+        {
+            "id": "d21336df-78ae-4111-b17d-4f8582fb2249",
+            "amount": 229899.18,
+            "currency": "USD",
+            "date": "2025-05-26",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "3b1a24c2-f5ae-4da9-8251-cd8b2bd40734",
+            "amount": 148127.51,
+            "currency": "USD",
+            "date": "2025-07-28",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "f5564501-b6da-4c58-a89b-ab348a0b35a8",
+            "amount": 226166.76,
+            "currency": "ARS",
+            "date": "2025-03-22",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Otros"
+        },
+        {
+            "id": "d585da51-bad5-4514-9120-d2998a436367",
+            "amount": 194941.01,
+            "currency": "ARS",
+            "date": "2025-09-15",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Suministros"
+        },
+        {
+            "id": "a635c057-4b54-475e-a9cb-327c5afe9d83",
+            "amount": 4426.81,
+            "currency": "ARS",
+            "date": "2025-07-24",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "b3931ca7-11bd-4bfa-bb2e-8cb733471079",
+            "amount": 81105.48,
+            "currency": "USD",
+            "date": "2025-11-07",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "b5f6cd79-e526-4c23-941c-ddcff16217b9",
+            "amount": 249480.28,
+            "currency": "ARS",
+            "date": "2025-09-28",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "8d73e8d6-e9f6-4a85-937b-0c252741112c",
+            "amount": 245333.93,
+            "currency": "USD",
+            "date": "2025-01-12",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "c3f6a21e-e13d-46c2-948b-0f3cead28ed1",
+            "amount": 27098.98,
+            "currency": "USD",
+            "date": "2025-07-19",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "c0a534e3-9ea7-46df-b9cb-208def952dde",
+            "amount": 93056.65,
+            "currency": "ARS",
+            "date": "2025-11-09",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Transporte"
+        },
+        {
+            "id": "6e3b6345-006b-4b1e-936c-a922b01c28bd",
+            "amount": 240892.99,
+            "currency": "ARS",
+            "date": "2025-10-17",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "4c36ed8d-2f42-43e9-b913-b3155a2b2146",
+            "amount": 243454.8,
+            "currency": "USD",
+            "date": "2025-05-26",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "df856f28-ec7c-4b14-a683-50215c321661",
+            "amount": 79341.66,
+            "currency": "ARS",
+            "date": "2025-05-16",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "be1ef02d-141e-4187-a4fa-22ca7df1dcd3",
+            "amount": 5853.57,
+            "currency": "ARS",
+            "date": "2025-01-01",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Publicidad"
+        },
+        {
+            "id": "e08a380f-3858-4c95-8a46-d9ad4c0f31b2",
+            "amount": 58505,
+            "currency": "USD",
+            "date": "2025-01-11",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Logistica"
+        },
+        {
+            "id": "07c8bc31-990d-444d-8a4f-bef0ba2216b1",
+            "amount": 145681.71,
+            "currency": "USD",
+            "date": "2025-04-20",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "4714cb7c-5be1-472f-81b6-9b369075b006",
+            "amount": 117454.57,
+            "currency": "ARS",
+            "date": "2025-02-03",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "43169b2a-1081-4afb-8ce3-811b5e0e7095",
+            "amount": 212949.98,
+            "currency": "ARS",
+            "date": "2025-04-15",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "959c4cd0-296b-4a1f-90c1-64923fc5de77",
+            "amount": 211585.91,
+            "currency": "ARS",
+            "date": "2025-09-14",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "9ebc4346-905b-47c9-bdef-5d995772f47e",
+            "amount": 35365.99,
+            "currency": "USD",
+            "date": "2025-01-05",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "aa6ff511-beec-4c6e-9d48-792c5b92f671",
+            "amount": 58201.67,
+            "currency": "USD",
+            "date": "2025-07-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Consultoria"
+        },
+        {
+            "id": "3cc359cd-e5dc-4757-9ff1-4a39661aacf7",
+            "amount": 95783.34,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Publicidad"
+        },
+        {
+            "id": "b0c58ea4-9280-4dd0-8569-01c38e508e29",
+            "amount": 182731.44,
+            "currency": "USD",
+            "date": "2025-08-16",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Transporte"
+        },
+        {
+            "id": "8564d952-3142-481e-8fa9-308a6ad7dd8e",
+            "amount": 48840.69,
+            "currency": "ARS",
+            "date": "2025-08-22",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "6c3b76f7-403d-4a04-b0ad-c09289d08653",
+            "amount": 21394.15,
+            "currency": "ARS",
+            "date": "2025-06-28",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "a4b8ec54-a23a-4967-9198-cac80f9642e0",
+            "amount": 162092.42,
+            "currency": "ARS",
+            "date": "2025-06-07",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Logistica"
+        },
+        {
+            "id": "cf0892c5-f52f-47a3-ae75-229dffa3fc7e",
+            "amount": 132286.75,
+            "currency": "ARS",
+            "date": "2025-10-28",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "7851892d-1e16-4cca-a313-b84c8a890038",
+            "amount": 103625.31,
+            "currency": "USD",
+            "date": "2025-07-22",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Alquiler"
+        },
+        {
+            "id": "ceeb9bae-81ca-4fbe-a175-48951fcc391f",
+            "amount": 207337.33,
+            "currency": "USD",
+            "date": "2025-09-29",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "25824a2c-9d52-4210-98eb-8ee89d3742a5",
+            "amount": 287260.88,
+            "currency": "USD",
+            "date": "2025-12-28",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "66d05821-c449-4fd6-8add-d90340c127b9",
+            "amount": 21674.47,
+            "currency": "USD",
+            "date": "2025-11-18",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Alquiler"
+        },
+        {
+            "id": "0db41c80-9113-4afa-ad0e-0b9c6ce994ac",
+            "amount": 267385.38,
+            "currency": "USD",
+            "date": "2025-01-23",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Publicidad"
+        },
+        {
+            "id": "e61e1b44-51ae-4b81-8886-8a9b8fbdc682",
+            "amount": 209411.97,
+            "currency": "ARS",
+            "date": "2025-05-31",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Salarios"
+        },
+        {
+            "id": "9a9ce41f-dfdb-4b91-97cd-71683db6afb0",
+            "amount": 229670.78,
+            "currency": "USD",
+            "date": "2025-05-11",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "393220d9-e3d5-405a-9dda-bf9d9486c3fd",
+            "amount": 15828.35,
+            "currency": "USD",
+            "date": "2025-05-21",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Publicidad"
+        },
+        {
+            "id": "05df8164-7e0d-4ae4-b75b-c28585de04e3",
+            "amount": 223289.9,
+            "currency": "ARS",
+            "date": "2025-09-11",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Alquiler"
+        },
+        {
+            "id": "9ce61aad-bcc0-48c6-8525-1e3b9b7aa19e",
+            "amount": 237844.38,
+            "currency": "ARS",
+            "date": "2025-02-02",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "dddef6f0-1943-4fff-82fa-9985203a2cf2",
+            "amount": 70043.78,
+            "currency": "USD",
+            "date": "2025-09-24",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "1ac75797-5e98-41f4-8bc3-8ea395daccb5",
+            "amount": 180950.85,
+            "currency": "ARS",
+            "date": "2025-08-17",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "be6ee9f4-c1af-4ead-897d-0f04b8780368",
+            "amount": 207140.17,
+            "currency": "ARS",
+            "date": "2025-02-20",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "d65feeef-888a-46f8-98cf-17dcc64f8aa9",
+            "amount": 236387.92,
+            "currency": "USD",
+            "date": "2025-05-12",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Salarios"
+        },
+        {
+            "id": "02c3c407-ada8-46a1-b643-ec3734a86df7",
+            "amount": 163490.22,
+            "currency": "ARS",
+            "date": "2025-01-27",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "f8dc4397-1475-4d9c-9b16-58452a8e0dbd",
+            "amount": 185934.17,
+            "currency": "ARS",
+            "date": "2025-01-11",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "1be0bfdb-271e-45ab-93da-8fba0b519b56",
+            "amount": 192212.98,
+            "currency": "ARS",
+            "date": "2025-04-19",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "9729c104-cd51-4ff4-b4f9-52672ae237a3",
+            "amount": 279773.6,
+            "currency": "USD",
+            "date": "2025-02-17",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Publicidad"
+        },
+        {
+            "id": "291d2340-af81-48e6-9d79-1aa490bb7f36",
+            "amount": 233717.81,
+            "currency": "USD",
+            "date": "2025-09-30",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Consultoria"
+        },
+        {
+            "id": "f38e7c9c-0d32-4395-a34d-a1f67215187e",
+            "amount": 148616.54,
+            "currency": "USD",
+            "date": "2025-02-26",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "eb62c727-fe09-421a-b001-f5265e35ba4a",
+            "amount": 82628.62,
+            "currency": "ARS",
+            "date": "2025-12-15",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Suministros"
+        },
+        {
+            "id": "34300b1c-ea3e-438c-b268-f8bf8f64b621",
+            "amount": 147723.82,
+            "currency": "ARS",
+            "date": "2025-01-07",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Logistica"
+        },
+        {
+            "id": "577e3eeb-1aa5-4f5f-a91e-b1ff02ebe199",
+            "amount": 281187.74,
+            "currency": "ARS",
+            "date": "2025-04-26",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "168e0a74-6924-4ba9-82d4-b627752c6979",
+            "amount": 267962.14,
+            "currency": "USD",
+            "date": "2025-01-11",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Transporte"
+        },
+        {
+            "id": "297c712c-a9b2-4ed9-8e34-acbf056422d1",
+            "amount": 217782.01,
+            "currency": "USD",
+            "date": "2025-01-08",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Alquiler"
+        },
+        {
+            "id": "f652bd0e-a339-43bd-8449-dc883c17894c",
+            "amount": 191237.85,
+            "currency": "ARS",
+            "date": "2025-05-22",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Alquiler"
+        },
+        {
+            "id": "ac161c4e-d495-40ec-9152-90b91ee363f5",
+            "amount": 251804.86,
+            "currency": "USD",
+            "date": "2025-12-23",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Alquiler"
+        },
+        {
+            "id": "d4156c42-8fb4-48a5-94e2-c21e2995255f",
+            "amount": 192673.8,
+            "currency": "USD",
+            "date": "2025-03-07",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Otros"
+        },
+        {
+            "id": "8e2a8743-1e9a-4249-953f-69013bb892ff",
+            "amount": 218529.86,
+            "currency": "USD",
+            "date": "2025-01-31",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "566490f8-1995-4775-9ca1-d020f3913896",
+            "amount": 247506.08,
+            "currency": "ARS",
+            "date": "2025-08-31",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Consultoria"
+        },
+        {
+            "id": "cc9b0ccc-ccbb-428d-a967-d503c795a72d",
+            "amount": 228676.1,
+            "currency": "ARS",
+            "date": "2025-08-13",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Logistica"
+        },
+        {
+            "id": "b8e0004e-65b5-4b60-be12-89f96c0154dd",
+            "amount": 181575.62,
+            "currency": "USD",
+            "date": "2025-05-11",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Transporte"
+        },
+        {
+            "id": "8ecf0fdd-4a56-43a8-b31c-3b52c4153d87",
+            "amount": 194475.28,
+            "currency": "ARS",
+            "date": "2025-09-18",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Logistica"
+        },
+        {
+            "id": "e0c527e1-79ac-40c9-9d3c-c18b61b2015e",
+            "amount": 51684.87,
+            "currency": "USD",
+            "date": "2025-11-20",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "bbc48df1-0058-44ff-ba29-f68e24a6d020",
+            "amount": 271224.65,
+            "currency": "ARS",
+            "date": "2025-07-20",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "2fd592f8-3f90-4d98-87fd-4d3806a074dd",
+            "amount": 134484.81,
+            "currency": "ARS",
+            "date": "2025-03-27",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Transporte"
+        },
+        {
+            "id": "88ead655-fffe-4dbd-8abb-cfc9b315dd70",
+            "amount": 166411.27,
+            "currency": "USD",
+            "date": "2025-07-01",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Otros"
+        },
+        {
+            "id": "1ea5e672-e7cb-4e36-a525-22ca106543e8",
+            "amount": 234290.8,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Consultoria"
+        },
+        {
+            "id": "0a11b5de-e574-421d-8e7d-a1aab14ef488",
+            "amount": 71054.89,
+            "currency": "ARS",
+            "date": "2025-09-23",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Publicidad"
+        },
+        {
+            "id": "0798f200-41d1-4844-9c63-a32df38fd21b",
+            "amount": 60244.82,
+            "currency": "ARS",
+            "date": "2025-04-07",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Publicidad"
+        },
+        {
+            "id": "b15bcc49-7539-4c57-aec6-ac5a49b5f889",
+            "amount": 67869.34,
+            "currency": "ARS",
+            "date": "2025-10-28",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "4f5849c3-2dbb-479b-a4da-d2a24833eca0",
+            "amount": 40876.82,
+            "currency": "USD",
+            "date": "2025-10-05",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Otros"
+        },
+        {
+            "id": "3c2f3630-a178-4b95-a46f-ea44c5815fe0",
+            "amount": 12624.19,
+            "currency": "ARS",
+            "date": "2025-07-15",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "22354a39-c6c2-4752-bcac-246d586419fe",
+            "amount": 120806.48,
+            "currency": "USD",
+            "date": "2025-01-03",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "843cf0c1-1f49-4c13-9da5-928cd0770bef",
+            "amount": 5578.35,
+            "currency": "USD",
+            "date": "2025-04-28",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "4ac04d5b-0224-4634-a8ae-906cd15e7b97",
+            "amount": 100837.2,
+            "currency": "ARS",
+            "date": "2025-03-15",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "89b312c3-c55e-4a1e-928c-7a7e4f2f6262",
+            "amount": 263090.47,
+            "currency": "USD",
+            "date": "2025-11-23",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Transporte"
+        },
+        {
+            "id": "3c02f53c-caa1-4aa1-b6cf-25f0787c34ea",
+            "amount": 46036.19,
+            "currency": "USD",
+            "date": "2025-10-08",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "f208657a-8451-4394-877d-97ae77a39780",
+            "amount": 50308.53,
+            "currency": "ARS",
+            "date": "2025-04-18",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "c1bb0a30-7ac6-4e6f-a3e3-0c3fb59a7ef6",
+            "amount": 225151.1,
+            "currency": "ARS",
+            "date": "2025-03-03",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "685ba26f-eafb-4319-a8db-46cddd518200",
+            "amount": 154585.33,
+            "currency": "ARS",
+            "date": "2025-12-28",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Consultoria"
+        },
+        {
+            "id": "3e479d9c-ac09-4eb9-a1ee-5295a612c2fd",
+            "amount": 112391.91,
+            "currency": "USD",
+            "date": "2025-02-16",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "df1619d2-7ba8-48f3-901b-0e8bb2909f54",
+            "amount": 79541.74,
+            "currency": "USD",
+            "date": "2025-02-08",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Publicidad"
+        },
+        {
+            "id": "1965307d-57d5-4928-acb8-517246428994",
+            "amount": 266244.88,
+            "currency": "ARS",
+            "date": "2025-04-15",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "d02325e1-4619-4fe0-bf3f-99df9960d0eb",
+            "amount": 292754.48,
+            "currency": "USD",
+            "date": "2025-08-06",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "5dc8bb36-ea96-4620-91b8-7709a3a17cb0",
+            "amount": 3241.8,
+            "currency": "ARS",
+            "date": "2025-07-01",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "8869cf17-00ae-48d0-af6b-f16b99266645",
+            "amount": 289274.04,
+            "currency": "USD",
+            "date": "2025-05-09",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "963369bf-f248-4c5c-bf01-80e999637d42",
+            "amount": 163917.31,
+            "currency": "ARS",
+            "date": "2025-10-27",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "18e8cfbe-5625-4d01-87f0-07b044121587",
+            "amount": 282145.74,
+            "currency": "ARS",
+            "date": "2025-01-06",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "2c3b08ad-52f1-480b-81bd-e6ec89b4bdc0",
+            "amount": 15969.96,
+            "currency": "ARS",
+            "date": "2025-06-08",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "133297aa-d993-45c5-ac8a-92fce0cef17d",
+            "amount": 85728.34,
+            "currency": "USD",
+            "date": "2025-07-25",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Publicidad"
+        },
+        {
+            "id": "22a0cf64-c3bf-4fef-9783-f9114ccbe1e7",
+            "amount": 191507.14,
+            "currency": "USD",
+            "date": "2025-08-29",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Publicidad"
+        },
+        {
+            "id": "bf8f8c09-51f8-4b3b-82b1-00a3eeeb9317",
+            "amount": 179343.9,
+            "currency": "ARS",
+            "date": "2025-10-07",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "7420993b-4b3b-45c0-a01d-f8067dc895ce",
+            "amount": 234696.1,
+            "currency": "USD",
+            "date": "2025-11-10",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Consultoria"
+        },
+        {
+            "id": "f36572b3-e5de-4389-8a8f-6ca9ffc44270",
+            "amount": 246029.45,
+            "currency": "USD",
+            "date": "2025-10-20",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "e8b0e2ea-a743-4710-9c6e-2051b9df9636",
+            "amount": 122575.84,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Consultoria"
+        },
+        {
+            "id": "fd2b0086-c205-4879-a4c7-ce90e8ed9289",
+            "amount": 105825.98,
+            "currency": "USD",
+            "date": "2025-04-20",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Otros"
+        },
+        {
+            "id": "c7a349ec-0d3b-4a36-a425-35d0d9c20e75",
+            "amount": 114456.84,
+            "currency": "ARS",
+            "date": "2025-07-01",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "d3f1e510-f1ed-43dd-9d58-88eb3af6a07c",
+            "amount": 23108.07,
+            "currency": "ARS",
+            "date": "2025-11-15",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "ebb42cfb-cf11-48f5-ac38-2c74bb9221ae",
+            "amount": 19634.83,
+            "currency": "USD",
+            "date": "2025-01-03",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Publicidad"
+        },
+        {
+            "id": "d2ed60a1-041d-4feb-9b94-7efbb39369ac",
+            "amount": 13259.95,
+            "currency": "ARS",
+            "date": "2025-07-20",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "344a0068-e1c8-48fa-8ec8-412d4d35522e",
+            "amount": 135746.56,
+            "currency": "ARS",
+            "date": "2025-12-03",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Publicidad"
+        },
+        {
+            "id": "942f2207-be04-40a2-9047-f7c12045b64f",
+            "amount": 4150.1,
+            "currency": "USD",
+            "date": "2025-10-20",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "ac651080-c6fb-4522-9678-be4a16e5da0a",
+            "amount": 224920.26,
+            "currency": "USD",
+            "date": "2025-02-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "7c2e261d-6063-4da9-baa6-4693c0775045",
+            "amount": 156182.47,
+            "currency": "USD",
+            "date": "2025-11-04",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "28e85c8f-73ec-4451-9eeb-1cbc55b2fb3f",
+            "amount": 40027.97,
+            "currency": "USD",
+            "date": "2025-10-09",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Otros"
+        },
+        {
+            "id": "05d33423-de52-4c75-b79c-f47e98ac0c32",
+            "amount": 76809.91,
+            "currency": "USD",
+            "date": "2025-06-17",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "29a999ff-d471-4f33-a112-d5b7c301f2fc",
+            "amount": 27977,
+            "currency": "USD",
+            "date": "2025-06-30",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Alquiler"
+        },
+        {
+            "id": "a3ca9d73-6b34-4ad8-830b-c561d0fe29b0",
+            "amount": 58763.45,
+            "currency": "USD",
+            "date": "2025-05-06",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "17efd356-ba2e-4b1d-a4b6-59263ad72a5a",
+            "amount": 241110.36,
+            "currency": "ARS",
+            "date": "2025-03-01",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Consultoria"
+        },
+        {
+            "id": "63a5517f-f6f8-4267-a2bb-1c435173a5ea",
+            "amount": 231748.8,
+            "currency": "USD",
+            "date": "2025-07-10",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Suministros"
+        },
+        {
+            "id": "75d0cea5-bd32-489b-99a8-5164b4b925c2",
+            "amount": 118717.99,
+            "currency": "ARS",
+            "date": "2025-03-03",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "dd31e2ae-064e-4d66-90ac-6612083976d9",
+            "amount": 220469.86,
+            "currency": "USD",
+            "date": "2025-08-10",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "4e57d9da-1557-4327-8a69-cf5b5af7ead8",
+            "amount": 57267.02,
+            "currency": "ARS",
+            "date": "2025-09-11",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Consultoria"
+        },
+        {
+            "id": "d6a8bb62-476a-4a20-875d-3bbba68a4942",
+            "amount": 241276.01,
+            "currency": "ARS",
+            "date": "2025-12-05",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "4a19eefa-d90a-4f29-8847-394ff19fc8a2",
+            "amount": 25204.29,
+            "currency": "ARS",
+            "date": "2025-11-11",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "74ec0ddd-e9f3-4488-ac3d-ba6ce23efdb1",
+            "amount": 176482.38,
+            "currency": "ARS",
+            "date": "2025-07-11",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Consultoria"
+        },
+        {
+            "id": "a1706bda-a3ce-4428-9d52-bcbf70fa1577",
+            "amount": 118271.31,
+            "currency": "USD",
+            "date": "2025-05-04",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "2672d0d7-85e6-430e-b0e0-c217f9d0290b",
+            "amount": 8803.45,
+            "currency": "ARS",
+            "date": "2025-12-26",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "9e1d75bb-e363-41b4-ab1a-3ffb1ae0032e",
+            "amount": 9814.14,
+            "currency": "ARS",
+            "date": "2025-11-01",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "a94e4bc6-8a18-41a5-b2e8-cb8e72712484",
+            "amount": 45485.98,
+            "currency": "ARS",
+            "date": "2025-07-10",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "4e291d8b-412b-46e6-a47b-2084a2b169c1",
+            "amount": 218500.51,
+            "currency": "USD",
+            "date": "2025-01-26",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "5b0b47c4-a602-4cea-a7cc-321fada3d827",
+            "amount": 28910.55,
+            "currency": "ARS",
+            "date": "2025-07-25",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "3ace501c-af88-4a82-8082-88f154ab4034",
+            "amount": 92452.32,
+            "currency": "USD",
+            "date": "2025-04-17",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "38594e9e-bf49-43d6-a10b-37782265921a",
+            "amount": 260530.03,
+            "currency": "USD",
+            "date": "2025-02-10",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Publicidad"
+        },
+        {
+            "id": "f6c351a9-44f7-4974-8ceb-c4a39e88b796",
+            "amount": 69115.14,
+            "currency": "USD",
+            "date": "2025-01-31",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Alquiler"
+        },
+        {
+            "id": "dce839c1-d5e6-47ca-9b90-1ff5401dd06f",
+            "amount": 118985.72,
+            "currency": "USD",
+            "date": "2025-09-20",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "90ef4177-51b1-45fe-9a65-a7b5744bd24f",
+            "amount": 137874.63,
+            "currency": "USD",
+            "date": "2025-12-30",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "6472f561-e183-4c2f-a825-ea8befc04b59",
+            "amount": 176983.07,
+            "currency": "ARS",
+            "date": "2025-08-18",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "15b7c516-9a0e-41c0-a8b6-14716874e4f8",
+            "amount": 86596.11,
+            "currency": "ARS",
+            "date": "2025-01-28",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Suministros"
+        },
+        {
+            "id": "4d475c19-3bcf-45e5-be14-c141f945f4d4",
+            "amount": 79859.94,
+            "currency": "USD",
+            "date": "2025-05-04",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "1de0ef0e-35f0-4d84-b7b7-8bc92c0d47d5",
+            "amount": 227273.85,
+            "currency": "USD",
+            "date": "2025-04-15",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Alquiler"
+        },
+        {
+            "id": "09c94c0b-1525-4672-b8be-e45487cc4292",
+            "amount": 191102.98,
+            "currency": "USD",
+            "date": "2025-04-07",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "5b6ea4f0-09b9-484c-bf4b-a32e56506174",
+            "amount": 121991.64,
+            "currency": "ARS",
+            "date": "2025-10-30",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Logistica"
+        },
+        {
+            "id": "3a904445-cd08-46fd-90b2-e56922bb9145",
+            "amount": 159707.4,
+            "currency": "ARS",
+            "date": "2025-07-23",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "ebe84db7-d1dd-4a69-b9d3-92e8cadccb78",
+            "amount": 99315.04,
+            "currency": "ARS",
+            "date": "2025-12-11",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "0c671cec-b8a7-4ccb-b781-7b01bccae710",
+            "amount": 34211.82,
+            "currency": "USD",
+            "date": "2025-08-29",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Alquiler"
+        },
+        {
+            "id": "d609dfc0-6840-466d-a7e9-df4968a7cd97",
+            "amount": 240505.42,
+            "currency": "ARS",
+            "date": "2025-10-17",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Logistica"
+        },
+        {
+            "id": "57ad0c55-f0a5-4b8f-b790-9cb505f7e935",
+            "amount": 264766.6,
+            "currency": "USD",
+            "date": "2025-11-25",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "04b7e716-a08b-48a1-915b-01f2b0dadf5d",
+            "amount": 175786.05,
+            "currency": "ARS",
+            "date": "2025-07-22",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Salarios"
+        },
+        {
+            "id": "c4ce323d-8de9-4057-a01e-6bd344a36e3f",
+            "amount": 156342.79,
+            "currency": "USD",
+            "date": "2025-07-08",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "005f4ee1-84a7-4b44-b53e-6a76a75360a5",
+            "amount": 56813.61,
+            "currency": "USD",
+            "date": "2025-02-20",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "ce5a49bc-8490-47d9-8be8-52ae87f4a926",
+            "amount": 265209.48,
+            "currency": "USD",
+            "date": "2025-11-15",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Suministros"
+        },
+        {
+            "id": "6508fc60-9d97-4b4a-aa4a-df8b2187f8f2",
+            "amount": 191507.55,
+            "currency": "ARS",
+            "date": "2025-03-17",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "dd0cc891-a393-4270-b2aa-10f6cad87273",
+            "amount": 171745.89,
+            "currency": "ARS",
+            "date": "2025-06-28",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "67ef84a7-5535-43f9-abbc-594628cfed8e",
+            "amount": 160402.6,
+            "currency": "USD",
+            "date": "2025-01-01",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "98684116-7c52-4ad8-b863-474734efed4b",
+            "amount": 292759.24,
+            "currency": "USD",
+            "date": "2025-05-23",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Suministros"
+        },
+        {
+            "id": "13a85406-ed1e-48a0-a23d-bfc6040bf517",
+            "amount": 67600.43,
+            "currency": "USD",
+            "date": "2025-09-10",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "beb382d1-74a3-4072-b903-3068f6219c56",
+            "amount": 252839.7,
+            "currency": "ARS",
+            "date": "2025-02-25",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "ae1170e8-28e1-4a6c-8bc2-6f5c87079795",
+            "amount": 156254.26,
+            "currency": "ARS",
+            "date": "2025-10-30",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "0cdfc6d3-ee88-4df4-8b31-b420d511a492",
+            "amount": 143985.93,
+            "currency": "ARS",
+            "date": "2025-03-08",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "db0765ed-d37d-4912-a570-e4e569e3bc2b",
+            "amount": 48584.05,
+            "currency": "USD",
+            "date": "2025-01-22",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Publicidad"
+        },
+        {
+            "id": "3f0d8bb0-9f24-4613-927d-2be21fb1a219",
+            "amount": 236900.8,
+            "currency": "USD",
+            "date": "2025-02-16",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Alquiler"
+        },
+        {
+            "id": "e763cdee-6e7f-4695-8759-513fadcf02bf",
+            "amount": 109634.55,
+            "currency": "USD",
+            "date": "2025-12-10",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Otros"
+        },
+        {
+            "id": "61b797fd-0c23-4077-9b38-3565d74f2332",
+            "amount": 3396.62,
+            "currency": "USD",
+            "date": "2025-04-05",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Consultoria"
+        },
+        {
+            "id": "e102b5b2-8e80-4bdb-ac4e-2595d91ab2b4",
+            "amount": 183586.45,
+            "currency": "ARS",
+            "date": "2025-08-28",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "025f0b43-c9b7-4131-bcb8-6a42a15f7e7a",
+            "amount": 265910.31,
+            "currency": "ARS",
+            "date": "2025-04-01",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Otros"
+        },
+        {
+            "id": "3dbd37fc-a0ce-46f0-af2f-5f709082f0c6",
+            "amount": 42359.97,
+            "currency": "ARS",
+            "date": "2025-10-25",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "1afef63a-8147-4029-adef-9c98efb768ef",
+            "amount": 54081.75,
+            "currency": "ARS",
+            "date": "2025-04-07",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Publicidad"
+        },
+        {
+            "id": "e80eb25e-08a5-4a9c-86c3-42b1cd155260",
+            "amount": 159999.63,
+            "currency": "ARS",
+            "date": "2025-06-08",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Otros"
+        },
+        {
+            "id": "c372da1f-fa80-4285-be4a-68965b88280c",
+            "amount": 2449.44,
+            "currency": "ARS",
+            "date": "2025-07-19",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "446e182c-21d5-4247-8de2-e2e7c39a1f7a",
+            "amount": 256546.43,
+            "currency": "USD",
+            "date": "2025-07-15",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "2a0d8847-c0a3-4d77-a1c3-78edece17a16",
+            "amount": 196071.94,
+            "currency": "ARS",
+            "date": "2025-02-14",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Otros"
+        },
+        {
+            "id": "e8c35b24-a83e-4db6-ae5d-1a11951e384a",
+            "amount": 152063.88,
+            "currency": "USD",
+            "date": "2025-10-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Consultoria"
+        },
+        {
+            "id": "4704670c-862b-46e7-832d-aad5730b6821",
+            "amount": 149679.34,
+            "currency": "ARS",
+            "date": "2025-06-27",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Otros"
+        },
+        {
+            "id": "98ae0c7d-b2f8-43ca-9131-5a0ac17be54a",
+            "amount": 60981.21,
+            "currency": "ARS",
+            "date": "2025-06-02",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "502edffb-46ff-45d8-8f32-09cb3f6f2671",
+            "amount": 71006.25,
+            "currency": "ARS",
+            "date": "2025-11-05",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Transporte"
+        },
+        {
+            "id": "6bac1b35-2751-4afb-8b70-c02d1f8ed9bc",
+            "amount": 136783.39,
+            "currency": "ARS",
+            "date": "2025-02-02",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "070d3806-f50f-446a-be4e-0bda78046afe",
+            "amount": 129435.91,
+            "currency": "USD",
+            "date": "2025-05-15",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "8f64aed1-d803-4a12-a679-2d87f6776f6b",
+            "amount": 264837.57,
+            "currency": "USD",
+            "date": "2025-07-07",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "a9cd7d4e-eb45-4d20-a029-e21894b1ce0d",
+            "amount": 47073.09,
+            "currency": "USD",
+            "date": "2025-01-21",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "5ebcd530-1495-4ba6-b90a-b6651486bed3",
+            "amount": 131802.92,
+            "currency": "ARS",
+            "date": "2025-01-20",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "e9fe9b11-ca4a-4369-a72f-c1eea7e1376c",
+            "amount": 4025.6,
+            "currency": "ARS",
+            "date": "2025-11-11",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "e223bcf2-649f-4eba-a970-36116c16cfcd",
+            "amount": 72605.57,
+            "currency": "USD",
+            "date": "2025-01-14",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Transporte"
+        },
+        {
+            "id": "44bf70fb-993e-4745-9a1d-ed77ce8c5ef2",
+            "amount": 243128.26,
+            "currency": "USD",
+            "date": "2025-09-23",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Suministros"
+        },
+        {
+            "id": "42837fdf-1765-4805-bece-ba2920a4b857",
+            "amount": 43823.28,
+            "currency": "USD",
+            "date": "2025-12-26",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "a792a757-ec4f-4661-b0a5-a62dc3ff4b94",
+            "amount": 92601.84,
+            "currency": "USD",
+            "date": "2025-10-09",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "7a938427-d435-4946-860c-48e2c17cce92",
+            "amount": 47470.91,
+            "currency": "ARS",
+            "date": "2025-08-18",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Transporte"
+        },
+        {
+            "id": "7a28b6bb-37c1-42dd-969b-0bbf5d481f73",
+            "amount": 44548.59,
+            "currency": "USD",
+            "date": "2025-12-09",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Suministros"
+        },
+        {
+            "id": "37cf1a94-a7f3-4ce6-ac04-0be0ddcb040a",
+            "amount": 79928.63,
+            "currency": "USD",
+            "date": "2025-04-16",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "2eed09b6-40ec-41f5-a277-171d164db3f0",
+            "amount": 188511.83,
+            "currency": "ARS",
+            "date": "2025-12-28",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Suministros"
+        },
+        {
+            "id": "c5519eda-ac19-45fc-b84d-661936fa7d54",
+            "amount": 62554.66,
+            "currency": "ARS",
+            "date": "2025-10-02",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Logistica"
+        },
+        {
+            "id": "71e0d17b-6349-46eb-99f2-feb5d019e7e2",
+            "amount": 152535.31,
+            "currency": "USD",
+            "date": "2025-02-02",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "6d22dde4-a136-4360-a6de-d6cfd0cb6d57",
+            "amount": 259310.69,
+            "currency": "USD",
+            "date": "2025-02-25",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "3c3d5cf9-5a92-46a7-b823-244771a825fe",
+            "amount": 270920.35,
+            "currency": "ARS",
+            "date": "2025-10-12",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Alquiler"
+        },
+        {
+            "id": "070cb4b6-b014-4319-8800-d8a982e71cbf",
+            "amount": 4570.47,
+            "currency": "ARS",
+            "date": "2025-09-16",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "118e659e-9ba2-4a19-8219-c442617fa0ab",
+            "amount": 243756.57,
+            "currency": "ARS",
+            "date": "2025-01-24",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "48c898e7-aae1-46c6-92a7-aba0e3912969",
+            "amount": 42127.94,
+            "currency": "USD",
+            "date": "2025-03-14",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Transporte"
+        },
+        {
+            "id": "25d11c5f-e9f8-407e-b17c-9dc6826b83ff",
+            "amount": 151520.09,
+            "currency": "ARS",
+            "date": "2025-01-28",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "447410e6-610d-43ee-9b94-433ae79d05b4",
+            "amount": 293049.96,
+            "currency": "ARS",
+            "date": "2025-09-05",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "8fe9eb62-aaa8-42fc-bd9c-10839365d72e",
+            "amount": 77482.97,
+            "currency": "ARS",
+            "date": "2025-08-05",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "4b0f00dd-3ce9-4c26-b522-fe6fffed674d",
+            "amount": 226431.36,
+            "currency": "ARS",
+            "date": "2025-02-01",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "86cf5169-4412-4ae0-98f2-ed0b66c7eb1b",
+            "amount": 235149.65,
+            "currency": "ARS",
+            "date": "2025-02-10",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "eb1d0ce2-0eed-4aa8-ae06-4017f0db3899",
+            "amount": 250818.7,
+            "currency": "ARS",
+            "date": "2025-10-02",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "cfc6d761-8bbd-48f2-aead-c7983832a071",
+            "amount": 27775.06,
+            "currency": "ARS",
+            "date": "2025-11-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "fb2a581d-00ca-446b-acd6-4659f2307267",
+            "amount": 282918.22,
+            "currency": "USD",
+            "date": "2025-02-27",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "0c3c12fa-f7c8-41d7-b190-62745eda7664",
+            "amount": 83063.87,
+            "currency": "USD",
+            "date": "2025-07-14",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Otros"
+        },
+        {
+            "id": "b4a1672c-b40c-4c4f-beb1-a0fa3f7cd042",
+            "amount": 208738.68,
+            "currency": "ARS",
+            "date": "2025-04-19",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "7ded5f44-fdba-430f-8a84-dde4b0b92874",
+            "amount": 82643.9,
+            "currency": "USD",
+            "date": "2025-07-31",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Publicidad"
+        },
+        {
+            "id": "c67f39ad-088b-499a-a159-fba467c5d12a",
+            "amount": 258823.08,
+            "currency": "ARS",
+            "date": "2025-05-13",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Otros"
+        },
+        {
+            "id": "4a1342af-5a76-48d6-92ea-08409cb0dfa2",
+            "amount": 110995.71,
+            "currency": "USD",
+            "date": "2025-12-11",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Otros"
+        },
+        {
+            "id": "022394da-7ecd-4e78-a705-f6558544d602",
+            "amount": 2503.54,
+            "currency": "USD",
+            "date": "2025-07-02",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "6832fc67-510d-4401-9c8b-0dceb9204eda",
+            "amount": 69714.59,
+            "currency": "ARS",
+            "date": "2025-12-11",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "477fcbd6-f1fa-4db4-976a-aee472743847",
+            "amount": 255286.13,
+            "currency": "ARS",
+            "date": "2025-03-27",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "2d78d1ed-79f2-4167-b115-3e2cf11fd5a6",
+            "amount": 174172.08,
+            "currency": "USD",
+            "date": "2025-10-23",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "e8e2998c-0c77-4e42-ac1a-b97236ee4306",
+            "amount": 241056.37,
+            "currency": "ARS",
+            "date": "2025-08-28",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "32379141-c84d-4f14-9414-97f27e4fff9b",
+            "amount": 174617.19,
+            "currency": "ARS",
+            "date": "2025-05-28",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Publicidad"
+        },
+        {
+            "id": "ab07b730-72ac-4c3f-9641-2fcc487a915e",
+            "amount": 296687.45,
+            "currency": "ARS",
+            "date": "2025-01-25",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Salarios"
+        },
+        {
+            "id": "0f67d82b-f1a8-4446-a601-d8913113926e",
+            "amount": 243955.2,
+            "currency": "USD",
+            "date": "2025-11-15",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "e98d2c46-4a59-496c-b361-c3c663d04b9e",
+            "amount": 212421.12,
+            "currency": "ARS",
+            "date": "2025-09-03",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Salarios"
+        },
+        {
+            "id": "b2d48725-d933-4fac-add5-c0262e585a77",
+            "amount": 179135.23,
+            "currency": "ARS",
+            "date": "2025-05-26",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "74d60191-6a37-413e-b8e9-5c40bc91c6d4",
+            "amount": 177494.11,
+            "currency": "USD",
+            "date": "2025-09-27",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "db3bfd1e-32e1-4073-8649-966c7265c914",
+            "amount": 41240.41,
+            "currency": "ARS",
+            "date": "2025-05-26",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Publicidad"
+        },
+        {
+            "id": "870ab02b-d148-42f7-bb4b-86cb0d82bf92",
+            "amount": 105946.83,
+            "currency": "USD",
+            "date": "2025-02-14",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Suministros"
+        },
+        {
+            "id": "87e0395f-af06-4f2e-8e37-60dc183766bc",
+            "amount": 164133.18,
+            "currency": "ARS",
+            "date": "2025-05-12",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "5ea02fee-9f49-4d94-bb8d-b82e25f0b8ac",
+            "amount": 56324.47,
+            "currency": "ARS",
+            "date": "2025-05-17",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Alquiler"
+        },
+        {
+            "id": "187e7e5a-0ccc-48f5-b540-332c97c3a65d",
+            "amount": 59558.12,
+            "currency": "ARS",
+            "date": "2025-02-20",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "d617a88d-f2cf-4927-bc7d-1c1775b6dbcd",
+            "amount": 295517.83,
+            "currency": "USD",
+            "date": "2025-03-27",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "99d733fd-f8e7-4a9c-9721-519dfb3de572",
+            "amount": 51220.8,
+            "currency": "USD",
+            "date": "2025-11-22",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "03786b1e-00e5-47ac-b0d1-caa89a3369d5",
+            "amount": 205806.67,
+            "currency": "USD",
+            "date": "2025-09-27",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "d8ff8304-9cd7-47c3-8c91-46c450152875",
+            "amount": 58757.24,
+            "currency": "USD",
+            "date": "2025-09-07",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "964e6513-fde2-4d8e-aaf3-91d7928aa740",
+            "amount": 199633.55,
+            "currency": "USD",
+            "date": "2025-05-07",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "0ca7b463-914b-46f3-906d-ef16ab35424f",
+            "amount": 260338.48,
+            "currency": "USD",
+            "date": "2025-08-15",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Transporte"
+        },
+        {
+            "id": "9dd7b65a-ffc1-41b9-b319-afa5c96613cd",
+            "amount": 258693.07,
+            "currency": "ARS",
+            "date": "2025-05-08",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Alquiler"
+        },
+        {
+            "id": "f23ab601-3658-4de9-a7c0-a001218dc082",
+            "amount": 102368.61,
+            "currency": "USD",
+            "date": "2025-09-28",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "b0b3a525-3b5d-468e-8e83-d7f58987145f",
+            "amount": 241951.31,
+            "currency": "USD",
+            "date": "2025-01-12",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "807f510f-0ebf-4451-96c0-a8eb904b8017",
+            "amount": 246017.13,
+            "currency": "USD",
+            "date": "2025-06-15",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "71b88106-651c-4cb8-b72b-4ecfbddcd0ae",
+            "amount": 170961.89,
+            "currency": "ARS",
+            "date": "2025-08-19",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Otros"
+        },
+        {
+            "id": "3097fb26-dac1-4ae3-b4c2-8da4668700c2",
+            "amount": 31674.73,
+            "currency": "USD",
+            "date": "2025-07-30",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "05a31cfe-58ab-4f45-905b-90bed4d4bdf0",
+            "amount": 81830,
+            "currency": "USD",
+            "date": "2025-03-20",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Transporte"
+        },
+        {
+            "id": "a6b19dd6-5501-4681-950f-37f39f1cd9d7",
+            "amount": 36421.4,
+            "currency": "ARS",
+            "date": "2025-01-26",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Logistica"
+        },
+        {
+            "id": "577b6b47-f1ad-4aeb-af99-589700706b17",
+            "amount": 97172.22,
+            "currency": "USD",
+            "date": "2025-08-22",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Transporte"
+        },
+        {
+            "id": "38cace15-8a8e-45e8-843c-6a6061de32e4",
+            "amount": 62404.66,
+            "currency": "ARS",
+            "date": "2025-04-16",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "b596b4bf-3ede-46a6-b81e-3951b613568d",
+            "amount": 32365.28,
+            "currency": "ARS",
+            "date": "2025-08-18",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "d5c8d39d-1230-4893-91b7-0e1bc30e3510",
+            "amount": 295648.14,
+            "currency": "USD",
+            "date": "2025-08-05",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "182d44eb-13d5-4ee7-9f76-43b61d03786f",
+            "amount": 220904.17,
+            "currency": "USD",
+            "date": "2025-03-11",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "7c9574e5-6f8a-4f01-8ed6-3f46a52bd3e8",
+            "amount": 110740.77,
+            "currency": "ARS",
+            "date": "2025-11-28",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Otros"
+        },
+        {
+            "id": "96d44de9-8064-469f-af48-ed14de831aca",
+            "amount": 54455.9,
+            "currency": "ARS",
+            "date": "2025-04-13",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "80119a3f-a139-43c2-9bec-4a870512406a",
+            "amount": 90296.78,
+            "currency": "ARS",
+            "date": "2025-12-12",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Publicidad"
+        },
+        {
+            "id": "80839ed8-8d40-41e4-8982-80941367e794",
+            "amount": 65678.33,
+            "currency": "USD",
+            "date": "2025-03-23",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "ba6917d6-893f-42b2-99fe-e6595b5efd22",
+            "amount": 267125.14,
+            "currency": "ARS",
+            "date": "2025-06-18",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "d4e29718-73df-475a-8c72-1a0d178519e4",
+            "amount": 98304.84,
+            "currency": "ARS",
+            "date": "2025-09-27",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Publicidad"
+        },
+        {
+            "id": "64e93a05-62f6-4338-b8bd-d474d984b16d",
+            "amount": 21343.31,
+            "currency": "USD",
+            "date": "2025-06-06",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "44228529-e1e0-46ce-9bbf-6c50262cc099",
+            "amount": 9394.93,
+            "currency": "ARS",
+            "date": "2025-07-13",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Logistica"
+        },
+        {
+            "id": "48dc9df1-34bc-4d5d-bc26-2df02269a925",
+            "amount": 291959.7,
+            "currency": "ARS",
+            "date": "2025-02-01",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Otros"
+        },
+        {
+            "id": "113fe29a-8110-4645-b8f3-dadd8e19a27e",
+            "amount": 128605.4,
+            "currency": "USD",
+            "date": "2025-08-14",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Transporte"
+        },
+        {
+            "id": "db9262b5-200d-495c-b2ee-a196e795bce5",
+            "amount": 56484.53,
+            "currency": "USD",
+            "date": "2025-12-29",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Transporte"
+        },
+        {
+            "id": "e1b83f22-c22a-410d-bb09-a7ea56f70ec0",
+            "amount": 282634.89,
+            "currency": "ARS",
+            "date": "2025-03-10",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Alquiler"
+        },
+        {
+            "id": "7cb70a9d-61f4-4b17-8690-c3fae81c7dd3",
+            "amount": 23389.57,
+            "currency": "ARS",
+            "date": "2025-06-19",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Transporte"
+        },
+        {
+            "id": "685159dd-1b07-42bd-807b-c5d26a2a1e35",
+            "amount": 259623.63,
+            "currency": "USD",
+            "date": "2025-09-30",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Logistica"
+        },
+        {
+            "id": "6ed5d911-f41e-49d6-9ae7-891221c4c3b4",
+            "amount": 122262.1,
+            "currency": "USD",
+            "date": "2025-04-03",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "5bf01e97-c712-4566-a1b3-0e791d3fd7c9",
+            "amount": 138454.1,
+            "currency": "ARS",
+            "date": "2025-10-28",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "17fc5b33-2398-4b6e-b542-18eb0f8413d7",
+            "amount": 1216.43,
+            "currency": "ARS",
+            "date": "2025-03-03",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "2b62b30b-ddde-4b0d-af68-a0a087880df0",
+            "amount": 46633.99,
+            "currency": "ARS",
+            "date": "2025-10-17",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Salarios"
+        },
+        {
+            "id": "e401b64b-b3b8-4079-ad80-941d6d497239",
+            "amount": 110588.97,
+            "currency": "USD",
+            "date": "2025-08-01",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "9ea26db5-45aa-46e3-a5ef-2f30977fcfd8",
+            "amount": 10996.64,
+            "currency": "ARS",
+            "date": "2025-10-03",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "599049a7-896a-49fd-aae0-e2b687236cae",
+            "amount": 6742.98,
+            "currency": "ARS",
+            "date": "2025-05-24",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Suministros"
+        },
+        {
+            "id": "8309f432-e7b6-4f87-968d-164c30f8d4a7",
+            "amount": 159503.56,
+            "currency": "USD",
+            "date": "2025-10-08",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "900b504b-f232-44cb-88b2-fbb815b58d9d",
+            "amount": 88878.17,
+            "currency": "USD",
+            "date": "2025-11-19",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "aa89e52b-8ad6-467a-be21-a7cd54a12a92",
+            "amount": 249082.66,
+            "currency": "ARS",
+            "date": "2025-03-31",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Consultoria"
+        },
+        {
+            "id": "c46769ec-9283-44d4-aa26-7472a57323e7",
+            "amount": 220528.33,
+            "currency": "USD",
+            "date": "2025-09-09",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "d1271941-3185-44ed-81cf-491bda6e7b77",
+            "amount": 289574.98,
+            "currency": "USD",
+            "date": "2025-03-14",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Logistica"
+        },
+        {
+            "id": "77d2c586-6b9c-46a9-9f7b-ebb97f14d7ef",
+            "amount": 80805.5,
+            "currency": "USD",
+            "date": "2025-05-27",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "b3346a65-c362-4723-ba69-32116f4b0257",
+            "amount": 48568.08,
+            "currency": "ARS",
+            "date": "2025-08-11",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "412e27e5-8899-44a1-8a48-bf7b54c92637",
+            "amount": 246048.52,
+            "currency": "USD",
+            "date": "2025-07-15",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Publicidad"
+        },
+        {
+            "id": "8d3576c6-7c90-49d7-8e5a-ab634e676219",
+            "amount": 89685.8,
+            "currency": "ARS",
+            "date": "2025-01-08",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "c8fe8ed3-9750-4194-9b20-0ad47349f573",
+            "amount": 197621.66,
+            "currency": "USD",
+            "date": "2025-01-20",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Publicidad"
+        },
+        {
+            "id": "8c2b28c6-7e59-4fb8-b273-6975b626716f",
+            "amount": 94603.45,
+            "currency": "USD",
+            "date": "2025-02-13",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Otros"
+        },
+        {
+            "id": "dbc0ace5-fd58-4be2-a0ce-db36575bac96",
+            "amount": 90937.51,
+            "currency": "ARS",
+            "date": "2025-03-26",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "aa26acc8-4381-42ca-b17c-26bad2d8eaba",
+            "amount": 280594.43,
+            "currency": "ARS",
+            "date": "2025-10-14",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "dc28a90b-bbea-4ae7-a51f-245dbb1043fa",
+            "amount": 106064.91,
+            "currency": "USD",
+            "date": "2025-06-14",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Logistica"
+        },
+        {
+            "id": "40d770db-6fba-4324-8457-b6696956e305",
+            "amount": 84640.79,
+            "currency": "USD",
+            "date": "2025-11-08",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "7819568a-b485-4bfd-b4de-166e1a1a290c",
+            "amount": 268234.88,
+            "currency": "USD",
+            "date": "2025-10-11",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Otros"
+        },
+        {
+            "id": "fcb7d632-0e1a-472a-8a59-c4358eaa9a66",
+            "amount": 275918.99,
+            "currency": "ARS",
+            "date": "2025-10-20",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "c1c79038-2dc3-4b19-938e-3d2a2977f763",
+            "amount": 89380.23,
+            "currency": "USD",
+            "date": "2025-08-31",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "ac60ea3c-97a9-4366-889c-2e96c0f0cb2c",
+            "amount": 89742.23,
+            "currency": "ARS",
+            "date": "2025-12-23",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "0a7c5197-0576-42b4-a1dc-e24305960355",
+            "amount": 55595.7,
+            "currency": "USD",
+            "date": "2025-07-29",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "b7093a1d-28ee-4c88-82b7-e7b75984811e",
+            "amount": 123482.85,
+            "currency": "USD",
+            "date": "2025-04-14",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Otros"
+        },
+        {
+            "id": "4ad5131c-ca3b-484b-94e1-ba8227dbbc26",
+            "amount": 225782.52,
+            "currency": "ARS",
+            "date": "2025-09-12",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "c4f65d5a-b3a2-4ad9-a238-b7e85cda4acc",
+            "amount": 115996.18,
+            "currency": "ARS",
+            "date": "2025-04-10",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "9e1697be-a3e3-4c91-bcd0-22b2bb62ea1f",
+            "amount": 43200.46,
+            "currency": "USD",
+            "date": "2025-01-09",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Logistica"
+        },
+        {
+            "id": "f5a86bd3-138a-463c-b0f7-45c37db3cc0b",
+            "amount": 207555.92,
+            "currency": "USD",
+            "date": "2025-10-03",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Otros"
+        },
+        {
+            "id": "d0f5fee6-fedf-4088-97ee-d9a3fe2e2ee8",
+            "amount": 3521.17,
+            "currency": "ARS",
+            "date": "2025-12-21",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "d77bad84-d22d-4756-b9d3-1b1692f0a55e",
+            "amount": 86408.81,
+            "currency": "USD",
+            "date": "2025-08-06",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Otros"
+        },
+        {
+            "id": "0b48fd53-c641-4076-8735-354bcb327bd0",
+            "amount": 248613.74,
+            "currency": "ARS",
+            "date": "2025-09-02",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Suministros"
+        },
+        {
+            "id": "27596d4d-4457-4a63-ac5c-e490e6ae70d5",
+            "amount": 193327.7,
+            "currency": "ARS",
+            "date": "2025-11-30",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Alquiler"
+        },
+        {
+            "id": "31d3b90f-5581-4786-b849-5c5230a083e8",
+            "amount": 22545.68,
+            "currency": "ARS",
+            "date": "2025-09-25",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "cec91512-2c41-4a7c-aa4f-4440e9aeba82",
+            "amount": 19294.96,
+            "currency": "ARS",
+            "date": "2025-03-25",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Transporte"
+        },
+        {
+            "id": "c3fc0551-89e9-4d97-bbae-696d64d809e4",
+            "amount": 109348.87,
+            "currency": "USD",
+            "date": "2025-09-12",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Salarios"
+        },
+        {
+            "id": "a3648fbe-12c6-4df2-b8e6-d35e4d517fa6",
+            "amount": 12531.63,
+            "currency": "ARS",
+            "date": "2025-05-29",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "b8b262c0-38ef-4a1c-8fbe-7f7e8229c031",
+            "amount": 101620.22,
+            "currency": "ARS",
+            "date": "2025-07-10",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Transporte"
+        },
+        {
+            "id": "8f2f6d86-fc43-470b-a953-c03a5c4a5db4",
+            "amount": 37781.81,
+            "currency": "ARS",
+            "date": "2025-07-09",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Salarios"
+        },
+        {
+            "id": "435736bd-c35c-465f-a1ef-66739326ffad",
+            "amount": 274863.71,
+            "currency": "ARS",
+            "date": "2025-03-25",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Suministros"
+        },
+        {
+            "id": "bd1f52a7-d729-45ce-ac38-9fa0e74bb084",
+            "amount": 296999.94,
+            "currency": "USD",
+            "date": "2025-10-20",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Otros"
+        },
+        {
+            "id": "dd36a1d2-e075-4177-afae-1874618126ab",
+            "amount": 103186.14,
+            "currency": "USD",
+            "date": "2025-11-16",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "e42e0345-5792-4622-9ef1-695ee1e072ba",
+            "amount": 162812.33,
+            "currency": "ARS",
+            "date": "2025-05-01",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Logistica"
+        },
+        {
+            "id": "1a97b6c1-16c9-4211-b27c-9815f114c2fb",
+            "amount": 268486.86,
+            "currency": "USD",
+            "date": "2025-11-01",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Alquiler"
+        },
+        {
+            "id": "6c07009d-65f8-46c5-a3fb-f7a65ff50b2d",
+            "amount": 58703.14,
+            "currency": "ARS",
+            "date": "2025-11-18",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Suministros"
+        },
+        {
+            "id": "f6062f78-2fee-4833-8a15-689c671c9b81",
+            "amount": 95056.07,
+            "currency": "USD",
+            "date": "2025-12-24",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Alquiler"
+        },
+        {
+            "id": "86f4720a-66c1-4bac-90c3-4f23c5185e52",
+            "amount": 297908.99,
+            "currency": "USD",
+            "date": "2025-01-20",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "c2d040e1-c333-4325-94d2-c5b7f58614d8",
+            "amount": 136163.37,
+            "currency": "ARS",
+            "date": "2025-04-27",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Transporte"
+        },
+        {
+            "id": "5bc4fe2e-5fc7-4380-ac92-3c9436bb4a10",
+            "amount": 141504.55,
+            "currency": "ARS",
+            "date": "2025-10-09",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "d6e7fe7a-9d4d-4d35-854d-5719e58a9b61",
+            "amount": 169292.47,
+            "currency": "ARS",
+            "date": "2025-03-04",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Consultoria"
+        },
+        {
+            "id": "6b3ebfac-fc33-4205-b4f1-a8508438a2b6",
+            "amount": 217099.84,
+            "currency": "USD",
+            "date": "2025-10-02",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "0eeda5f9-ae23-4903-9c9d-ca7f46aa5911",
+            "amount": 197881.96,
+            "currency": "ARS",
+            "date": "2025-08-30",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Salarios"
+        },
+        {
+            "id": "d5e3e419-49de-4c7b-9014-00ce6557673e",
+            "amount": 188517.42,
+            "currency": "ARS",
+            "date": "2025-04-26",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Suministros"
+        },
+        {
+            "id": "62bc25f7-8c06-424b-8949-a4d32d06a019",
+            "amount": 215696.04,
+            "currency": "USD",
+            "date": "2025-09-07",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Publicidad"
+        },
+        {
+            "id": "7b65ee5e-e340-46da-b7bd-880685ba310e",
+            "amount": 103904.47,
+            "currency": "USD",
+            "date": "2025-04-10",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "a4ec1932-7df9-4d71-a50c-7c5046483445",
+            "amount": 81484.72,
+            "currency": "ARS",
+            "date": "2025-08-15",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "771b99f1-810b-43c4-81cb-54659c97276d",
+            "amount": 243685.79,
+            "currency": "ARS",
+            "date": "2025-07-14",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Transporte"
+        },
+        {
+            "id": "dbb7461a-b8ac-4f2e-a856-85eca6f41a3e",
+            "amount": 31554.54,
+            "currency": "ARS",
+            "date": "2025-04-13",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Alquiler"
+        },
+        {
+            "id": "cb8d5102-b995-47a1-a637-7789172c8a18",
+            "amount": 155650.06,
+            "currency": "USD",
+            "date": "2025-09-03",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "90fe8ba8-86ef-4a88-9f27-488584daa964",
+            "amount": 268758.92,
+            "currency": "ARS",
+            "date": "2025-05-04",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "e5d04110-883b-492c-b1e4-47aec971f34c",
+            "amount": 288709.45,
+            "currency": "USD",
+            "date": "2025-09-12",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Otros"
+        },
+        {
+            "id": "ebd18be6-fc05-41c1-8bdd-bdd99c15ad5c",
+            "amount": 148112.26,
+            "currency": "USD",
+            "date": "2025-08-21",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "d348067b-3933-4c11-bd27-2b598f64ea0c",
+            "amount": 37338.41,
+            "currency": "ARS",
+            "date": "2025-10-10",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Transporte"
+        },
+        {
+            "id": "0b3fb643-8251-4428-91ca-8554b65b57e8",
+            "amount": 238342.04,
+            "currency": "USD",
+            "date": "2025-12-04",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Otros"
+        },
+        {
+            "id": "aaefbe93-95f2-4888-bf87-be371b60f7a2",
+            "amount": 277658.2,
+            "currency": "ARS",
+            "date": "2025-09-14",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Consultoria"
+        },
+        {
+            "id": "22ae27ca-b376-4b5d-a0c4-1d5d4b7f06c5",
+            "amount": 295954.38,
+            "currency": "ARS",
+            "date": "2025-05-20",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Transporte"
+        },
+        {
+            "id": "1c2f3e59-8ec3-4830-b6c9-8fe4574b96ff",
+            "amount": 221150.4,
+            "currency": "USD",
+            "date": "2025-08-02",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Transporte"
+        },
+        {
+            "id": "8c3d8656-02cd-45a3-a2fa-2dbd24f26397",
+            "amount": 48759.19,
+            "currency": "ARS",
+            "date": "2025-09-09",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Logistica"
+        },
+        {
+            "id": "d225ba9d-7319-4bb8-aefa-2a5e47ee9475",
+            "amount": 239001.5,
+            "currency": "ARS",
+            "date": "2025-10-25",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "a99edd99-2860-43b8-87a6-529e8600ef97",
+            "amount": 198167.01,
+            "currency": "ARS",
+            "date": "2025-10-07",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "81544d4f-a626-43d1-899e-12bfe8c28e8a",
+            "amount": 43177.47,
+            "currency": "USD",
+            "date": "2025-08-12",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Consultoria"
+        },
+        {
+            "id": "e773dc74-3089-4004-98fd-1fcfc860f680",
+            "amount": 291579.38,
+            "currency": "USD",
+            "date": "2025-08-10",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Suministros"
+        },
+        {
+            "id": "7a3e8f35-ff25-47ce-a9a7-1beec1e7e7c7",
+            "amount": 106702.74,
+            "currency": "USD",
+            "date": "2025-10-18",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Publicidad"
+        },
+        {
+            "id": "bdf39f47-da54-48f7-92af-8964c2463849",
+            "amount": 154966.79,
+            "currency": "ARS",
+            "date": "2025-05-22",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Transporte"
+        },
+        {
+            "id": "7e2be618-bae0-435a-b9c5-2662afe58935",
+            "amount": 142012.9,
+            "currency": "ARS",
+            "date": "2025-07-07",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Otros"
+        },
+        {
+            "id": "627b6a77-6348-45da-99da-3f19ee271af8",
+            "amount": 180136.42,
+            "currency": "ARS",
+            "date": "2025-03-06",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Consultoria"
+        },
+        {
+            "id": "d1ac8eba-0e4c-4ec1-ac7c-d5d1307ecf49",
+            "amount": 110708.72,
+            "currency": "USD",
+            "date": "2025-05-25",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Transporte"
+        },
+        {
+            "id": "735d69ef-48ce-435d-ba50-fec9d49d8d54",
+            "amount": 125044.82,
+            "currency": "ARS",
+            "date": "2025-03-27",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "01ac859b-6763-46cb-b0bb-eb72bf1a2647",
+            "amount": 286582.02,
+            "currency": "USD",
+            "date": "2025-11-25",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Transporte"
+        },
+        {
+            "id": "c9dd73e6-b3dc-459d-854d-70a327968218",
+            "amount": 265528.13,
+            "currency": "USD",
+            "date": "2025-12-14",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "ee548b1a-6e33-4c1f-8162-69ab16112061",
+            "amount": 238122.88,
+            "currency": "USD",
+            "date": "2025-02-20",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Publicidad"
+        },
+        {
+            "id": "179e0cfb-9d62-4735-ad57-019064f4d425",
+            "amount": 236118.97,
+            "currency": "ARS",
+            "date": "2025-10-11",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Consultoria"
+        },
+        {
+            "id": "0bb3000b-af04-45c3-bdfa-510bac3ac609",
+            "amount": 12237.51,
+            "currency": "USD",
+            "date": "2025-05-09",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Publicidad"
+        },
+        {
+            "id": "a5493168-2d22-4c21-a3d6-446c87bd9102",
+            "amount": 142109.93,
+            "currency": "USD",
+            "date": "2025-12-14",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "afeb2320-275f-4aa6-9310-ee62e1ccc70e",
+            "amount": 70149.67,
+            "currency": "ARS",
+            "date": "2025-06-27",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Otros"
+        },
+        {
+            "id": "90e48a77-7c50-4629-8f8f-b91ecd8c23f7",
+            "amount": 182222.75,
+            "currency": "USD",
+            "date": "2025-11-15",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Otros"
+        },
+        {
+            "id": "e7553cc4-3bcd-4aae-9840-257bf18855c7",
+            "amount": 27681.3,
+            "currency": "USD",
+            "date": "2025-10-09",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "150951d3-4a41-4e74-841f-0e282fd16d8a",
+            "amount": 84253.01,
+            "currency": "ARS",
+            "date": "2025-12-13",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Suministros"
+        },
+        {
+            "id": "3256e88c-abee-4141-917d-8a948a3dc5b4",
+            "amount": 9294.9,
+            "currency": "ARS",
+            "date": "2025-06-15",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Transporte"
+        },
+        {
+            "id": "1f87f4f8-832a-4123-8354-230b11c2a959",
+            "amount": 28186.81,
+            "currency": "USD",
+            "date": "2025-07-16",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "c78f483b-932c-47db-bf0d-f5e8b3435d59",
+            "amount": 239485.8,
+            "currency": "ARS",
+            "date": "2025-09-08",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "f3ae0740-1322-4507-b98f-65c985b0e4a6",
+            "amount": 287536.81,
+            "currency": "ARS",
+            "date": "2025-03-10",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Suministros"
+        },
+        {
+            "id": "4ed323c3-fd62-4648-8ff7-fa1dcf12cbdc",
+            "amount": 266113.9,
+            "currency": "ARS",
+            "date": "2025-09-25",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "aa7e8b37-0d3c-44be-9ae9-6053866851a3",
+            "amount": 205764.91,
+            "currency": "ARS",
+            "date": "2025-02-16",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Publicidad"
+        },
+        {
+            "id": "49afb7c1-9e0e-4276-b566-4198ad1a3224",
+            "amount": 223857.07,
+            "currency": "USD",
+            "date": "2025-02-28",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Consultoria"
+        },
+        {
+            "id": "4233e5a5-5ec7-48f9-a3e7-7c352429edfc",
+            "amount": 224827.01,
+            "currency": "USD",
+            "date": "2025-08-31",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Publicidad"
+        },
+        {
+            "id": "557f8ee2-ffbc-4627-93c5-63e7f190d214",
+            "amount": 171622.64,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "dd49880a-ee1f-4246-b4d9-e443c6c4924f",
+            "amount": 33776.99,
+            "currency": "ARS",
+            "date": "2025-10-05",
+            "supplier_id": "e7e42217-7ac0-4385-b9b5-abf969009434",
+            "category": "Salarios"
+        },
+        {
+            "id": "b83d06d6-fc4b-48af-b421-787b40c46b30",
+            "amount": 166993.43,
+            "currency": "USD",
+            "date": "2025-06-28",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "4099b632-c966-41da-ab2c-68e7338a46f6",
+            "amount": 282420.17,
+            "currency": "ARS",
+            "date": "2025-09-29",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Logistica"
+        },
+        {
+            "id": "b4338a29-7b0c-45ab-9689-9ba8a5b27b58",
+            "amount": 11292.78,
+            "currency": "ARS",
+            "date": "2025-12-21",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Suministros"
+        },
+        {
+            "id": "c89d5010-fba6-40aa-b223-8ddec0a3afad",
+            "amount": 244693.57,
+            "currency": "USD",
+            "date": "2025-12-29",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Otros"
+        },
+        {
+            "id": "71a08db3-c6ef-451d-98a3-5d9259421cca",
+            "amount": 270551.54,
+            "currency": "USD",
+            "date": "2025-03-12",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "d602eee9-cff8-4de5-94cc-bdc280dd577c",
+            "amount": 15777.4,
+            "currency": "USD",
+            "date": "2025-09-19",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "fe46eb52-0311-417e-9476-0c84f1c91a88",
+            "amount": 146947.49,
+            "currency": "ARS",
+            "date": "2025-06-07",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "5e405e71-4ceb-457f-8835-e2eab48fdbfd",
+            "amount": 199421.49,
+            "currency": "ARS",
+            "date": "2025-08-30",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Alquiler"
+        },
+        {
+            "id": "1eaeddd0-c3a4-4e02-a836-ccc273b5947c",
+            "amount": 217249.68,
+            "currency": "ARS",
+            "date": "2025-05-12",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Consultoria"
+        },
+        {
+            "id": "2690f8d4-cecc-4b73-9c23-4e382f2387c6",
+            "amount": 62910.35,
+            "currency": "USD",
+            "date": "2025-12-26",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Consultoria"
+        },
+        {
+            "id": "803ee2e6-c334-448e-acc8-725db5a57f7a",
+            "amount": 163012.36,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Alquiler"
+        },
+        {
+            "id": "d9b75b42-b82c-4927-b6c3-652a8d1c71a3",
+            "amount": 59973.71,
+            "currency": "ARS",
+            "date": "2025-06-18",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Otros"
+        },
+        {
+            "id": "7c7c96dc-2f8b-4ed0-b7b9-1f614d63c914",
+            "amount": 249089.54,
+            "currency": "USD",
+            "date": "2025-02-13",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Alquiler"
+        },
+        {
+            "id": "940c2ad3-dd02-41ac-b3b3-524ce3234f41",
+            "amount": 56812.16,
+            "currency": "USD",
+            "date": "2025-09-14",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Otros"
+        },
+        {
+            "id": "b3cd9124-fbee-4ec0-94f9-e483af23ed96",
+            "amount": 245703.02,
+            "currency": "USD",
+            "date": "2025-06-02",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "afa0cf3f-aed8-42d5-947d-6f1c0cc7fd25",
+            "amount": 276317.51,
+            "currency": "ARS",
+            "date": "2025-06-22",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Alquiler"
+        },
+        {
+            "id": "253fec15-cdd1-4153-b50e-233811309075",
+            "amount": 209367.49,
+            "currency": "ARS",
+            "date": "2025-06-23",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Consultoria"
+        },
+        {
+            "id": "52b023cf-191d-4625-a344-221766ed732d",
+            "amount": 38399.66,
+            "currency": "USD",
+            "date": "2025-08-05",
+            "supplier_id": "5f591008-63da-4c8d-b9ab-7e856cae2837",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "983374fa-8ef4-4382-a784-0922f537006c",
+            "amount": 169940.73,
+            "currency": "ARS",
+            "date": "2025-03-25",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Logistica"
+        },
+        {
+            "id": "f94c7296-7566-4057-9734-9dce0fbfe04d",
+            "amount": 274215.15,
+            "currency": "ARS",
+            "date": "2025-03-21",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "1c5e504f-ce9f-44a6-b136-a6689b0c61fd",
+            "amount": 276549.98,
+            "currency": "USD",
+            "date": "2025-04-04",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Logistica"
+        },
+        {
+            "id": "63be5261-9da6-4991-bbfb-e795d4507c33",
+            "amount": 91560.88,
+            "currency": "ARS",
+            "date": "2025-04-05",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Consultoria"
+        },
+        {
+            "id": "e70c943f-96f7-42e1-95a2-eff79b29d845",
+            "amount": 137696.64,
+            "currency": "ARS",
+            "date": "2025-03-09",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "fe802a00-2625-4526-a4d8-929d7818c58b",
+            "amount": 270723.75,
+            "currency": "ARS",
+            "date": "2025-06-10",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Alquiler"
+        },
+        {
+            "id": "b26a7004-36d4-4888-82cf-e11f39fb4d73",
+            "amount": 216521.82,
+            "currency": "ARS",
+            "date": "2025-08-10",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Suministros"
+        },
+        {
+            "id": "155018f1-d290-4cb9-8a05-1d319042c45c",
+            "amount": 90477.79,
+            "currency": "USD",
+            "date": "2025-03-17",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "8a9e16c0-00d3-4bbe-8550-42daae8232a9",
+            "amount": 40473.43,
+            "currency": "USD",
+            "date": "2025-12-28",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "ab0cb24e-cc50-4f15-8c06-0fa51974aa48",
+            "amount": 290146.7,
+            "currency": "USD",
+            "date": "2025-10-24",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Otros"
+        },
+        {
+            "id": "98213809-9a5c-47e0-8577-f66a628f1157",
+            "amount": 116575.94,
+            "currency": "USD",
+            "date": "2025-12-28",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Publicidad"
+        },
+        {
+            "id": "ea7fb58b-0746-4db3-bf45-58d2a06dc469",
+            "amount": 147035.51,
+            "currency": "ARS",
+            "date": "2025-06-16",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Salarios"
+        },
+        {
+            "id": "c86daaff-c7ff-4307-bbb4-392dbcc8715f",
+            "amount": 246159.88,
+            "currency": "USD",
+            "date": "2025-04-10",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Salarios"
+        },
+        {
+            "id": "17750128-7961-46eb-8900-1031a285fbd7",
+            "amount": 286692.3,
+            "currency": "USD",
+            "date": "2025-07-05",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Publicidad"
+        },
+        {
+            "id": "68254f5e-aad2-4ccf-ad4e-1473b17ae49a",
+            "amount": 92686.95,
+            "currency": "ARS",
+            "date": "2025-01-17",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Salarios"
+        },
+        {
+            "id": "c29afcbf-0b79-49fc-b05a-6f120b95d242",
+            "amount": 254352.5,
+            "currency": "USD",
+            "date": "2025-08-28",
+            "supplier_id": "d7372bc1-5289-40c5-8184-8926d45e8548",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "cac74b4b-cb96-4050-82b7-e41cc2a493f9",
+            "amount": 189665.52,
+            "currency": "ARS",
+            "date": "2025-06-05",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "47d812d9-d41b-4313-ba87-b087105d58ed",
+            "amount": 189639.74,
+            "currency": "ARS",
+            "date": "2025-12-05",
+            "supplier_id": "0839410e-3082-4139-ae05-bb3a413707bc",
+            "category": "Consultoria"
+        },
+        {
+            "id": "925908ee-16c2-48bf-b05c-2885e974d5af",
+            "amount": 71204.31,
+            "currency": "ARS",
+            "date": "2025-11-08",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Logistica"
+        },
+        {
+            "id": "55234ecf-a386-4dae-93d1-42007dcc7264",
+            "amount": 215685.32,
+            "currency": "ARS",
+            "date": "2025-12-26",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Transporte"
+        },
+        {
+            "id": "37e6defa-57a6-49bd-a89a-06f7a46dad9f",
+            "amount": 249647.9,
+            "currency": "ARS",
+            "date": "2025-04-19",
+            "supplier_id": "8e0717da-b047-452d-9d5d-1ff762ccb200",
+            "category": "Salarios"
+        },
+        {
+            "id": "153b3276-9ca2-4bf5-931b-715c778f8d9c",
+            "amount": 134422.06,
+            "currency": "USD",
+            "date": "2025-08-26",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Consultoria"
+        },
+        {
+            "id": "635859ab-9954-4143-9746-e89a4bfe2ff8",
+            "amount": 123293.22,
+            "currency": "USD",
+            "date": "2025-01-30",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "ee94bc46-526c-4c63-93d3-1368878dd3a4",
+            "amount": 190230.94,
+            "currency": "USD",
+            "date": "2025-07-20",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Alquiler"
+        },
+        {
+            "id": "c84a8e2f-6fdf-4a15-b7b7-8eff8701b523",
+            "amount": 7234.08,
+            "currency": "USD",
+            "date": "2025-11-29",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "2c467f97-7f58-4303-9f4c-b161d6a87271",
+            "amount": 109408.58,
+            "currency": "ARS",
+            "date": "2025-06-13",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Logistica"
+        },
+        {
+            "id": "f9c765c8-7ea9-482b-ad14-702cce27a266",
+            "amount": 143571.3,
+            "currency": "ARS",
+            "date": "2025-11-17",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "f717a373-5308-48ad-80fd-6617c71ad3cd",
+            "amount": 114596.33,
+            "currency": "USD",
+            "date": "2025-01-29",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Suministros"
+        },
+        {
+            "id": "f69bfb23-c8ef-487d-9aea-94063fac771a",
+            "amount": 212417.06,
+            "currency": "USD",
+            "date": "2025-12-25",
+            "supplier_id": "65c1aa3a-4815-433c-86a2-c000ed148979",
+            "category": "Alquiler"
+        },
+        {
+            "id": "6782fef0-5f58-4c19-be11-f155446dc59e",
+            "amount": 47910.38,
+            "currency": "USD",
+            "date": "2025-08-19",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "33b1703b-ccbd-41d0-bcf0-486510552c44",
+            "amount": 248402.37,
+            "currency": "USD",
+            "date": "2025-10-27",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Servicios Publicos"
+        },
+        {
+            "id": "1ef25461-5d1b-47f5-a6f8-b6614c3d4cd2",
+            "amount": 255861.06,
+            "currency": "ARS",
+            "date": "2025-07-26",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Consultoria"
+        },
+        {
+            "id": "fbd910f4-a11f-4a66-9c43-78463a99bddc",
+            "amount": 171478.38,
+            "currency": "USD",
+            "date": "2025-11-12",
+            "supplier_id": "e46c40ae-b2b3-43e0-a03e-42a05f85bee8",
+            "category": "Publicidad"
+        },
+        {
+            "id": "8442092f-db0c-404a-89ce-597019b11ca6",
+            "amount": 172736.81,
+            "currency": "USD",
+            "date": "2025-01-22",
+            "supplier_id": "6b589878-cd32-4c2c-a706-9c926e4efb7f",
+            "category": "Salarios"
+        },
+        {
+            "id": "fa95c244-4ae3-4040-9e3d-5f7036985996",
+            "amount": 296051.65,
+            "currency": "USD",
+            "date": "2025-09-17",
+            "supplier_id": "6720b11c-fe1e-4088-ae9f-73878d8f9f45",
+            "category": "Mantenimiento"
+        },
+        {
+            "id": "ceed84e6-030b-4273-a829-88f86052ba86",
+            "amount": 4344.66,
+            "currency": "ARS",
+            "date": "2025-06-10",
+            "supplier_id": "c96ef314-14f8-4f4c-9d8b-c025b9208e69",
+            "category": "Suministros"
+        },
+        {
+            "id": "18145ca8-37d6-40cd-8785-3ebe31e84b4c",
+            "amount": 145241.82,
+            "currency": "ARS",
+            "date": "2025-01-05",
+            "supplier_id": "c09d304c-d949-43b6-a398-00191ae60e52",
+            "category": "Otros"
+        },
+        {
+            "id": "ee928324-1aa2-4ef3-b3ef-041daeeb8505",
+            "amount": 9645.38,
+            "currency": "USD",
+            "date": "2025-04-15",
+            "supplier_id": "8f2736a1-b3cd-428d-9881-4356475e2f59",
+            "category": "Mantenimiento"
+        }
+    ]
+}

@@ -44,15 +44,18 @@
 
 }
 .dashboard__chart-content {
-  width: 100;
   flex: 55%;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding: 8px;
+  display: flex;
 }
 
+.dashboard__medium-earnings {
+  flex: 25%;
+  border: 1px solid rgba(0, 73, 146, 1);
+}
 .dashboard__stats-container {
   width: 100;
   flex: 15%;
-  border: 1px solid red;
   padding: 8px;
 }

@@ -1,6 +1,8 @@
 import React from 'react'
 import "./Dashboard.css";
 import { InfoCards } from '../Cards/InfoCards';
+import { StatsCard } from '../Cards/StatsCard';
+import { Chart } from '../Chart/Chart';
 
 export const Dashboard = () => {
   return (
@@ -12,9 +14,14 @@ export const Dashboard = () => {
         </div>
         <div className='dashboard__news'>
           <InfoCards />
+        </div> 
+        <div className='dashboard__chart-content'>
+          <Chart />
+          <div className='dashboard__medium-earnings'> values</div>
         </div>
-        <div className='dashboard__chart-content'></div>
-        <div className='dashboard__stats-container'></div>
+        <div className='dashboard__stats-container'>
+          <StatsCard />
+        </div>
       </div>
     </div>
 

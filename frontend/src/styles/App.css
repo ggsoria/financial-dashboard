@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  background-color: rgba(0, 73, 146, 1);
+  display: flex;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

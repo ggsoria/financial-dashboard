@@ -1,0 +1,36 @@
+.statcards__container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 25px; 
+}
+
+.statcard {
+    background: linear-gradient(47.12deg, #004992 18.44%, #0076B8 61.78%);
+    border-radius: 8px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.statcard__info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.statcard__title {
+    font-size: clamp(8px, 4vw, 16px); 
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1);
+}
+
+.statcard__value {
+    font-size: clamp(20px, 4vw, 33px); 
+    font-weight: 700;
+    color: rgba(255, 255, 255, 1)
+}
+
+.statcard__icon {
+    align-items: center;
+    justify-content: center;
+}

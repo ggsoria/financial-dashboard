@@ -24,6 +24,15 @@ Luego, navega al directorio del proyecto:
 cd financial-dashboard
 ```
 
+El desarrollo esta en la rama dev , es necesario cambiarse a esa rama y traerse cambios si es necesario.
+```bash
+git checkout dev
+
+#si es necesario traer cambios
+git pull
+```
+
+
 #Configuración del Backend
 Navega a la carpeta del backend:
 

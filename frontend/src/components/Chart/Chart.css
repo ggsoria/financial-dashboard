@@ -6,6 +6,7 @@
     background-color: rgba(255, 255, 255, 1);
     padding: 40px;
     border-radius: 8px;
+    overflow:visible;
 }
 
 .chart-top-bar__container {
@@ -50,7 +51,7 @@
         flex-direction: row;
         flex-wrap: wrap;
         align-items: flex-start;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }    
   }
   

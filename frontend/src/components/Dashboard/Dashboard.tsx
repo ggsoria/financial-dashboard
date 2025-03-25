@@ -3,6 +3,7 @@ import "./Dashboard.css";
 import { InfoCards } from '../Cards/InfoCards';
 import { StatsCard } from '../Cards/StatsCard';
 import { Chart } from '../Chart/Chart';
+import { ValueCard } from '../Cards/ValueCard';
 
 export const Dashboard = () => {
   return (
@@ -15,9 +16,9 @@ export const Dashboard = () => {
         <div className='dashboard__news'>
           <InfoCards />
         </div> 
-        <div className='dashboard__chart-content'>
+        <div className='dashboard__main-content'>
           <Chart />
-          <div className='dashboard__medium-earnings'> values</div>
+          <ValueCard />
         </div>
         <div className='dashboard__stats-container'>
           <StatsCard />

@@ -45,6 +45,11 @@ npm install
 ```
 Crear la base de datos: Este proyecto requiere una base de datos PostgreSQL llamada 'financial-dashboard-db' que debe ser configurada previamente.
 Dentro de la carpeta backend crear un archivo .env con la siguiente estructura:
+```bash
+#dentro de la carpeta backend crear el archivo
+touch .env
+```
+El archivo es un archivo oculto, tener en cuenta esto a la hora de editarlo. Si no aparece buscar la opcion de ver archivos y carpetas ocultas.
 
 ```bash
 DB_USER=postgres

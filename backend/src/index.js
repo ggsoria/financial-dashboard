@@ -3,6 +3,7 @@ import { sequelize } from './database/database.js'
 import { configAssociations } from './database/tablesAsociations.js'
 import { loadData } from './database/seeder.js'
 import router from './routes/router.js'
+import cors from 'cors'
 // Models import
 import './models/Sales.js'
 import './models/Expenses.js'
@@ -12,6 +13,7 @@ import './models/Supplier.js'
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+app.use(cors())
 app.use(express.json())
 app.use(router)
 

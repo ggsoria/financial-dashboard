@@ -1,5 +1,5 @@
 import {Sales} from '../models/Sales.js'
-import { filterByCurrency, filterByDate } from '../services/filter.service.js';
+import { filterByCurrency, filterByDate, filterByGroupedDate } from '../services/filter.service.js';
 
 export const getAllSales = async (req, res) => {
     try {
@@ -76,7 +76,7 @@ export const getFilteredSales = async (req, res) => {
 
         const salesData = await Sales.findAll({ where: whereCondition });
         
-        let filteredData = dateFilter ? await filterByDate(dateFilter, salesData) : salesData;
+        let filteredData = dateFilter ? await filterByGroupedDate(dateFilter, salesData) : salesData;
 
         res.json(filteredData);
     } catch (error) {
@@ -84,3 +84,17 @@ export const getFilteredSales = async (req, res) => {
         res.status(500).json({ message: "Internal server error" });
     }
 };
+
+export const getSalesByDate =  async (req, res) => {
+    try {
+        const { startDate, endDate, currency } = req.query;
+        if (!startDate || !endDate) {
+            return res.status(400).json({ error: "startDate y endDate are required" });
+        }
+        const sales = await filterByDate(Sales, startDate, endDate, currency);
+        res.json(sales);
+    } catch (error) {
+        console.error("Error fetching sales:", error);
+        res.status(500).json({ message: "Internal server error" });
+    }
+}

@@ -2,10 +2,11 @@
     display: flex;
     flex-direction: row;
     column-gap: 25px;
+    height: 100%;
+    flex-wrap: wrap;
 }
 
 .card {
-    height: 110px;
     width: 388px;
     background-color: rgba(255, 255, 255, 1);
     border-radius: 8px;
@@ -56,3 +57,52 @@
     font-weight: 400;
     color: rgba(150, 150, 150, 1);
 }
+
+@media (max-width: 1440px) {
+    .cards__container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .card {
+        width: auto;
+        margin: 8px;
+    }
+
+    .card__info-container {
+        display: flex;
+        padding-left: 10px;
+        justify-content: space-between;
+        margin-right: 20px;
+    }
+
+
+}
+@media (max-width: 480px) {
+    .card__info-container {
+        display: flex;
+        flex-direction: row;
+        padding-left: 10px;
+        flex-wrap: wrap;
+    }
+    .card__value {
+        font-size: 32px; 
+        font-weight: 600;
+        color: rgba(26, 26, 26, 1);
+        margin-right: 20px;
+    }
+    
+    .card__title {
+        font-size: 22px;
+        font-weight: 500;
+        color: rgba(26, 26, 26, 1);
+        align-self: center;
+        margin-right: auto;
+    }
+    
+    .card__performance-container {
+        display: flex;
+        margin-right: auto;
+        /* margin-left: 20px; */
+    }
+  }

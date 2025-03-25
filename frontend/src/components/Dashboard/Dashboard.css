@@ -1,10 +1,13 @@
 .dashboard {
-  flex-grow: 1; 
+  flex-grow: 1;
   background-color: rgba(244, 250, 255, 1);
-  margin: 60px 27px 60px 2px;
+  margin: 60px 27px 60px 10px;
   border-radius: 30px;
   padding: 40px;
-
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
 }
 
 .dashboard__container {
@@ -12,10 +15,11 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  overflow: auto;
 }
 
 .dashboard__header {
-  flex: 15%;
+  flex: 10%;
   display: flex;
   flex-direction: column;
   justify-content: end;
@@ -38,24 +42,72 @@
 }
 
 .dashboard__news {
-  width: 100;
-  flex: 15%;
-  padding: 8px;
-
-}
-.dashboard__chart-content {
-  flex: 55%;
-  /* border: 1px solid red; */
+  height: 100%;
+  flex: 10%;
   padding: 8px;
   display: flex;
 }
 
-.dashboard__medium-earnings {
-  flex: 25%;
-  border: 1px solid rgba(0, 73, 146, 1);
+.dashboard__main-content {
+  flex: 60%;
+  padding: 8px;
+  gap: 45px;
+  display: flex;
 }
+
 .dashboard__stats-container {
-  width: 100;
   flex: 15%;
   padding: 8px;
 }
+
+
+@media (max-width: 1440px) {
+  .dashboard__main-content {
+    flex-direction: column; 
+  }
+}
+
+@media (max-width: 1024px) {
+  .dashboard {
+    background-color:rgba(244, 250, 255, 1);
+    border-radius: 30px;
+    padding: 0;
+    margin: 75px 0;
+  }
+
+  .dashboard__container {
+    /* background-color:rgba(244, 250, 255, 1); */
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    padding: 0;
+    margin: 0;
+  }   
+
+  .dashboard__main-content {
+    padding: 0 15px;
+  }
+
+  .dashboard__header {
+    background-color: rgba(0, 73, 146, 1);
+    padding: 15px;
+  }
+  
+  .dashboard__overline {
+    color: rgba(244, 250, 255, 1);
+    margin: 0;
+    font-weight: 700;
+    font-size: clamp(8px, 4vw, 16px); 
+  }
+  
+  .dashboard__title {
+    color: rgba(230, 237, 244, 1);
+    margin: 0;
+    font-size: clamp(16px, 4vw, 22px); 
+    font-weight: 700;
+  }
+
+  .dashboard__stats-container {
+    margin: 15px 10px 80px 10px;
+  }
+}  

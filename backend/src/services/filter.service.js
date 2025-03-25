@@ -1,26 +1,29 @@
-import { sequelize } from "../database/database.js";
+import { sequelize} from "../database/database.js";
 import { format } from 'date-fns';
 import { CURRENCY } from "../utils/enums.js";
+import { Op } from "sequelize";
 
 
-export const filterByDate = async (filter, data) => {
+export const filterByGroupedDate = async (filter, data) => {
     let groupedData = []
     let filterDate;
+    console.log(filter)
     switch (filter) {
-        case "day":
+        case "diario":
             filterDate = "yyyy-MM-dd";
             break;
-        case "week":
+        case "semanal":
             filterDate = "yyyy-ww"; 
             break;
-        case "month":
+        case "mensual":
             filterDate = "yyy-MM";
             break;
-        case "year":
+        case "anual":
             filterDate = "yyyy";
             break;
         default:
             return res.status(400).json({ message: "filter is not valid" });
+            // console.log("first")
     }
 
     const dateMap = {};
@@ -56,3 +59,16 @@ export const filterByCurrency = (currency) => {
 
     return currency ? { currency: currency.toUpperCase() } : {};
 }
+
+export const filterByDate = async (model, startDate, endDate, currency) => {
+    const whereCondition = currency.toUpperCase()
+
+    return await model.findAll({
+        where: {
+            date: {
+                [Op.between]: [startDate, endDate]
+            }, 
+            currency: currency ? whereCondition : {}
+        }
+    });
+};

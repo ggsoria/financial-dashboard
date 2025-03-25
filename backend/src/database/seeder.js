@@ -38,7 +38,7 @@ export const loadData = async () => {
 
     const expensesCount = await Expenses.count();
     if (expensesCount === 0) {
-      for (const expense of expensesData.expenses) { // Asumiendo que los datos están en un arreglo en el JSON
+      for (const expense of expensesData.expenses) {
         await Expenses.create({
           id: expense.id,
           amount: expense.amount,
@@ -55,7 +55,7 @@ export const loadData = async () => {
 
     const salesCount = await Sales.count();
     if (salesCount === 0) {
-      for (const sale of salesData.sales) { // Asumiendo que los datos están en un arreglo en el JSON
+      for (const sale of salesData.sales) { 
         await Sales.create({
           id: sale.id,
           amount: sale.amount,
